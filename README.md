@@ -1,4 +1,2 @@
 # GreenScreen
 Workshop Paper 
-
-Testing
