@@ -1,3 +1,5 @@
+"Gemini Credits Needed"
+
 import google.generativeai as genai
 import json
 import dataclasses
