@@ -1,0 +1,38 @@
+ou are an experienced climate educator. Your task is to produce a multiple-choice quiz based on the material in the following report. Each question should include a question, three answer options numbered 1-3, and an answer int indicating which of the options were correct.
+
+Rules
+
+The questions and answers must be grounded in the report. You are NOT ALLOWED to use external knowledge or resource.
+
+The questions must be relevant and have a certain depth to them. Asking "what is the figure cited in paragraph 2" is an example of an IRRELEVANT question.
+
+The questions must be stand-alone. You are NOT ALLOWED to create questions that reference such specific aspect of the report that they are unanswerable without the report as a reference.
+
+First, provide a reasoning for how you created the multiple-choice quiz. Then, generate 10 questions and format your response as a json object with the following schema:
+```json
+{
+    "type": "object",
+    "properties": {
+        "question": {
+            "type": "string"
+        },
+        "option_1": {
+            "type": "string"
+        },
+        "option_2": {
+            "type": "string"
+        },
+        "option_3": {
+            "type": "string"
+        },
+        "answer": {
+            "type": "integer"
+        }
+    }
+}
+```
+
+Report:
+"""
+
+"""

@@ -1,0 +1,65 @@
+[
+    {
+        "question": "What is the projected global mean temperature change for extreme hot days at 1.5°C global warming?",
+        "option_1": "About 2°C",
+        "option_2": "About 3°C",
+        "option_3": "About 4°C",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following regions is expected to experience the largest increase in the number of hot days as a result of global warming?",
+        "option_1": "High-latitude regions",
+        "option_2": "Tropics",
+        "option_3": "Temperate zones",
+        "answer": 2
+    },
+    {
+        "question": "How much lower is the global mean sea level rise projected to be at 1.5°C compared to 2°C by 2100?",
+        "option_1": "0.05 meters",
+        "option_2": "0.1 meters",
+        "option_3": "0.2 meters",
+        "answer": 2
+    },
+    {
+        "question": "At what global warming threshold are risks from droughts and precipitation deficits projected to be higher in some regions?",
+        "option_1": "1.5°C",
+        "option_2": "2°C",
+        "option_3": "3°C",
+        "answer": 2
+    },
+    {
+        "question": "Which factor will contribute to a continued rise in sea levels even after 2100?",
+        "option_1": "Continued glacier melting",
+        "option_2": "Marine ice sheet instability in Antarctica",
+        "option_3": "Global temperature stabilization",
+        "answer": 2
+    },
+    {
+        "question": "What is the projected range for global mean sea level rise by 2100 with 1.5°C of global warming?",
+        "option_1": "0.1 to 0.5 meters",
+        "option_2": "0.26 to 0.77 meters",
+        "option_3": "0.5 to 1.0 meters",
+        "answer": 2
+    },
+    {
+        "question": "What is the projected change in the frequency of heavy precipitation events at 2°C compared to 1.5°C?",
+        "option_1": "Heavy precipitation will decrease",
+        "option_2": "Heavy precipitation will increase in several regions",
+        "option_3": "There will be no change in heavy precipitation",
+        "answer": 2
+    },
+    {
+        "question": "What is the projected change in the intensity of temperature extremes on land with 2°C global warming compared to 1.5°C?",
+        "option_1": "Warming of extreme hot days by up to 4°C",
+        "option_2": "Warming of extreme hot days by up to 3°C",
+        "option_3": "No change in extreme hot days",
+        "answer": 1
+    },
+    {
+        "question": "Which region is projected to experience higher risks from heavy precipitation events at 2°C compared to 1.5°C?",
+        "option_1": "Northern hemisphere high-latitude regions",
+        "option_2": "Equatorial regions",
+        "option_3": "Desert regions",
+        "answer": 1
+    }
+]
