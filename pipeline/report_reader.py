@@ -28,6 +28,7 @@ class ReportReader:
         text = text.replace("\n", " ")
         text = re.sub(r"ﬁ", "fi", text)  # Fix fi ligature
         text = re.sub(r"ﬂ", "fl", text)  # Fix fl ligature
+        text = re.sub(r"f", "f", text)
         text = re.sub(r"–", "-", text)  # Replace en dash with hyphen
         text = re.sub(r"—", "-", text)  # Replace em dash with hyphen
         text = re.sub(r"“|”", '"', text)  # Replace curly quotes with straight quotes
@@ -43,6 +44,16 @@ class ReportReader:
         text = text.replace("%", "\\%")
         text = text.replace("{", "\\{")
         text = text.replace("}", "\\}")
+        text = text.encode("utf-8", "ignore").decode("utf-8")
+        text = text.replace("&", "and")
+        text = text.replace("−", "-")
+        text = text.replace("f", "f")
+        text = text.replace("r", "r")
+        text = text.replace("a", "a")
+        text = text.replace("m", "m")
+        text = text.replace("e", "e")
+        text = text.replace("a", "a")
+
         return text
 
     def get_labeled_sections(self, text):

@@ -1,0 +1,927 @@
+[
+    {
+        "question": 1,
+        "reasoning": "Page 1 states 'People use most of the land - more than 70'",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "Page 3 states 'It can soak up some bad gases (like a sink). But it also makes some bad gases (like a source).'",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "Page 4 states 'Farming uses about 70% of all the fresh water we use!'",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "Page 5 states 'We now have way more vegetable oil and meat than before! (More than twice as much!)'",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "Page 5 states 'But... a lot of food gets wasted! About 25-30'",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "Page 6 states 'About a quarter of the playground that's not covered in ice is getting hurt because of things people do.'",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "This information is not contained in the provided text.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "This information is not contained in the provided text.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "Page 6 states 'A lot of people, like 500 million, live in areas that have turned into deserts since the 1980s. Many are in Asia and Africa.'",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "Page 8 states 'The land is getting much warmer than the whole Earth.' and page 9 'The land (where we live) has gotten much warmer than the whole Earth (including the oceans). The land got about 1.5 degrees Celsius warmer. The whole Earth got about 0.9 degrees Celsius warmer.'",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The text mentions increased heat events and increased droughts, but not decreased intensity of heavy precipitation events. Instead, it indicates that when it rains, it can rain super hard sometimes.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The text states that satellites show some places are getting greener, and overall, the Earth is getting greener, implying a widespread greening trend.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text explains that the greening is due to a longer growing season, the use of fertilizer, an increase in CO2, and land management.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The text explicitly says that dust storms are happening more often and are stronger lately, indicating an increase.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text states that when it's too hot and there is not enough rain, the land can become like a desert. Desertification is caused by climate change, like it getting hotter and drier.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text mentions that farming and land use were responsible for about 23% of all bad gases.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text says that land can soak up bad gases like a sink, so it acts as a net sink, not a source.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The text explains that cutting down forests releases CO2, called deforestation, which is the main reason for carbon emissions from land use.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The text indicates that over time since 1990 there hasn't been a clear change in CO2 leaking from the land, but other data about methane show increasing trend",
+        "answer": 1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text explains that more CO2 in the air makes plants grow more and soak up more CO2; however, climate change can also make the land release CO2, meaning both enhancements and counteracting forces exist, depending on other factors such as melting permafrost.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "Page 19 states that climate change can cause the land to release CO2, especially as permafrost melts.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The document does not contain specific details comparing the methods used by global models and national GHG inventories.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "Page 17 states that from 2007-2016, farming and land use was responsible for about 23% of all bad gases made.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "Page 19 mentions the land absorbs some of the extra CO2, acting as a sink, but also releases CO2 under specific conditions like permafrost thaw.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The document states that if we count all the steps in making food, it could be responsible for 21-37% of the bad gases made, but does not specify the contribution of emissions within the farm gate and from agricultural land expansion.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "Page 22 states that most new methane is coming from living things like cows, where cows burp out methane, and growing rice also produces it.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "Page 23 states that people are making more N2O than before, especially from farms and land use.",
+        "answer": 1
+    },
+    {
+        "question": 8,
+        "reasoning": "The report does not explicitly state whether emissions from agricultural production will increase, decrease or remain the same.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "Page 26 indicates land cover changes can have both warming and cooling effects, where changes release CO2 (warming effect), and some changes made the land reflect more sunlight (cooling effect), and the net result is small.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "Page 25 mentions that land cover change can make big storms or heat waves worse, or even last longer.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "Page 28 mentions that in cold places, winter is getting warmer, meaning winter warming is enhanced, and it also says that more water in the air cools the summer.",
+        "answer": 1
+    },
+    {
+        "question": 2,
+        "reasoning": "Page 29 says that when deserts grow, less plants will exist meaning vegetation cover will decrease and bare ground can let out gases that make the Earth warmer.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "Page 27 states that changes to land, such as the presence of trees, can impact heatwaves, implying they have a direct impact.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "Page 31 says cities get extra warm like an oven, and this is worse at night. Page 25 and 27 state that land changes can make heatwaves worse.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "Page 61 describes SSP1 as a pathway with fewer people, careful land use, food made without much pollution and no waste of food.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "Page 61 describes SSP3 as a pathway with many people, careless land use, and not making food cleanly, this implies high challenges to mitigation and adaptation.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "Page 16 mentions that a warmer Earth makes it harder to grow food in some places, impacting food security, and page 6 mentions how climate change can make things much harder for people who live in damaged areas.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "Page 61 implies that SSP1 is a better pathway than SSP3 in terms of how it effects the land.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "Page 14 says that dry places are getting bigger as the earth warms, and page 13 defines desertification as land becoming like a desert.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "Page 10 states that heatwaves are happening more often and lasting longer, and page 34 indicates that heatwaves will get hotter more often and those hot days will last longer.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "Slide 35 states 'As Earth gets warmer, these zones will move closer to the North and South Poles.'",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "Slide 38 mentions 'If the Earth gets a little warmer (1.5 degrees), lots of people (178 million) will have trouble finding water.' and on slide 32 it says 'More droughts and less water in some places'. Slide 15 states 'More rain can cause big floods and wash away the soil' and Slide 19 states 'Climate change can also make the land release CO2, especially as the frozen soil (permafrost) melts.'",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "Slide 37 states 'Even when we can grow food, the air with too much bad stuff in it can make it less healthy for us to eat.'",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "Slide 16 states 'Climate change also makes it easier for bugs and diseases to hurt our crops.' and 'This makes it harder to grow food in some places.'",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "Slide 40 states 'Climate change can make people move from their homes.'",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "Slide 41 says 'This bad care can cost us money, like if plants don't grow or soil gets washed away.'",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "Slide 43 says 'These changes can cause problems like: Not enough food for everyone, Not enough water for everyone, More gases that warm the Earth, Less space for animals and plants.'",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "Slide 43 mentions 'Not enough food for everyone, Not enough water for everyone, More gases that warm the Earth, Less space for animals and plants.' and slide 45 'If we don't take care of the land, we might see more: Less trees and plants. More fires. More floods by the sea.'",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "Slide 44 states 'This means, having less people, using less water, and being clever about water, makes water problems smaller in dry areas.'",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "Slide 45 states 'If there are too many people using the land, it gets worse faster.'",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The report discusses issues with food security, but does not include lower incomes as a direct risk factor, rather it states 821 million people are still hungry, implying poverty.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The report mentions that as cities grow, they sometimes take over farmland, indicating that urban expansion will lead to a conversion of cropland.",
+        "answer": 1
+    },
+    {
+        "question": 3,
+        "reasoning": "The report mentions that land-related responses can help both get ready for changes and slow down the world from getting too hot, suggesting that it contributes to both adaptation and mitigation.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "The report indicates it's hard to implement actions due to lack of money, tools and know-how, therefore large barriers exist.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "The report lists 'growing food in a good way, taking care of forests and trees, and not wasting food' as super moves, indicating that all of the above actions contribute to adaptation, mitigation, and sustainable development.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "The report refers to both quick solutions like protecting forests and slow solutions like planting new ones, so there are response options that take different times to deliver measurable results.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "The report states that how we help the Earth depends on where it is and what's important to the people there, meaning that consideration of local environmental and socio-economic conditions is required.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The report says 'the sponge gets full' implying that trees and soil can't store carbon forever.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The report indicates that response options can compete for land, highlighting the need for careful land management.",
+        "answer": 1
+    },
+    {
+        "question": 10,
+        "reasoning": "The report explicitly states if we use too much land, it can lead to issues such as less space for animals, more deserts, and less food indicating that it leads to adverse side effects for adaptation.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The report states that there are some limits on the effectiveness of land based mitigation measures",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The report says that biomass can have both good and bad effects",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "The report mentions that SSP1 uses a small amount of bioenergy",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The report notes that avoiding desertification helps with adaptation and has mitigation co-benefits",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "The report includes both water harvesting and land restoration as solutions",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "Measures to combat desertification promote soil carbon sequestration",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The report says sustainable land management can prevent land degradation and maintain productivity",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The report notes land degradation can be addressed with sustainable land management",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The report does not mention the specific sequestration potential of cover crops. ",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The report states that reducing deforestation lowers GHG emissions.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The report states on page 49, that a super move is 'Growing food in a good way (sustainable farming)'. No information suggests it decreases so the answer is option 2.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "Page 15 states, 'Climate change, caused by too much heat, can make our playground messy!' leading to various forms of degradation.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "Page 49 highlights the super moves, including sustainable farming, taking care of forests, and planting more trees, all contributing to adaptation and mitigation.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The report mentions on page 54, that Smarter Farming means helping the soil be healthy so it can grow more food, and a 'Soil Superpower' is helping soil hold onto more carbon, suggesting option 2 is correct.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The report on page 72 states: 'Mix it Up! Growing lots of different foods helps us deal with climate change'. This suggests it reduces risk.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The report suggests on page 73, that food waste contributes to the earth's problems, implying that reducing it would lower emissions and also help in adaptation.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "Page 78 states, 'These plans need us to change very quickly... We need to change how we use energy, land, and our cities... These plans can still help us reach a cooler Earth' indicating the future depends on decisions.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "Page 75 states 'To do that, we need to use the land more to help, like planting lots of trees.' implying land based mititgation and land use change.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "Page 76 states 'If we try really hard to keep warming low (1.5 or 2 degrees), we might have more forest by 2050... If we don't try so hard and it gets hotter (3 degrees), we might lose some forest'. This suggests that higher warming level pathways will have less land based mititgation than lower.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "Page 76 states that keeping warming low to 1.5 or 2 degrees we may have more forest by 2050.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "Page 77 states that if we keep the earth cool (1.5C warmer), we need a lot of land for energy plants. For the 2 degree scenario, it says 'we need less land'. Therefore the 1.5 scenario uses more bioenergy.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "Page 1 states 'People use most of the land - more than 70'",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "Page 1 says land provides 'food, water, and lots of other good things'.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "Page 2 states 'We use a lot of what this garden grows, about 1/4 to 1/3, for things like food, animal feed, clothes and wood'",
+        "answer": 1
+    },
+    {
+        "question": 5,
+        "reasoning": "Page 3 states land can 'soak up some bad gases' (sink) but it 'also makes some bad gases' (source).",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "Page 4 says 'Since 1961, we've been using lots more land and water', which includes population growth and changes in consumption.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "Page 4 states 'Farming uses about 70% of all the fresh water we use!'",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "Page 5 states 'But... a lot of food gets wasted! About 25-30'",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "Page 6 states 'About a quarter of the playground that's not covered in ice is getting hurt because of things people do.'",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "This information is not available in the document.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that 'Climate change, like it getting hotter and drier, makes this even worse in some places' and also that 'About a quarter of the playground that's not covered in ice is getting hurt because of things people do', so both contribute.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "The text states 'The land got about 1.5 degrees Celsius warmer' while 'The whole Earth got about 0.9 degrees Celsius warmer'.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text indicates that 'This warming is making food harder to grow', and 'It's also hurting the plants and animals that live on land', so both are impacted.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "The text states 'Heatwaves: Like really, really hot days, are happening more often, and lasting longer in many places'.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text mentions 'Some places like parts of North America and Asia are seeing fewer plants' which is vegetation browning. It also mentions parts of Asia, Europe having more plants or greening.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text mentions 'This is because the growing season is longer, we use fertilizer, and there's more of a special gas in the air that helps plants grow (CO2)'.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text states 'dust storms are happening more often and are stronger', so both frequency and intensity have increased.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The text mentions 'When it's too hot and there's not enough rain, the land can become like a desert', indicating both factors contribute to desertification.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "The text mentions 'Dry places are getting bigger' and that 'This warming is like moving the weather zones around', so both shifts in climate zones and expansion of arid zones are occurring.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "The text mentions 'More rain can cause big floods and wash away the soil' which are land degradation processes.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "Slide 16 states that 'This makes it harder to grow food in some places,' and 'For example, crops like corn and wheat don't grow as well in some warm places now.' and 'But in some cooler places, these crops grow a little better!' indicating warming has affected crop yields in both lower and higher latitudes.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "Slide 17 says 'This was about 23% of all bad gases we made' with 'This' referring to 'farming and land use' which is the same as 'Agriculture, Forestry, and Other Land Use'",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "Slide 17 states 'It absorbed about 29% of the CO2 we made'",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "Slide 18 states 'When we cut down forests, it's like squeezing the sponge and releasing CO2 into the air. This is called deforestation' and 'When we plant new trees, it's like soaking the sponge and taking CO2 out of the air. This is called afforestation and reforestation.'",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "Slide 19 states 'Some of the extra CO2 makes plants grow more (like a fertilizer!), which helps them soak up more CO2.' and 'Warmer temperatures are also giving plants longer growing times in some places, so they can soak up more CO2 too.' and 'BUT! Climate change can also make the land release CO2, especially as the frozen soil (permafrost) melts.' indicating the balance between these processes is a source of uncertainty",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "The slides do not mention the uses of global models and national GHG inventories. So the answer cannot be determined from the provided context.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "Slide 22 states 'Most of the new methane is coming from living things, like cows.'",
+        "answer": 1
+    },
+    {
+        "question": 8,
+        "reasoning": "Slide 22 states 'Cows burp out methane and growing lots of rice also makes it.'",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "Slide 23 states 'People are making more N2O than before, especially from farms and land use' and slide 17 says farming and land use is responsible for 81% of N20 emissions.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "The slides refer to emissions from land use change (slide 21, 24) and agricultural emissions (slide 17), which combine to make up the global food system.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "Slide 17 mentions food might be responsible for 21-37% of all the bad gases we make, which includes emissions within the farm gate and from agricultural land expansion.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "Slide 25 mentions that land changes can make weather hotter or colder depending on the location, and slide 26 says that changes can lead to warming or cooling. Slide 27 states that land conditions affect weather and can make heatwaves hotter or big rainstorms more often and that these changes can affect weather far away.",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "Slide 26 mentions human activities have released extra CO2, and slide 26 says human activities have made the land reflect more sunlight. Therefore, human activities have led to a net release of CO2.",
+        "answer": 1
+    },
+    {
+        "question": 4,
+        "reasoning": "Slide 27 states that changes in land can affect weather far away and references how it can lead to heatwaves getting hotter and last longer, and can make big rainstorms happen more often.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "Slide 30 states that when snow cover decreases, it's like wearing a dark shirt in the sun, which makes winter warmer.",
+        "answer": 1
+    },
+    {
+        "question": 6,
+        "reasoning": "Slide 29 mentions that when deserts grow, the ground lets out some gases that make the Earth warmer, thus amplifying global warming.",
+        "answer": 1
+    },
+    {
+        "question": 7,
+        "reasoning": "Slide 30 says more trees in tropical regions mean more water going into the air, cooling the land. This enhanced evapotranspiration leads to cooling.",
+        "answer": 1
+    },
+    {
+        "question": 8,
+        "reasoning": "Slide 31 states that cities can get extra warm and that urbanization changes how much sun the land reflects, enhancing warming in and around cities.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "Slide 110 explains the term SSPs is for Shared Socioeconomic Pathways.",
+        "answer": 1
+    },
+    {
+        "question": 10,
+        "reasoning": "Slide 61 mentions that some ways of living are like being a super helpful farmer (SSP1), suggesting a lower challenge in both mitigation and adaptation.",
+        "answer": 1
+    },
+    {
+        "question": 1,
+        "reasoning": "SSP3 is described as less helpful with many people, not being careful with the land and not making food cleanly.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "The SSPs describe different ways our 'trip' could go based on how much we work together to take care of the planet. This includes climate change mitigation and adaptation.",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "Increases in global mean surface temperature lead to heatwaves, droughts, and changes in weather patterns that affect all of these.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "Changes in land-based processes can lead to both food system issues and livelihood impacts for people that depend on the land.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "Socio-economic choices can either reduce or exacerbate risks depending on the types of choices made.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "SSP1 is described as being a super helpful farmer with fewer people, being careful with the land, and making food without much pollution.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "Slide 6 states that many people in areas that have turned to desert since the 1980's are in Asia and Africa.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "Changes in climate can lead to reduced crop productivity and reduced livestock productivity.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "Changes in climate can amplify both environmentally and socially induced migration.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "Unsustainable land management leads to negative environmental impacts like desertification and negative economic impacts by reducing productive land.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The text mentions that climate change risks depend on both the level of warming and land management practices.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "The text states that higher demand for food, feed and water leads to higher risks from water scarcity and food insecurity.",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "The document implies that increases in population and income result in increased demand for both food and water.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "The document indicates that risks related to water scarcity depend on both population growth and adaptive capacity.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "Risks related to climate-change-driven land degradation are higher in pathways with low adaptive capacity.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "Risks related to food security are greater in pathways with lower incomes.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The document indicates that urban expansion is a cause of the conversion of cropland.",
+        "answer": 1
+    },
+    {
+        "question": 8,
+        "reasoning": "The text explicitly mentions that land-related responses can contribute to both climate change adaptation and mitigation.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "The text mentions that many land-related actions contribute to both adaptation and mitigation.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "The text mentions that conservation of high carbon ecosystems is a response option with immediate impacts.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The text doesn't specify what successful implementation of response options depend on, but it talks about how to deal with climate change which is usually dependent on both local environmental and socio economic conditions.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "Page 52 states 'But, the sponge gets full! Trees and soil can't store carbon forever.' This implies that land-based carbon sequestration options do not continue to sequester carbon indefinitely.",
+        "answer": 1
+    },
+    {
+        "question": 3,
+        "reasoning": "Many slides mention the need to help our planet which would include sustainability as well as achieving societal goals, for example ensuring food security.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "Many slides discuss actions for land management without mention that they necessarily require land change or more land conversion.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "Many slides discuss desertification and climate adaptation as well as halting biodiversity loss in relation to activities for combating desertification, so all of the above is the best answer.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "Measures to combat desertification include methods to improve soil carbon sequestration and promote natural vegetation restoration. Slides discuss both of these as tools for combatting desertification. ",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "Many slides discuss that measures to promote land degradation neutrality include eradicating poverty and ensuring food security.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "Many slides discuss that developing, enabling and promoting access to cleaner energy sources and technologies contribute to mitigating climate change and combating desertification.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "Sustainable land management includes preventing land degradation and maintaining land productivity and other related practices.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "The text mentions that growing green manure crops and crop residue retention are management options to reduce vulnerability to soil erosion and nutrient loss. ",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that agroforestry helps store CO2. It also speaks of soil loss from farming, meaning agroforestry helps with erosion.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "The text frequently mentions that cutting down trees releases CO2 into the atmosphere which increases greenhouse gas emissions. Therefore reducing deforestation would lower emissions.",
+        "answer": 1
+    },
+    {
+        "question": 3,
+        "reasoning": "The text states that forests soak up carbon dioxide and that when trees are cut down, CO2 is released into the air. Sustainable forest management would maintain both the stocks and sinks.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "The text mentions that climate change can lead to land degradation and can make it harder for people to live in dry areas, which is a limit to adaptation.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "The text talks about response options, from production to consumption, to stop the world from getting too hot and also implies adaptation to changes. Therefore, it can advance both adaptation and mitigation.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "The text mentions that good soil management stores carbon, which means increasing soil organic matter. It also mentions that different management techniques such as crop rotation can reduce greenhouse gasses.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "The text indicates that food systems need many types of plants and animals and that when one crop fails, there needs to be alternatives. This also indicates that diversification can also hedge against market fluctuations.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The text indicates food waste makes the earth warmer, so lowering the waste will lower GHG emissions, and mentions that good farming practices are part of adaptation, so reducing food waste does the same.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "The text talks about the need to reduce bad gases, which implies both land based mitigation and land-use change.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "The text mentions bioenergy, and also refers to needing to capture bad air implying carbon capture.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The document does not directly state what appropriate design of policies contributes to, but it broadly discusses land related adaptation and mitigation.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The document does not specifically list land use zoning and spatial planning as instruments for achieving positive outcomes.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The document mentions insecure land tenure can be an issue for people to take care of the land and make positive change, implying it affect both individuals and communities.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "The document talks about the goal of achieving land degradation neutrality will likely involve avoiding, reducing and reversing land degradation",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "The document doesn't specify results of a mix of policies.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The document does not explicitly state outcomes for policies operating across the food system.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The document mentions empowering women and access to markets as ways to help, but does not specifically say it is about policies that enable sustainable land management",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The document mentions reflecting environmental costs of practices encourages good farming. However, it doesn't speak to any negative outcomes like reduced productivity or increased costs.",
+        "answer": 1
+    },
+    {
+        "question": 9,
+        "reasoning": "The document does not provide information on how to facilitate adaptation and resilience.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The document does not discuss public health policies, but it mentions eating healthy food is good for the body and the planet.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The text on slide 91 explicitly mentions co-benefits and trade-offs as a way to overcome challenges.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "The information on slides 6 and 45 implies an integrated approach assists in both, especially considering that land degradation leads to desertification and food insecurity.",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "Slide 93 mentions barriers to implementation which could be technical or biophysical.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "Slide 91 states that when making rules about land and food it can help in more than one way, by showing co-benefits and also implying there could be co-risks if not planned correctly.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "The text on slide 91 explicitly discusses trade-offs as a possible result and we can infer social impacts from the context.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "The text on slides 87 and 96 mentions the importance of the involvement of local stakeholders and indigenous people.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "The text on slide 51 and 106 says that different parts of the world need different care and it depends on the location.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The document does not explicitly state this relationship, therefore, I cannot infer an answer.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "Slide 108 states farmers using special knowledge passed down for years can help us fight climate change and grow enough food.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "Slide 109 implies that when women are included it will help with food production and caring for the land.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The document states that the earth is getting warmer and this warming affects food systems and land. It mentions rapid reductions in GHG to be good in many places. Thus, both land and food systems are affected",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "The document suggests that a warmer earth is not sustainable and will damage land.  Delaying responses would lead to increased negative impact, decreasing prospect of sustainable development. Thus both are true.",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "The document explains that delayed action makes land based adaptation needed more as the problem increases, while at the same time, reducing potential mitigation options, meaning both are true.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "The document states that deferring action will cause more problems in the future, so will be more costly and risky.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "The document implies that loss of ecosystem function and service are both caused by GHG emissions.",
+        "answer": 3
+    }
+]

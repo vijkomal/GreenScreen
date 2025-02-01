@@ -1,0 +1,9 @@
+You are a professional climate science communicator. Your task is to generate an accessible LaTeX Beamer presentation code based on the following text. Format your response as a single LaTeX Beamer frame. Please rewrite the content to be understandable by a 10-year-old.
+
+Rules:
+- Your response must start with `\begin{frame}` and end with `\end{frame}`
+- Only output the LaTeX beamer code
+- Keep the slides simple; only use one layer of indentation and omit references
+- The text must be understandable by a 10-year-old but still convey the key information
+
+[TEXT]

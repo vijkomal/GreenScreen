@@ -1,0 +1,11 @@
+You are a professional climate science communicator. Your task is to generate an accessible LaTeX Beamer presentation code based on the following text. The presentation should only visualize numbers or clear quantitative data. For any numerical information, consider visualizing it with appropriate elements like a LaTeX bar graph, pie chart, or flow chart. Avoid visualizing abstract concepts, labels (such as confidence intervals), or non-numerical data.
+
+Rules:
+- Your response must start with `\begin{frame}` and end with `\end{frame}`.
+- Only output the LaTeX Beamer code.
+- Use simple slides with minimal layout complexity (e.g., one layer of indentation).
+- Visual elements should only replace textual references to numbers (proportions, values, statistics, etc.), not concepts, explanations, or non-quantitative information.
+- Avoid any unnecessary large graphs for small data sets; if the information is simple, represent it concisely.
+- Use column layouts where appropriate to maintain clarity and balance between text and visuals.
+
+[TEXT]

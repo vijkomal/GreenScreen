@@ -1,0 +1,822 @@
+[
+    {
+        "question": 1,
+        "reasoning": "The text states that if we stop adding warm water (CO2), the water level stops rising, meaning temperature stops increasing. This implies that reductions in greenhouse gas emissions would slow down global warming.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The text states that if things keep warming up like they are, it might reach 1.5 degrees warmer between 2030 and 2052.",
+        "answer": 1
+    },
+    {
+        "question": 3,
+        "reasoning": "The text says 'Humans have made the Earth about 1 degree Celsius warmer' and 'Scientists are pretty sure it's between 0.8 and 1.2 degrees warmer.'",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The text mentions that 'The very top of the pizza, called the Arctic, is getting super hot, even two or three times hotter than the average!'",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text states that 'It's unlikely the Earth will get more than 0.5 degree Celsius warmer in the next 20-30 years from these past actions.'",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text uses an analogy of a bathtub, and states 'If we stop adding more warm water (CO2), the water level stops rising (temperature stops increasing)'. Achieving net zero would stop further warming.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "The text says 'A little fever (1.5\u00b0C) is worse than now, but not as bad as a bigger fever (2\u00b0C)', and also indicates that various risks are worse with 2 degrees warming compared to 1.5 degrees.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The text mentions that 'Some damage might stay forever, like some animals and plants disappearing' which is a long-lasting or irreversible impact, and that 'Going a little over 1.5 degrees and then back down is not as good as just staying at 1.5 degrees'.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The text uses an analogy of a bathtub, where 'The highest the water level gets depends on how much water we poured in *before* we stopped', indicating a relationship between cumulative CO2 emissions and temperature.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The text states 'If the Earth warms up a little (1.5 degrees), the hottest days in many places will get about 3 degrees hotter!'",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The document states that the coldest nights in cold places could warm up 4.5 to 6 degrees with a global warming of 1.5 degrees or 2 degrees. There is no information on how much warmer it will be with 1.5 degrees of global warming specifically, but it will be in that range.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The document indicates that in some places, there will be less rain and more droughts if it warms more, which refers to the difference between 1.5 and 2 degrees of warming. So the risk will be higher at 2 degrees.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The document states that if we warm the Earth by 2 degrees the sea level will rise about 10 cm (0.1 meter) more than if we warm the earth by 1.5 degrees. Thus, by 2100, global mean sea level rise would be around 0.1 meter lower for 1.5 degrees compared to 2 degrees.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The document mentions that even after 2100 the ocean will keep rising regardless of the warming amount. ",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "The document states that if the Earth gets too warm, ice sheets can melt fast, and this melting would make the ocean rise a lot, maybe even by many meters.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The document says that if the fever is small (1.5 degrees), it's better for animals and plants. If the fever is bigger (2 degrees), more animals and plants could disappear.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The document mentions that problems like big fires are less bad if the Earth warms less, implying lower risk of forest fires at 1.5\u00b0C compared to 2\u00b0C.",
+        "answer": 1
+    },
+    {
+        "question": 8,
+        "reasoning": "The document indicates that less warming means the ocean won't rise as fast, which implies that the increase in ocean temperature and acidity will be less at 1.5 degrees compared to 2 degrees.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The document doesn't mention anything about the probability of a sea ice free arctic, thus it can't be determined.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The document doesn't mention the percentage reduction in coral reefs at 1.5C of global warming.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that coral reefs go from risky to super risky between 1.5\u00b0C and 2\u00b0C of warming, but there's no specific percentage for 2\u00b0C. Based on a general knowledge, I know that the loss can be more than 99% at such a level of warming.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The text discusses the impact of rising temperatures on oceans and suggests that the oceans get warmer when the Earth gets warmer. While not explicitly saying it's ocean acidification, it's the related concept.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The provided document doesn't contain specific information regarding the decrease in global annual catch for marine fisheries at 1.5\u00b0C compared to 2\u00b0C.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The document mentions that people with less money, some native groups, and farmers near the ocean are in danger due to global warming.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text indicates that if the sea rises less, about 10 million fewer people could be in danger of flooding, suggesting that limiting global warming could reduce the number of people exposed to climate-related risks.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text states that global warming can make people sick more easily, with too much heat causing health problems and increased spread of diseases.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The document suggests that with warmer temperatures, our food might be a little less, and if it gets even warmer, we might have even less food. So, limiting to 1.5 will lead to smaller net reductions.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The text says that if it warms up just a little, up to 50% fewer people around the world might have problems with not enough water.",
+        "answer": 1
+    },
+    {
+        "question": 9,
+        "reasoning": "The document says that it is better if the bath only gets a little warmer, 1.5\u00b0C, and countries will not have as much money if it gets too warm.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The document explains that with an increase in global warming, more people in Africa and Asia might get hit by problems like heat waves and floods, which will make it harder to get food and water, therefore, more people will be exposed to poverty.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "Slide 28 states that 'Unique and special places: like coral reefs, go from risky to super risky between 1.5\u00b0C and 2\u00b0C of warming.'",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "Slide 28 states that 'Crazy weather: like big storms, go from a little risky to very risky between 1\u00b0C and 1.5\u00b0C of warming.'",
+        "answer": 1
+    },
+    {
+        "question": 3,
+        "reasoning": "Slide 29 suggests that adaptation needs are greater with 2 degrees vs 1.5 degrees of warming.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "Slide 30 states 'We can take care of nature, plant trees, and stop hurting forests. We can help animals by protecting their homes. We can be smart about how we farm fish.'",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "Slide 29 mentions that 'If it warms up just a little (1.5 degrees), we'll need to change our lives a bit less. If it warms up more (2 degrees), we'll need to change a lot more'. This suggests that as global warming increases, adaptation becomes more challenging.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The document doesn't explicitly address this relationship. Therefore we have to assume that it's not explicitly addressed in the content, so the answer is -1",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "Slide 49 mentions that 'Most plans show the pile needs to be less than 35 blocks in 2030. Some show it needs to be between 25 and 30 blocks. This means making the pile about half the size it was in 2010!' This equates to a reduction of about 50%, and since 45 is closest, it's the best option.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "This specific information is not provided in the text, therefore the answer is -1",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "This specific information is not provided in the text, therefore the answer is -1",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "Slide 31 mentions that we need to lower methane and black soot by a lot by 2050. This indicates a decrease.  Of the options, only number 2 indicates a decrease, and it's by 35% or more, thus number 2 is the correct option.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text on page 31 states that aerosols are cooling us down, so if they go away it will feel warmer.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "Page 7 states 'If we stop adding more warm water (CO2), the water level stops rising (temperature stops increasing)' so limiting emissions is required.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "Page 32 mentions 'We've already used up a lot of our piggy bank since factories started (about 2200 big units!)'",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The text does not specify this",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The text does not specify this",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "Page 33 says 'Also, it won't stop the oceans from getting too acidic'",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text does not specify this",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The text does not specify this",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The text does not specify this",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "Page 37 says 'If we want to avoid the worst warming, factories need to make 65-90% less CO2 by 2050 than they did in 2010.'",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "Slide 37 describes methods to reduce CO2 from factories, including electrification, hydrogen, etc.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The provided slides do not contain specific information on the projected electricity share of energy demand in buildings in 2050.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The slides mention that we need to change how we use land, potentially using less land for growing food for animals and more for growing trees (Slide 39)",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The provided slides do not contain specific information on land use transitions in 1.5 and 2 degree pathways.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "Slide 40 states that to keep Earth from getting too hot (1.5 degrees at most), we need to spend about 830 billion dollars a year on energy.",
+        "answer": 1
+    },
+    {
+        "question": 6,
+        "reasoning": "The slides do not contain any information about marginal abatement costs.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "Slide 42 defines Carbon Dioxide Removal as taking out 'bad air' to keep the Earth from getting too warm. Slide 45 mentions to 'come back down, we need to take out lots of the bad air, more than we are still putting in'",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The slides state on slide 44 that BECCS could be used a little in 2030, more by 2050 and a lot by 2100. No specifics are given to the exact range.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The slides state on slide 44 that trees farming could be used to help take away CO2. No specifics are given to the exact range.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "Slide 45 states 'To come back down, we need to take out lots of the bad air, more than we are still putting in'",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text discusses the impacts of CDR measures in relation to land use (page 39), as well as on the need for water and energy (page 46)",
+        "answer": 1
+    },
+    {
+        "question": 2,
+        "reasoning": "AFOLU-related CDR measures such as planting trees or fixing land are related to healthier soil, habitat for species and local food (pages 17, 47).",
+        "answer": 1
+    },
+    {
+        "question": 3,
+        "reasoning": "This document does not specify global emissions by 2030. The text mentions that if things keep going like this, the earth will get too hot by 2030 and that there is a goal of releasing less bad gasses by 2030 (page 48, 49) but does not quantify the global emissions.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text mentions that if we continue as we are, the Earth will get much hotter (about 3 degrees warmer by 2100) (page 49), which exceeds the 1.5 degree target.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text mentions that if we go over 1.5 degrees, it's harder to get back down and we would need special tools to cool the Earth very fast which might be hard to make work (page 50).",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text describes that if we wait too long to stop pollution, things will get harder and cost more, like getting stuck with old technology, and countries will have a harder time playing fair (page 51).",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text consistently states that keeping warming to 1.5\u00b0C rather than 2\u00b0C is better and lessens impacts for everyone and the planet (pages 8, 14, 15, 18, 21, 24, 26, 41, 52).",
+        "answer": 1
+    },
+    {
+        "question": 8,
+        "reasoning": "The text explains that the United Nations has goals (called SDGs) which include stopping poverty, making things fair, and taking action on climate (page 53).",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The text explains that we should help everyone and make the world fair, not just focus on technology, rules or money(pages 54, 55, 66).",
+        "answer": 1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text emphasizes the importance of different things like technology, finance, government, and changing our habits, to help keep the earth cooler (pages 55, 67).",
+        "answer": 1
+    },
+    {
+        "question": 1,
+        "reasoning": "The text mentions that 'We can do things to help! These are called \"adaptation\"' which is closely tied to increasing investment in social infrastructure",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The text highlights that some actions to help could use more water, thus increasing water use.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text says 'It's like changing almost EVERYTHING! This has never happened before, but we CAN do it quickly!' which aligns with rapid, systemic transitions.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The text mentions that changes can help with other things too, like making cleaner air, which is a form of synergy.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text suggests that if actions are carefully done, many good things can happen. 'If we keep the Earth from getting too hot (1.5 degrees warmer), lots of good things happen!'",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "The text discusses the Sustainable Development Goals (SDGs) but does not specify which ones have robust synergies in 1.5\u00b0C pathways. Therefore, the correct answer is not available from the provided text.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The text highlights that using less energy and changing habits is a better option to make the Earth cooler, 'If we choose the low energy path, we have a better chance to keep Earth cool and happy!'",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The text lists several changes that need to be done such as moving money and making rules. These are not only technological innovation.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The text doesn't provide any information about how international cooperation effects mitigation. Thus, the correct answer is not available from the provided text.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text explicitly states: 'If things keep warming up like they are, it might reach 1.5 degrees warmer between 2030 and 2052!'",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "Page 2 states 'The Earth is getting about 0.2 degrees warmer every ten years now!'",
+        "answer": 1
+    },
+    {
+        "question": 2,
+        "reasoning": "Page 3 mentions the Arctic is getting super hot, even two or three times hotter than the average, and also states land parts of the pizza are getting hotter faster than the ocean parts.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "Page 5 says, 'Even if we stop adding blankets *today*, the Earth will stay warmer for a very, very long time. Think hundreds or even thousands of years!'",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "Page 7 states 'If we stop adding more warm water (CO2), the water level stops rising (temperature stops increasing).'",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "Page 8 states 'A little fever (1.5\u00b0C) is worse than now, but not as bad as a bigger fever (2\u00b0C).'",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "Page 10 states 'Going a little over 1.5 degrees and then back down is not as good as just staying at 1.5 degrees. Especially if the temperature gets really high!'",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "Page 55 describes mitigation and adaption as the two main things to help reduce warming.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "Page 7 describes how the highest water level depends on the amount of water poured in before stopping, indicating the maximum temperature is dependent on the cumulative CO2 emissions.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "Page 11 states 'If the Earth warms up a little (1.5 degrees), the hottest days in many places will get about 3 degrees hotter!'",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "Page 11 states 'Also, the coldest nights in cold places will get much warmer too. They could warm up 4.5 to 6 degrees!'",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "Slide 12 states that in some places there will be less rain and more droughts if it warms more, implying that at 2\u00b0C risks will be higher compared to 1.5\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "Slide 12 indicates that in some places there will be much MORE rain and bigger floods if it warms more, suggesting that heavy precipitation will be higher at 2\u00b0C in some regions.",
+        "answer": 1
+    },
+    {
+        "question": 3,
+        "reasoning": "Slide 13 indicates that sea level will rise a little more by about 10cm if the Earth warms by 2 degrees instead of 1.5 degrees. 10cm is 0.1 meters. The question is asking about the rise at 1.5 degrees compared to 2 degrees.",
+        "answer": 1
+    },
+    {
+        "question": 4,
+        "reasoning": "Slide 13 mentions that even after 2100, the ocean will keep rising, regardless of whether warming is limited to 1.5\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "Slide 15 indicates that instabilities in marine ice sheets could be triggered if the Earth warms by about 1.5 to 2 degrees.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "Slide 13 mentions that if the Earth warms more by 2 degrees the water level will rise a little more. The higher the sea level, the higher the associated risks.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "Slide 17 states if the fever is bigger (2 degrees), more animals and plants could disappear. Therefore, impacts are projected to be lower at 1.5\u00b0C.",
+        "answer": 1
+    },
+    {
+        "question": 8,
+        "reasoning": "Slide 18 specifies that if the Earth gets a little warmer (1.5\u00b0C), 6% of bugs, 8% of plants, and 4% of vertebrates could lose half their homes.",
+        "answer": 1
+    },
+    {
+        "question": 9,
+        "reasoning": "Slide 19 indicates that if warming is kept at 1.5 degrees, the area at risk of ecosystem change would be much less than at 2 degrees. It would be like half as many neighborhoods changing.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "Slide 20 mentions that tundra and boreal forests are in danger because it's getting warmer.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text on page 20 states 'If the Earth gets a little warmer (1.5 degrees), less ice under the ground will melt. But if it gets a lot warmer (2 degrees), much more ice will melt'. This means preventing more thawing is associated with the 1.5 degree target",
+        "answer": 1
+    },
+    {
+        "question": 2,
+        "reasoning": "Page 21 states 'If we make it just a little bit warmer (1.5 degrees), bad things will start to happen.' followed by 'If we make it even warmer (2 degrees), these bad things will get even worse!'",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text provided does not contain information on the likelihood of sea ice free Artic during summer at 1.5\u00b0C versus 2\u00b0C",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text provided does not specify the number of sea ice-free Arctic summers per century at 1.5\u00b0C warming.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "Page 10 states 'Going a little over 1.5 degrees and then back down is not as good as just staying at 1.5 degrees. Some damage might stay forever'. This implies some effects will be irreversible",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text provided does not contain specific information on what will happen to many marine species at 1.5\u00b0C warming.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The text provided does not contain explicit information about the impacts of ocean acidification due to increasing CO2 concentrations.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "Page 21 states 'If we make it just a little bit warmer (1.5 degrees), bad things will start to happen.' followed by 'If we make it even warmer (2 degrees), these bad things will get even worse!'",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "Page 21 states 'If we make it just a little bit warmer (1.5 degrees), bad things will start to happen.' followed by 'If we make it even warmer (2 degrees), these bad things will get even worse!'",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "Page 22 states 'People with less money, some native groups, and farmers near the ocean are in danger'.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The text indicates that a little fever (1.5\u00b0C) is worse than now but not as bad as a bigger fever (2\u00b0C), implying lower risks at 1.5\u00b0C than at 2\u00b0C.",
+        "answer": 1
+    },
+    {
+        "question": 2,
+        "reasoning": "The text mentions that sicknesses like malaria and dengue fever could become more common and spread to new areas if it gets warmer, suggesting an increase with warming.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text states that if it gets a little bit warmer (1.5 degrees), our food might be a little less, and if it gets even warmer (2 degrees), we might have even less food, meaning smaller reductions at 1.5C.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The text indicates that up to 50% fewer people might have problems with not enough water if warming is limited to 1.5 degrees, compared to a higher temperature, meaning reduced water stress.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text states that countries around the world might not have as much money if it gets too warm, implying that limiting warming to 1.5C will result in lower economic risks.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text indicates that if it gets 2 degrees warmer, things get even trickier, with food, water and energy problems happening in the same places, making it harder to live well.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The provided text does not contain information on assessed risk levels since AR5, so the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The text suggests that if it warms up just a little (1.5 degrees), we'll need to change our lives a bit less, and if it warms up more (2 degrees), we'll need to change a lot more. This implies lower adaptation needs at 1.5\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The text says 'There are many things we can do to make living with a warmer world easier.' and mentions different kinds of adaptation actions",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The text states that if we can keep the earth from getting too hot (aiming for 1.5 degrees instead of 2), it will be like turning the heat down a little. Less warming means the ocean won't rise as fast, implying adaptation is more challenging at 2\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text discusses impacts of 1.5 degrees and 2 degrees of warming, it does not discuss adaptive capacity",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The text mentions the need to release much less of the bad gases into the air by 2030, and it says most plans show the pile needs to be about half the size it was in 2010. Therefore the answer would be about 50%, or 45% if we consider a decline.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text does not specify when net zero CO2 emissions are reached. It only mentions reducing emissions a lot by 2050.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text does not discuss specific reductions of non-CO2 emissions relative to the 2 degree warming scenarios",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The text states different ways we can make things cleaner by using electricity, hydrogen, and plants instead of oil and gas. This implies that different portfolios of mitigation measures are possible.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text mentions the need to lower some 'bad' gases like methane and black soot, indicating both are reduced.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "The text mentions a 'carbon piggy bank' and implies that CO2 emissions need to be limited so we don't use it all up. ",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The text says 'Scientists think we have about 580 units left if we want a 50'",
+        "answer": 1
+    },
+    {
+        "question": 9,
+        "reasoning": "The text says 'This is called Solar Radiation Modification, or SRM for short. But, we don't know a lot about how it will work! It might have some bad side effects we don't know about.' and 'Also, it won't stop the oceans from getting too acidic.' and this implies it is not included in pathways",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The text says 'To keep it just right (not too hot), we need to make some BIG changes.' and 'It's like changing almost EVERYTHING! This has never happened before, but we CAN do it quickly!' so they must be rapid and far-reaching.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The slides mention that to keep warming under 1.5 degrees requires big changes really quickly, and that these changes have never been done this quickly before, implying unprecedented scale and speed.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "The slides do not explicitly say that energy service demand will be met with lower energy use in 1.5C pathways, it only says we need to use energy in smarter ways.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The text does not make a comparison of projected renewable use in 1.5\u00b0C vs. 2\u00b0C pathways.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text does not mention a specific range for renewables share of electricity in 2050 in 1.5\u00b0C pathways.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The text mentions that to avoid the worst warming, factories need to make 65-90% less CO2 by 2050 than they did in 2010, which means emissions would be 65-90% lower.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The provided text does not discuss urban and infrastructure system transitions.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The text says we might need to use less land for growing food for animals and more for growing trees, but not necessarily a reduction of agricultural land for food.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The text indicates that to keep Earth from getting too hot, it's necessary to spend about 830 billion dollars a year on energy. It mentions that we need to spend 6 times more money on clean energy by 2050 which means investments would be higher than without these policies, not lower.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The text doesn't mention marginal abatement costs and their comparison between 1.5\u00b0C and below 2\u00b0C pathways.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text says we need to take out a lot of bad air (carbon dioxide), maybe 100 to 1000 big truckloads over the next 100 years, which is on the order of 100-1000 GtCO2.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "Slide 43 lists examples like planting trees, fixing land, BECCS, air vacuums, and rock help.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "Slide 44 mentions that BECCS might be used a little in 2030, more by 2050, and a lot by 2100, but does not provide numerical values.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "Slide 45 explains that pathways that go over 1.5 degrees need to take out more bad air later than they are still putting in to come back down.",
+        "answer": 1
+    },
+    {
+        "question": 4,
+        "reasoning": "Slide 46 says that CDR methods need land, water, and energy like farms and if we do too much it could hurt other things like growing food.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "Slide 46 states that it's better to use lots of different methods that help a little, rather than one big thing that could cause problems.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "Slide 47 mentions that planting trees and plants makes soil healthier which is great for growing food and also helps animals and plants live together.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "Slide 49 states that most plans show the pile of bad gases needs to be less than 35 blocks in 2030. Some plans need the pile to be between 25-30. It also shows that the current trend will cause 3C warmer in 2100.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "Slide 49 states that if we keep going as we are the Earth will get much hotter, about 3\u00b0C warmer by 2100. Therefore, current mitigation ambitions would not limit global warming to 1.5C.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "Slide 48 says that we need to start slowing down a lot sooner than 2030.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "Slide 49 states that we need to release much less of the bad gases by 2030, therefore they must show reductions.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The report states that plans that allow the Earth to get a little warmer at first, but then we cool it back down quickly are called overshoot. It implies that these carry risks.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The text mentions that waiting too long to stop pollution will make things much harder, also waiting costs more money and is like getting stuck with old toys.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text repeatedly highlights that a 1.5\u00b0C warming scenario is better than 2\u00b0C, with less impacts on food, health, ecosystems and sea level rise. Therefore, the impacts will be greater with 2\u00b0C.",
+        "answer": 1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text explains that mitigation and adaptation are needed to address climate change, and also that we need to try to do multiple good things together, so we should maximize synergies and minimize trade-offs.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "The report mentions that the United Nations has goals, called SDGs which are for stopping poverty, making things fair, and taking action on climate. They provide a framework for these links.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text argues that the effects of climate change are not the same for everyone and that we need to be fair when making changes, which means ethics and equity can address the uneven distribution of adverse impacts.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text only says that the plans look at how we use energy, and does not discuss that mitigation and adaptation is related to or undermined by enabling conditions.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The report mentions that there are many things we can do to adapt, and it also says 'If we choose the right adaptations, it can be good for everyone', which suggests they must be carefully selected with enabling conditions.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "The text mentions that when we make changes, it can give us more food, water and health, and that when we chose the right adaptations, they can be good for everyone. This suggests they have synergies.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The text mentions that projects to help with warmer weather might use more water or cause more pollution.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text emphasizes that climate change is a global issue requiring coordinated efforts, implying that siloed approaches would be ineffective.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The text mentions synergies (good things helping another good thing) and trade-offs between climate action and things like food/water availability.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text talks about SDGs but does not directly link them to 1.5\u00b0C pathways. Therefore, it's not possible to answer this question.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text promotes the use of less energy to keep Earth cool, which aligns with low-energy demand pathways.",
+        "answer": 2
+    }
+]

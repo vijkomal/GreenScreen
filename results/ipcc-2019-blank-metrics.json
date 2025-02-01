@@ -1,0 +1,8 @@
+{
+    "content_metrics": {
+        "accuracy": 0.04,
+        "precision": 0.25,
+        "recall": 0.03,
+        "f1": 0.05
+    }
+}

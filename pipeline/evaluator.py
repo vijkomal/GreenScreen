@@ -56,6 +56,7 @@ class Evaluator:
         results = []
         step_size = 10
         for i in range(0, len(questions), step_size):
+            print("Querying 10 samples...")
             curr = questions[i : i + step_size]
             prompt = get_prompt("exam-question-initial.prompt", [])
             prompt += "\n\n"
@@ -78,7 +79,7 @@ class Evaluator:
             results.extend(json_response)
 
             # Slight delay
-            time.sleep(0.1)
+            time.sleep(5)
 
             # Save every stepsize
             save_json(results, results_path)
@@ -150,7 +151,7 @@ class Evaluator:
             json.dump(results_data, file, indent=4)
         print(f"Saved results and metrics to {results_path}")
 
-    def run(self, questions: list, report: Report):
+    def run(self, questions: list, report: Report, readability=True):
         results_id = report.display_name.lower().replace(" ", "-")
 
         # Get content question answers
@@ -158,11 +159,19 @@ class Evaluator:
 
         # Compute metrics
         content_metrics = self.calculate_metrics(questions, content_results)
-        readability_metrics = self.evaluate_readability(report.text)
 
-        # Save results
-        self.save_results(
-            results_id,
-            ["content_metrics", "readability_metrics"],
-            [content_metrics, readability_metrics],
-        )
+        if readability:
+            readability_metrics = self.evaluate_readability(report.text)
+
+            # Save results
+            self.save_results(
+                results_id,
+                ["content_metrics", "readability_metrics"],
+                [content_metrics, readability_metrics],
+            )
+        else:
+            self.save_results(
+                results_id,
+                ["content_metrics"],
+                [content_metrics],
+            )

@@ -1,0 +1,822 @@
+[
+    {
+        "question": 1,
+        "reasoning": "The report states that deep, rapid and sustained reductions in greenhouse gas emissions would slow down global warming.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The report mentions that global warming is likely to reach 1.5\u00b0C between 2030 and 2052 if the current rate of warming continues.",
+        "answer": 1
+    },
+    {
+        "question": 3,
+        "reasoning": "The report indicates that human activities have caused approximately 1.0\u00b0C of global warming above pre-industrial levels.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The text notes that warming in the Arctic is two to three times higher than the global average.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The report specifies that anthropogenic emissions up to the present are unlikely to cause further warming of more than 0.5\u00b0C over the next two to three decades.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The report mentions that reaching and sustaining net zero global anthropogenic CO2 emissions would halt anthropogenic global warming on multi-decadal time scales.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "The report clearly states that climate-related risks are higher at 2\u00b0C than at 1.5\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The text indicates that long-lasting or irreversible impacts such as the loss of some ecosystems can result if global warming exceeds 1.5\u00b0C before returning to that level by 2100.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The document explains that the maximum temperature reached is determined by cumulative net global anthropogenic CO2 emissions.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The report states that extreme hot days in mid-latitudes warm by up to about 3\u00b0C at global warming of 1.5\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "Extreme cold nights in high latitudes are projected to warm by up to about 4.5\u00b0C at 1.5\u00b0C of global warming.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "Risks from droughts and precipitation deficits are projected to be higher at 2\u00b0C compared to 1.5\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "By 2100, global mean sea level rise is projected to be around 0.1 metre lower with global warming of 1.5\u00b0C compared to 2\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "Sea level rise will continue beyond 2100 even if global warming is limited to 1.5\u00b0C.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "Marine ice sheet instability in Antarctica and/or irreversible loss of the Greenland ice sheet could result in multi-metre rise in sea level.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "Impacts associated with species loss and extinction are projected to be lower at 1.5\u00b0C of global warming compared to 2\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "Impacts associated with forest fires are lower at 1.5\u00b0C compared to 2\u00b0C of global warming.",
+        "answer": 1
+    },
+    {
+        "question": 8,
+        "reasoning": "Limiting global warming to 1.5\u00b0C compared to 2\u00b0C is projected to reduce increases in ocean temperature as well as associated increases in ocean acidity.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "There is high confidence that the probability of a sea ice-free Arctic Ocean during summer is substantially lower at global warming of 1.5\u00b0C when compared to 2\u00b0C.",
+        "answer": 1
+    },
+    {
+        "question": 10,
+        "reasoning": "Coral reefs are projected to decline by a further 70-90% at 1.5\u00b0C.",
+        "answer": 1
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that coral reefs are projected to decline by 70-90% at 1.5C, but greater losses (>99%) at 2C.",
+        "answer": 1
+    },
+    {
+        "question": 2,
+        "reasoning": "The text states that ocean acidification due to increasing CO2 concentrations associated with global warming is projected to amplify the adverse effects of warming.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text states that one global fishery model projects a decrease of 1.5 million tonnes at 1.5C compared to a loss of 3 million tonnes at 2C.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The text states that populations at disproportionately higher risk include disadvantaged and vulnerable populations, some indigenous peoples, and local communities dependent on agricultural or coastal livelihoods.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text indicates that limiting warming to 1.5C could reduce the number of people exposed by up to several hundred million by 2050, compared to 2C.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text states that any increase in global warming is projected to affect human health, with primarily negative consequences.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text states that limiting warming to 1.5\u00b0C compared with 2\u00b0C is projected to result in smaller net reductions in yields of maize, rice, wheat.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The text states that limiting warming to 1.5C compared to 2C may reduce the proportion of the world population exposed to increased water stress by up to 50%.",
+        "answer": 1
+    },
+    {
+        "question": 9,
+        "reasoning": "The text states that risks to global economic growth are projected to be lower at 1.5C compared to 2C.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The text states that exposure to climate-related risks increases between 1.5C and 2C, with greater proportions of people both exposed and susceptible to poverty in Africa and Asia.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "According to the text on page 11, the risk transition for RFC1 between 1.5\u00b0C and 2\u00b0C is from high to very high.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "According to the text on page 11, the risk transition for RFC2 between 1\u00b0C and 1.5\u00b0C is from moderate to high.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "According to the text on page 10, most adaptation needs are lower for global warming of 1.5\u00b0C compared to 2\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "According to the text on page 10, the adaptation options include ecosystem-based adaptation, ecosystem restoration and avoided degradation and deforestation, biodiversity management, sustainable aquaculture, and local and indigenous knowledge.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "According to the text on page 10, the limits to adaptive capacity become more pronounced at higher levels of warming, indicating adaptation becomes more challenging.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "According to the text on page 10, the limits to adaptive capacity exist at 1.5\u00b0C of global warming and become more pronounced at higher levels of warming.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "According to the text on page 12, in model pathways with no or limited overshoot of 1.5\u00b0C, global net anthropogenic CO2 emissions decline by about 45% from 2010 levels by 2030.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "According to the text on page 12, in model pathways with no or limited overshoot of 1.5\u00b0C, global net anthropogenic CO2 emissions reach net zero around 2050.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "According to the text on page 12, non-CO2 emissions in pathways that limit global warming to 1.5\u00b0C show deep reductions similar to those in pathways limiting warming to 2\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "According to the text on page 12, in modelled pathways that limit global warming to 1.5\u00b0C with no or limited overshoot, methane and black carbon emissions are reduced by 35% or more by 2050 relative to 2010.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The report states that non-CO2 emissions include cooling aerosols that partially offset mitigation effects for two to three decades.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The report mentions that the maximum temperature reached is determined by the total cumulative global anthropogenic CO2 emissions up to the time of net zero emissions.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The report indicates that by the end of 2017, anthropogenic CO2 emissions had reduced the total carbon budget by approximately 2200 \u00b1 320 GtCO2.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The report notes that the choice of global temperature measure (GMST or global mean surface air temperature) affects the estimated remaining carbon budget.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The report states that potential carbon release from future permafrost thawing and methane release would reduce budgets.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The report states that solar radiation modification measures do not mitigate ocean acidification.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The report states that pathways limiting warming to 1.5\u00b0C show system changes that are more rapid and pronounced over the next two decades than in 2\u00b0C pathways.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The report projects that renewables are projected to supply 70-85% of electricity in 2050 in 1.5\u00b0C pathways.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The report projects that in 1.5\u00b0C pathways with limited overshoot, gas is projected to supply approximately 8% of global electricity in 2050, with the use of CCS.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The report projects that CO2 emissions from industry in 1.5\u00b0C pathways are projected to be 65-90% lower in 2050 relative to 2010.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text mentions 'Electrification, hydrogen, sustainable bio-based feedstocks, product substitution, and carbon capture, utilization and storage (CCUS)' as methods to reduce CO2 emissions from industry.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The text says 'the electricity share of energy demand in buildings would be about 55-75% in 2050'",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text says that pathways that limit global warming to 1.5\u00b0C project a 'reduction of non-pasture agricultural land and increase in forest land'",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The text says 'Land-use transitions of similar magnitude can be observed in modelled 2\u00b0C pathways'",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text mentions 'estimated to be around 830 billion USD2010'",
+        "answer": 1
+    },
+    {
+        "question": 6,
+        "reasoning": "The text states 'They are roughly 3-4 times higher than in pathways limiting global warming to below 2\u00b0C'",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text says 'CDR would be used to compensate for residual emissions and, in most cases, achieve net negative emissions'",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The text states 'BECCS deployment is projected to range from 0-1 GtCO\u2082 yr-1 in 2030'",
+        "answer": 1
+    },
+    {
+        "question": 9,
+        "reasoning": "The text says 'AFOLU related CDR measures are projected to remove 0-5 GtCO\u2082 yr-\u00b9'",
+        "answer": 1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text says 'Pathways that overshoot 1.5\u00b0C of global warming rely on CDR exceeding residual CO2 emissions later in the century to return to below 1.5\u00b0C by 2100'",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that CDR measures can impact land, energy, water and nutrients.",
+        "answer": 1
+    },
+    {
+        "question": 2,
+        "reasoning": "The report mentions that some AFOLU-related CDR measures have co-benefits such as improved biodiversity, soil quality, and local food security.",
+        "answer": 1
+    },
+    {
+        "question": 3,
+        "reasoning": "The text indicates that current nationally stated mitigation ambitions would lead to global greenhouse gas emissions of 52-58 GtCO2eq yr-1 by 2030.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The text explicitly states that pathways reflecting current ambitions would not limit global warming to 1.5\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text indicates that overshoot trajectories result in higher impacts and associated challenges.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text states that delayed actions include the risk of cost escalation, lock-in in carbon-emitting infrastructure, stranded assets, and reduced flexibility in future response options.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text mentions that avoided climate change impacts would be greater if global warming were limited to 1.5\u00b0C rather than 2\u00b0C.",
+        "answer": 1
+    },
+    {
+        "question": 8,
+        "reasoning": "The report identifies the United Nations Sustainable Development Goals (SDGs) as an established framework for assessing links between global warming and development goals.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The text specifies that core aspects of climate-resilient development pathways include social justice and equity.",
+        "answer": 1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text lists strengthened governance, policy instruments, technological innovation, and changes in human behavior and lifestyles as enabling conditions.",
+        "answer": 1
+    },
+    {
+        "question": 1,
+        "reasoning": "The document mentions \"Increasing investment in physical and social infrastructure\" as a key enabling condition to enhance resilience and adaptive capacities of societies.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The text states that 'Adaptation... can increase...water use' if poorly designed, suggesting it as a potential trade-off.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text indicates that 'A mix of adaptation and mitigation options... can enable rapid, systemic transitions in urban and rural areas'.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The document says that 'Adaptation options that also mitigate emissions can provide synergies and cost savings'.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text mentions that mitigation options consistent with 1.5\u00b0C pathways are associated with multiple synergies and trade-offs across the Sustainable Development Goals and the net effect will depend on the pace and magnitude of changes.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The document specifies '1.5\u00b0C pathways have robust synergies particularly for the SDGs 3 (health), 7 (clean energy), 11 (cities and communities), 12 (responsible consumption and production) and 14 (oceans)'.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "According to the text, '1.5\u00b0C pathways that include low energy demand...have the most pronounced synergies and the lowest number of trade-offs'.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The text states that 'policy instruments... as well as accompanying measures' and also mentions 'market and non-market based instruments' can facilitate system transitions.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The document specifies 'Both national innovation policies and international cooperation can contribute to the development, commercialization and widespread adoption of mitigation and adaptation technologies'.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The text states that 'Global warming is likely to reach 1.5\u00b0C between 2030 and 2052 if it continues to increase at the current rate'.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that estimated anthropogenic global warming is currently increasing at 0.2\u00b0C per decade.",
+        "answer": 1
+    },
+    {
+        "question": 2,
+        "reasoning": "The text indicates that warming is being experienced more than the global average in many land regions and seasons, including the Arctic.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text states that warming from anthropogenic emissions will persist for centuries to millennia and will continue to cause long-term changes in the climate system.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "According to the text, reaching and sustaining net zero global anthropogenic CO2 emissions would halt anthropogenic global warming on multi-decadal time scales.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text states that climate-related risks are higher at 2\u00b0C compared to 1.5\u00b0C.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "The text mentions that future climate-related risks are larger if global warming exceeds 1.5\u00b0C before returning to that level, especially if the peak temperature is high.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text indicates that future climate-related risks would be reduced by upscaling and accelerating mitigation and adaptation.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The text explains that the maximum temperature reached is determined by cumulative net global anthropogenic CO2 emissions and the level of non-CO2 radiative forcing in the decades prior to maximum temperatures.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The text states that temperature extremes on land are projected to warm more than the global average, with hot days warming by about 3\u00b0C at 1.5\u00b0C of global warming.",
+        "answer": 1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text says that extreme cold nights in high latitudes warm by up to about 4.5\u00b0C at 1.5\u00b0C global warming.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that risks from droughts and precipitation deficits are projected to be higher at 2\u00b0C compared to 1.5\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The text indicates that heavy precipitation events are projected to be higher at 2\u00b0C compared to 1.5\u00b0C in some regions.",
+        "answer": 1
+    },
+    {
+        "question": 3,
+        "reasoning": "The text states that global mean sea level rise is projected to be around 0.1 metre lower at 1.5\u00b0C compared to 2\u00b0C.",
+        "answer": 1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text says that sea level will continue to rise well beyond 2100, even if global warming is limited to 1.5\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text mentions that instabilities in marine ice sheets could be triggered at around 1.5\u00b0C to 2\u00b0C of global warming.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text specifies that risks associated with sea level rise are higher at 2\u00b0C compared to 1.5\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text indicates that impacts on biodiversity and ecosystems are projected to be lower at 1.5\u00b0C compared to 2\u00b0C of global warming.",
+        "answer": 1
+    },
+    {
+        "question": 8,
+        "reasoning": "The text states that 6% of insects, 8% of plants and 4% of vertebrates are projected to lose over half of their climatically determined geographic range at 1.5\u00b0C.",
+        "answer": 1
+    },
+    {
+        "question": 9,
+        "reasoning": "The text specifies that the area at risk of ecosystem transformation is projected to be approximately 50% lower at 1.5\u00b0C compared to 2\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The text says high-latitude tundra and boreal forests are particularly at risk of climate change-induced degradation and loss.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that limiting warming to 1.5\u00b0C rather than 2\u00b0C is projected to prevent thawing over centuries of a permafrost area.",
+        "answer": 1
+    },
+    {
+        "question": 2,
+        "reasoning": "Limiting global warming to 1.5\u00b0C is projected to reduce increases in ocean temperature, acidity and decreases in ocean oxygen levels.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text says that the probability of a sea ice-free Arctic Ocean during summer is substantially lower at 1.5\u00b0C when compared to 2\u00b0C.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "The text says that with 1.5\u00b0C of global warming, one sea ice-free Arctic summer is projected per century.",
+        "answer": 1
+    },
+    {
+        "question": 5,
+        "reasoning": "The text indicates that effects of a temperature overshoot are reversible for Arctic sea ice cover on decadal time scales.",
+        "answer": 1
+    },
+    {
+        "question": 6,
+        "reasoning": "Global warming of 1.5\u00b0C is projected to shift the ranges of many marine species to higher latitudes.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "Ocean acidification is projected to amplify the adverse effects of warming on a broad range of species.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "Impacts on fisheries and aquaculture are projected to be less at 1.5\u00b0C than at 2\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "Climate related risks to health, livelihoods, food security, etc. are projected to increase with global warming of 1.5\u00b0C and increase further with 2\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "Populations at disproportionately higher risk of adverse consequences with global warming of 1.5\u00b0C and beyond include disadvantaged and vulnerable populations, some indigenous peoples, and local communities dependent on agricultural or coastal livelihoods.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that 'Lower risks are projected at 1.5\u00b0C than at 2\u00b0C for heat-related morbidity and mortality'.",
+        "answer": 1
+    },
+    {
+        "question": 2,
+        "reasoning": "The text mentions that 'Risks from some vector-borne diseases, such as malaria and dengue fever, are projected to increase with warming from 1.5\u00b0C to 2\u00b0C'.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text says that limiting warming to 1.5\u00b0C compared with 2\u00b0C is projected to result in smaller net reductions in yields of maize, rice, wheat, and potentially other cereal crops.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The text indicates that limiting global warming to 1.5\u00b0C compared to 2\u00b0C may reduce the proportion of the world population exposed to a climate change-induced increase in water stress by up to 50%",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text says 'Risks to global aggregated economic growth due to climate change impacts are projected to be lower at 1.5\u00b0C than at 2\u00b0C'.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text indicates that 'Exposure to multiple and compound climate-related risks increases between 1.5\u00b0C and 2\u00b0C of global warming'.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text says 'There are multiple lines of evidence that since AR5 the assessed levels of risk increased for four of the five Reasons for Concern (RFCs) for global warming to 2\u00b0C'.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The text states that 'Most adaptation needs will be lower for global warming of 1.5\u00b0C compared to 2\u00b0C'.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The text mentions 'There are a wide range of adaptation options that can reduce the risks of climate change'.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The text says 'Adaptation is expected to be more challenging for ecosystems, food and health systems at 2\u00b0C of global warming than for 1.5\u00b0C'",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that there are limits to adaptive capacity at 1.5\u00b0C that become more pronounced at higher levels of warming and vary by sector, indicating that these limits do not disappear at 1.5\u00b0C.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "According to the text, in pathways with no or limited overshoot of 1.5\u00b0C, global net anthropogenic CO2 emissions decline by about 45% from 2010 levels by 2030.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text states that in model pathways with no or limited overshoot of 1.5\u00b0C, global net anthropogenic CO2 emissions reach net zero around 2050.",
+        "answer": 1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text explicitly mentions that non-CO2 emissions in pathways that limit global warming to 1.5\u00b0C show deep reductions that are similar to those in pathways limiting warming to 2\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text indicates that CO2 emission reductions can involve different portfolios of mitigation measures.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "Modelled pathways to limit warming to 1.5\u00b0C involve deep reductions in emissions of methane and black carbon.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "The text indicates that limiting global warming requires limiting the total cumulative global anthropogenic emissions of CO2, staying within a total carbon budget.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "Using GMST, the estimated remaining carbon budget for a 50% probability of limiting warming to 1.5\u00b0C is 770 GtCO2.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The text specifies that solar radiation modification (SRM) measures are not included in any of the available assessed pathways.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The text clearly states that pathways limiting global warming to 1.5\u00b0C require rapid and far-reaching transitions in energy, land, urban, etc.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text mentions that the system transitions are unprecedented in terms of scale, but not necessarily in terms of speed. However, later in section C.2.1 it mentions that the rates of system changes are more rapid and pronounced than in 2C pathways, making the changes in 1.5C unprecedented in terms of both speed and scale.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "The text explicitly states that 1.5\u00b0C pathways meet energy service demand with lower energy use and faster electrification of energy end use compared to 2\u00b0C pathways.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text says that low-emission sources are projected to have a higher share, particularly before 2050, in 1.5\u00b0C pathways compared to 2\u00b0C pathways, which includes renewables.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The text specifies that renewables are projected to supply 70\u201385% of electricity in 2050 in 1.5\u00b0C pathways.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text indicates that CO2 emissions from industry are projected to be about 65-90% lower in 2050 relative to 2010 in 1.5\u00b0C pathways.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text states that urban and infrastructure system transitions consistent with 1.5\u00b0C would imply changes in land and urban planning practices, and deeper emissions reductions.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text indicates that, in 1.5C pathways, non-pasture agricultural land for food and feed crops can be reduced to an increase depending on the model.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The text states that energy-related investments are estimated to increase by about 12% in 1.5\u00b0C pathways relative to 2\u00b0C pathways, which implies an even larger increase when compared to pathways with no new climate policies.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The text states that the marginal abatement costs are roughly 3-4 times higher in pathways limiting global warming to 1.5\u00b0C compared to below 2\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The text indicates that all 1.5\u00b0C pathways use CDR and that deployment will be on the order of 100-1000 GtCO2 over the 21st century.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that CDR measures include afforestation, reforestation, BECCS, etc.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The text says that in pathways limiting global warming to 1.5\u00b0C, BECCS deployment is projected to range from 0-1, 0-8, and 0-16 GtCO2 yr-1 in 2030, 2050, and 2100 respectively.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text indicates that pathways that overshoot 1.5\u00b0C rely on CDR exceeding residual CO2 emissions later in the century to return to below 1.5\u00b0C by 2100.",
+        "answer": 1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text mentions that current and potential CDR measures could have significant impacts on land, energy, water or nutrients if deployed at large scale.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text suggests that feasibility and sustainability of CDR could be enhanced by a portfolio of options deployed at substantial, but lesser scales, rather than a single option at very large scale.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text indicates that some AFOLU-related CDR measures such as restoration of natural ecosystems and soil carbon sequestration could provide co-benefits such as improved biodiversity, soil quality, and local food security.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text states that estimates of the global emissions outcome of current nationally stated mitigation ambitions as submitted under the Paris Agreement would lead to global greenhouse gas emissions in 2030 of 52-58 GtCO2eq yr-1.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The text indicates that pathways reflecting current mitigation ambitions would not limit global warming to 1.5\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The text states that avoiding overshoot and reliance on future large-scale deployment of carbon dioxide removal (CDR) can only be achieved if global CO2 emissions start to decline well before 2030.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The text says that pathways that limit global warming to 1.5\u00b0C with no or limited overshoot show clear emission reductions by 2030.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text does not explicitly discuss overshoot trajectories in detail but states that in general, future risks are higher if global warming exceeds 1.5C before returning to that level.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The text states that challenges from delayed action include cost escalation, lock-in in carbon-emitting infrastructure, etc.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text states that climate-related risks for natural and human systems are higher for 1.5\u00b0C than at present, but lower than at 2\u00b0C.",
+        "answer": 1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text states that future climate-related risks would be reduced by the upscaling and acceleration of climate mitigation and both incremental and transformational adaptation.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "The text says that the UN Sustainable Development Goals (SDGs) provide a framework for assessing the links between global warming and development goals.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text mentions that ethics and equity can help address the uneven distribution of adverse impacts associated with climate change.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text mentions that mitigation and adaptation with limiting warming to 1.5\u00b0C are underpinned by enabling conditions, assessed across various dimensions.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The text states that adaptation options must be carefully selected together with enabling conditions for benefits towards sustainable development and poverty reduction.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "The text states that adaptation options that reduce vulnerability have many synergies with sustainable development, if well managed.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The text states that poorly designed adaptation projects can increase greenhouse gas emissions and water use.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that adaptation and mitigation should be implemented in a cross-sectoral and integrated way.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The text mentions that mitigation options are associated with multiple synergies and trade-offs.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text specifies that 1.5C pathways have robust synergies with SDGs 3, 7, 11, 12 and 14.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The text states that pathways with low energy demand have the most pronounced synergies with sustainable development and SDGs.",
+        "answer": 2
+    }
+]

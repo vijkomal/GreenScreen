@@ -14,14 +14,6 @@ class Presentation:
         presentation_path = os.path.join(presentation_dir, f"{presentation_name}")
         os.makedirs(presentation_dir, exist_ok=True)
 
-        # Save latex
-        latex_frame_code_path = os.path.join(
-            presentation_dir, f"{presentation_name}.latex"
-        )
-        latex_frame_code = "\n".join([s.latex_content for s in self.slides])
-        with open(latex_frame_code_path, "w") as f:
-            f.write(latex_frame_code)
-
         # Create beamer presentation
         doc = Document(documentclass="beamer")
         doc.append(NoEscape(r"\setbeamertemplate{navigation symbols}{}"))
@@ -36,7 +28,10 @@ class Presentation:
         for i, slide in enumerate(self.slides):
             transcript += f"# SLIDE {i}\n"
             transcript += slide.transcript + "\n\n"
-            doc.append(NoEscape(slide.latex_content))
+
+            latex_content = slide.latex_content
+            # latex_content = latex_content.encode("utf-8").strip()  # remove non utf-8
+            doc.append(NoEscape(latex_content))
 
         # Output to pdf
         doc.generate_pdf(presentation_path, clean_tex=False)

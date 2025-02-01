@@ -1,0 +1,31 @@
+{
+    "content_metrics": {
+        "accuracy": 0.94,
+        "precision": 0.73,
+        "recall": 0.68,
+        "f1": 0.7
+    },
+    "readability_metrics": {
+        "flesch_kincaid_score": 18.36304861988329,
+        "flesch_kincaid_grade_level": "18",
+        "flesch_score": 19.17704738685751,
+        "flesch_ease": "very_confusing",
+        "flesch_grade_levels": [
+            "college_graduate"
+        ],
+        "dale_chall_score": 13.95805931789633,
+        "dale_chall_grade_levels": [
+            "college_graduate"
+        ],
+        "ari_score": 20.516331380846843,
+        "ari_grade_levels": [
+            "college_graduate"
+        ],
+        "ari_ages": [
+            24,
+            100
+        ],
+        "gunning_fog_score": 21.781036312163536,
+        "gunning_fog_grade_level": "college_graduate"
+    }
+}

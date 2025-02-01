@@ -66,12 +66,15 @@ class SlidesGenerator:
         # sentences = nltk.sent_tokenize(section_text)
         slide_latex = r"\begin{frame}" + "\n"
         slide_latex += r"\frametitle{" + title + r"}" + "\n"
+        # slide_latex += r"\fontsize{8}{15}\selectfont" + "\n"
         slide_latex += section_text + "\n"
         slide_latex += r"\end{frame}" + "\n"
+        # slide_latex = slide_latex.encode("utf-8", "ignore").decode("utf-8")
         return slide_latex
 
     def make_raw_slide(self, section_text):
-        title = self.get_keywords(section_text)
+        # title = self.get_keywords(section_text)
+        title = ""
         slide = Slide(
             latex_content=self.get_raw_slide_latex(section_text, title),
             transcript=section_text,

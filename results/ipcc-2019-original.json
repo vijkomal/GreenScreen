@@ -1,0 +1,927 @@
+[
+    {
+        "question": 1,
+        "reasoning": "The text states that human use directly affects more than 70% of the global, ice-free land surface.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The text explicitly mentions that land is both a source and a sink of GHGs.",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "The text indicates that agriculture accounts for approximately 70% of global freshwater use.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "The text says that the per capita supply of vegetable oils and meat has more than doubled since 1961.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text states that 25-30% of total food produced is lost or wasted.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text mentions that about a quarter of the Earth's ice-free land area is subject to human-induced degradation.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text estimates that soil erosion from agricultural fields is 10 to 20 times higher than the soil formation rate with no-tillage and more than 100 times with conventional tillage.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The text states that the annual area of drylands in drought has increased by slightly more than 1% per year.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The text indicates that the highest numbers of people affected by desertification are in South and East Asia, the circum Sahara region, and the Middle East.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The text specifies that the mean land surface air temperature has risen considerably more than the global mean surface temperature (GMST).",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The text mentions increased frequency of heat-related events and increased intensity of droughts but does not mention a decrease in intensity of heavy precipitation events.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The report states that satellite observations have shown vegetation greening over the last three decades in several parts of the world.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text lists the causes of vegetation greening as combinations of an extended growing season, nitrogen deposition, CO2 fertilization, and land management.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The report mentions that the frequency and intensity of dust storms have increased over the last few decades due to land use and land cover changes and climate-related factors.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The report states that decreased precipitation and increased land surface air temperature in some dryland areas have contributed to desertification.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text indicates that approximately 23% of total anthropogenic greenhouse gas emissions derive from Agriculture, Forestry and Other Land Use (AFOLU).",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text states that the natural response of land to human-induced environmental changes is a net sink of CO2.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The report says that net CO2 emissions from land use and land-use change are mostly due to deforestation.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The report states that there is no clear trend in annual emissions since 1990.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "The report says that future net increases in CO2 emissions from vegetation and soils due to climate change are projected to counteract increased removals due to CO2 fertilization and longer growing seasons.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The report states 'Projected thawing of permafrost is expected to increase the loss of soil carbon'.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The report says 'Global models and national GHG inventories use different methods to estimate anthropogenic CO2 emissions and removals for the land sector. Both produce estimates that are in close agreement for land-use change involving forest'.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The report mentions 'Agriculture, Forestry and Other Land Use (AFOLU) activities accounted for...representing 23%...of total net anthropogenic emissions of GHGs'.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The report states 'The natural response of land to human-induced environmental change caused a net sink of around 11.2 GtCO2 yr-1', indicating that it removes carbon.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The report says 'Emissions within farm gate and from agricultural land expansion...represent 16-27% of total anthropogenic emissions'.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The report indicates 'Ruminants and the expansion of rice cultivation are important contributors to the rising concentration' of methane.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The report says 'Anthropogenic N2O emissions...from soils are primarily due to nitrogen application'.",
+        "answer": 1
+    },
+    {
+        "question": 8,
+        "reasoning": "The report states 'Emissions from agricultural production are projected to increase'.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "The report says that 'changes in land cover due to human activities have led to both a net release of CO2... and an increase in global land albedo'. As carbon release results in warming and the albedo change is small, the net effect is warming.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The report mentions 'the likelihood, intensity and duration of many extreme events can be significantly modified by changes in land conditions'.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "According to A.4.3, in boreal regions, winter warming is enhanced due to decreased snow cover, while summer warming is reduced.",
+        "answer": 1
+    },
+    {
+        "question": 2,
+        "reasoning": "According to A.4.4, desertification amplifies global warming through the release of CO2 linked with the decrease in vegetation cover.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "A.4.5 states that changes in forest cover directly affect regional surface temperature.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "A.4.6 states that both global warming and urbanisation can enhance warming in cities and their surroundings, especially during heatwaves.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "According to Box SPM 1, SSP1 is characterized by a low challenge to mitigation and adaptation",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "According to Box SPM 1, SSP3 is characterized by a high population growth and high challenges to mitigation and adaptation",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "According to the text, climate change, due to increases in global mean surface temperature, has consequences including impacts on processes involved in desertification, land degradation, and food security (A.2).",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "Figure SPM.2b indicates that risks are lower under the SSP1 pathway compared to SSP3, given the same level of global mean surface temperature increase.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "According to A.2.6, global warming has led to shifts of climate zones, including the expansion of arid climate zones and contraction of polar climate zones, which implies increased desertification and land degradation.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "A.2.2 indicates that warming has resulted in an increase in frequency and intensity of heat-related events including heatwaves and that there has been an increase in the intensity of heavy precipitation events at a global scale",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that global warming has led to shifts of climate zones, including the expansion of arid zones and the contraction of polar climate zones.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The report mentions current levels of global warming are associated with moderate risks from increased dryland water scarcity, soil erosion, vegetation loss, wildfire damage, permafrost thawing and tropical crop yield decline.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The report mentions that increased atmospheric CO2 levels can lower the nutritional quality of crops.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The text states that the stability of food supply is projected to decrease as the magnitude and frequency of extreme weather events increase.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "Climate change can amplify environmentally induced migration both within and across borders, according to the report.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "The report explicitly mentions that unsustainable land management has led to negative economic impacts.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The report states that pathways with higher demand for food, feed, and water result in higher risks from water scarcity and land degradation.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "Increased demand for food combined with certain land management practices has implications for land-use change, food insecurity, and water scarcity.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The report states that risks related to water scarcity are lower in pathways with low population growth and high adaptive capacity.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "The text explicitly says that risks related to climate change driven land degradation are higher in pathways with high population, increased land-use change, low adaptive capacity and other barriers to adaptation.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The document mentions that climate change, specifically increasing frequency and intensity of extremes has adversely impacted food security.",
+        "answer": 1
+    },
+    {
+        "question": 2,
+        "reasoning": "The report indicates that urban expansion is projected to lead to conversion of cropland which is a negative impact.",
+        "answer": 1
+    },
+    {
+        "question": 3,
+        "reasoning": "Land-related responses contribute to both climate change adaptation and mitigation.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "The report states that there are barriers to adaptation and mitigation.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The report gives examples of land-related actions such as sustainable food production and improved forest management and also reduced deforestation and food waste, and indicates these contribute to adaptation, mitigation, and sustainable development.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "The document indicates that while some responses have immediate impacts, others can take decades to deliver measurable results.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "The report states that successful implementation of response options depends on consideration of local environmental and socioeconomic conditions.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The report says that carbon sequestration in soil or vegetation does not continue indefinitely.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The report mentions that at the deployment scale, increased demand for land conversion can lead to adverse side effects.",
+        "answer": 1
+    },
+    {
+        "question": 10,
+        "reasoning": "The report mentions that increased demand for land conversion can lead to adverse side effects for adaptation, desertification, land degradation, and food security",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The report mentions that there are limits to land-based mitigation measures.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The report states that biomass for bioenergy can have co-benefits, adverse side-effects, and risks.",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "In SSP1, the transition to low or moderate risk occurs with a small amount of bioenergy or BECCS use.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The report says that avoiding desertification can contribute to climate change adaptation with mitigation co-benefits.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "The report lists water harvesting, micro-irrigation, restoring degraded lands and using drought-resistant plants as solutions.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "The report mentions that measures to combat desertification can promote soil carbon sequestration.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The report states that sustainable land management can prevent and reduce land degradation and maintain land productivity.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The report indicates that land degradation in agriculture systems can be addressed through sustainable land management.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The report estimates the global sequestration potential of cover crops to be around 0.44 GtCO2 yr-1.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The report concludes that reducing deforestation and forest degradation lowers GHG emissions.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The report states that sustainable land management can maintain or enhance carbon stocks.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The report indicates that climate change can lead to land degradation even with efforts to reverse it.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The report suggests that response options can advance adaptation and mitigation.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The report mentions that practices include increasing soil organic matter and use of varieties for heat and drought tolerance.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The report suggests that diversification can reduce risks from climate change.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "Reducing food loss and waste can lower GHG emissions and contribute to adaptation.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "The report states that future land use depends on the desired climate outcome and response options.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The report notes that all assessed pathways that limit warming to 1.5\u00b0C require land-based mitigation and land-use change.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The report indicates that pathways limiting global warming to 1.5\u00b0C include more land-based mitigation than higher warming level pathways.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "The report mentions that modelled pathways project forest area increases when limiting warming to 1.5 or 2C.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "Modelled pathways limiting global warming to 1.5C include more land-based mitigation than higher warming level pathways.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "Human use directly affects more than 70% of the global, ice-free land surface.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "Land provides the principal basis for human livelihoods and well-being including the supply of food, freshwater and multiple other ecosystem services, as well as biodiversity.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "People currently use one quarter to one third of land's potential net primary production for food, feed, fibre, timber and energy.",
+        "answer": 1
+    },
+    {
+        "question": 5,
+        "reasoning": "Land is both a source and a sink of GHGs.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "Data available since 1961 show that global population growth and changes in per capita consumption of food, feed, fibre, timber and energy have caused unprecedented rates of land and freshwater use.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "Agriculture currently accounting for ca. 70% of global fresh-water use.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "Currently, 25-30% of total food produced is lost or wasted.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "About a quarter of the Earth's ice-free land area is subject to human-induced degradation.",
+        "answer": 2
+    },
+    {
+        "question": 10,
+        "reasoning": "Soil erosion from agricultural fields is estimated to be currently 10 to 20 times (no tillage) to more than 100 times (conventional tillage) higher than the soil formation rate.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The Summary for Policymakers states that desertification is defined as land degradation resulting from many factors, including climatic variations and human activities.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "The document states that the observed mean land surface air temperature has risen considerably more than the global mean surface temperature since the pre-industrial period, increasing by 1.53C compared to 0.87C.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The document states that climate change has already impacted food security and terrestrial ecosystems.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "The document mentions that warming has resulted in an increased frequency, intensity and duration of heat-related events.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "The text notes that vegetation browning has been observed in some regions, including Northern Eurasia, parts of North America, Central Asia and the Congo Basin.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The document identifies causes of vegetation greening, including CO2 fertilization.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The document indicates that the frequency and intensity of dust storms have increased over the last few decades due to land use and land cover changes.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The document states that increased land surface air temperature and evapotranspiration and decreased precipitation have contributed to desertification.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "The text describes how global warming has led to shifts of climate zones, including expansion of arid climate zones and contraction of polar zones.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "The document states that climate change can exacerbate land degradation through increases in rainfall intensity and flooding.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The report states that climate change has already affected crop yields in many lower-latitude regions due to warming and changing precipitation patterns, but it does not mention higher-latitude regions.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The report specifies that agriculture, forestry and other land use accounted for around 23% of total net anthropogenic emissions of GHGs.",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "The report indicates that the natural response of land to human-induced environmental change caused a net sink of approximately 29% of total CO2 emissions.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The report identifies deforestation as a main driver of CO2 emissions from land use and land-use change, and states this is partly offset by afforestation/reforestation.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "The report notes that the balance between the processes of CO2 fertilization and vegetation growth is a key source of uncertainty for determining the future of the land carbon sink.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "The report states that both global models and national GHG inventories are used to estimate anthropogenic CO2 emissions and removals for the land sector.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "The report indicates that biogenic sources make up a larger proportion of methane emissions than fossil fuel sources.",
+        "answer": 1
+    },
+    {
+        "question": 8,
+        "reasoning": "The report identifies ruminants and the expansion of rice cultivation as important contributors to the rising concentration of methane.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "The report specifies that anthropogenic N2O emissions come from both nitrogen application to soils and livestock on managed pastures and rangelands.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "The report mentions that the global food system includes both agricultural emissions and land use change.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "According to the text on page 11, emissions from within the farm gate and agricultural land expansion contribute to 16-27% of total anthropogenic emissions.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "According to the text on page 12, changes in land conditions can both reduce or accentuate warming.",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "According to the text on page 12, human activities have led to a net release of CO2 contributing to global warming, as well as an increase in land albedo causing surface cooling, so both statements are correct",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "According to the text on page 12, changes in land conditions can affect both temperature and rainfall in regions far away.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "According to the text on page 12, decreased snow cover and albedo enhance winter warming and reduce warming during growing season.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "According to the text on page 12, desertification amplifies global warming by decreasing vegetation cover and increasing local albedo.",
+        "answer": 1
+    },
+    {
+        "question": 7,
+        "reasoning": "According to the text on page 12, in tropical regions, cooling results from enhanced evapotranspiration.",
+        "answer": 1
+    },
+    {
+        "question": 8,
+        "reasoning": "According to the text on page 12, both global warming and urbanisation can enhance warming.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "According to the text in the box on page 13, SSP stands for Shared Socio-economic Pathways.",
+        "answer": 1
+    },
+    {
+        "question": 10,
+        "reasoning": "According to the text in the box on page 13, SSP1 has low challenges to mitigation and low challenges to adaptation.",
+        "answer": 1
+    },
+    {
+        "question": 1,
+        "reasoning": "According to Box SPM.1, SSP3 includes high population growth, low income and continued inequalities.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "According to Box SPM.1, the SSPs span a range of challenges to both climate change mitigation and adaptation.",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "Based on Figure SPM.2 and related content, increases in global mean surface temperature affect both desertification and land degradation.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "Based on Figure SPM.2 and related content, changes in land based processes drive risks to food systems and livelihoods.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "Based on content in Figure SPM.2, socio-economic choices can either reduce or exacerbate climate related risks.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "According to Box SPM.1, the SSP1 pathway illustrates high income and reduced inequalities.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "According to section A.5.6, Asia and Africa are projected to have the highest number of people vulnerable to increased desertification.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "According to section A.5.5, in drylands, climate change and desertification are projected to cause reductions in both crop and livestock productivity.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "According to section A.5.7, changes in climate can amplify both environmentally and socially induced migration.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "According to section A.5.8, unsustainable land management has led to negative economic impacts and climate change is projected to exacerbate these negative economic impacts.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states the level of risk depends on warming and land management.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "The report explicitly states higher demand leads to increased risks of both water scarcity and food insecurity.",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "Projected increases in population and income result in increased demand for food and water.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "Risks related to water scarcity depend on population growth and adaptive capacity.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "Climate change driven land degradation is higher in low adaptive capacity pathways.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "Risks related to food security are greater in pathways with lower incomes.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "Urban expansion is projected to lead to conversion of cropland.",
+        "answer": 1
+    },
+    {
+        "question": 8,
+        "reasoning": "Land-related responses can contribute to climate change adaptation and mitigation.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "Many land-related actions contribute to both adaptation and mitigation.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "Conservation of high-carbon ecosystems such as peatlands, wetlands, rangelands, mangroves and forests have immediate impacts.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that the successful implementation of response options depends on consideration of local environmental and socio-economic conditions.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "The text explains that land-based options that deliver carbon sequestration do not continue to sequester carbon indefinitely.",
+        "answer": 1
+    },
+    {
+        "question": 3,
+        "reasoning": "The text mentions that most of the response options assessed contribute positively to sustainable development and other societal goals.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "The text states that a number of land management options do not require land use change and do not create demand for more land conversion.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "The text states that measures to combat desertification can include climate change adaptation and biodiversity loss.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "The text notes that measures to combat desertification can promote soil carbon sequestration and natural vegetation restoration.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "The text explains that applying measures that promote land degradation neutrality can benefit eradicating poverty and ensuring food security.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The text indicates that cleaner energy sources and technologies can contribute to both mitigating climate change and combating desertification.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "The text indicates that sustainable land management can prevent land degradation and maintain land productivity.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "The text explains that management options that reduce vulnerability to soil erosion and nutrient loss include growing green manure crops and crop residue retention.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "Farming systems such as agroforestry substantially reduce erosion and build soil carbon.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "Reducing deforestation and forest degradation lowers GHG emissions.",
+        "answer": 1
+    },
+    {
+        "question": 3,
+        "reasoning": "Sustainable forest management can maintain or enhance both forest carbon stocks and sinks.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "Even with measures to reduce or reverse land degradation, climate change still leads to land degradation and limits to adaptation.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "Response options throughout the food system can advance both adaptation and mitigation.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "Practices that contribute to climate change adaptation and mitigation in cropland include increasing soil organic matter and improved crop management, among others.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "Diversification in the food system reduces risks from both climate change and market fluctuations.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "Reduction of food loss and waste can lower GHG emissions and contribute to adaptation through reduced land area for food production.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "All assessed modelled pathways that limit warming to 1.5\u00b0C or well below 2\u00b0C require land-based mitigation and land-use change.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "Most mitigation pathways include substantial deployment of bioenergy and carbon capture technologies.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The document states that the appropriate design of policies, institutions and governance systems at all scales contribute to both land-related adaptation and mitigation.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "The document states that land-use zoning and spatial planning can achieve positive adaptation and mitigation outcomes.",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "The document indicates that insecure land tenure affects both the ability of people and communities to make changes to land.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "The document notes that achieving land degradation neutrality will involve measures to avoid and reduce land degradation and to reverse land degradation.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "The document states a mix of policies, rather than single policy approaches, can deliver improved results.",
+        "answer": 1
+    },
+    {
+        "question": 6,
+        "reasoning": "Policies that operate across the food system can enable both more sustainable land-use management and enhanced food security.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "The document states that policies that enable and incentivize sustainable land management include improving access to markets and empowering women.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The document implies that reflecting the environmental costs of land-degrading agricultural practices can incentivize more sustainable land management.",
+        "answer": 1
+    },
+    {
+        "question": 9,
+        "reasoning": "The document indicates that risk management and agricultural diversification can facilitate adaptation and enhanced resilience to extreme events impacting food systems.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "The document states that public health policies to improve nutrition can influence food demand and reduce healthcare costs.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The text states that acknowledging co-benefits and trade-offs can overcome barriers to implementation.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "The text says that addressing desertification, land degradation, and food security in an integrated manner can assist both climate resilient development and food security.",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "The text indicates that technical, biophysical, socio-economic, financial, and cultural barriers can limit adoption of land-based response options.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "The text says that coordination with other sectors can increase co-benefits.",
+        "answer": 1
+    },
+    {
+        "question": 5,
+        "reasoning": "The text indicates that some response options and policies may result in trade-offs and social impacts.",
+        "answer": 3
+    },
+    {
+        "question": 6,
+        "reasoning": "The text states that the effectiveness of decision-making and governance is enhanced by involvement of local stakeholders and indigenous peoples.",
+        "answer": 3
+    },
+    {
+        "question": 7,
+        "reasoning": "The text mentions that successful implementation of sustainable land management practices requires accounting for both local environmental and socio-economic conditions.",
+        "answer": 3
+    },
+    {
+        "question": 8,
+        "reasoning": "The text says that inclusiveness in measurement, reporting and verification can support both sustainable land management and effective policy.",
+        "answer": 3
+    },
+    {
+        "question": 9,
+        "reasoning": "The text indicates that agricultural practices that include indigenous and local knowledge can contribute to overcoming climate change challenges, and food security challenges.",
+        "answer": 3
+    },
+    {
+        "question": 10,
+        "reasoning": "The text states that empowering women can bring synergies and co-benefits to household food security and sustainable land management.",
+        "answer": 3
+    },
+    {
+        "question": 1,
+        "reasoning": "The report states that rapid reductions in anthropogenic GHG emissions reduce negative impacts of climate change, which includes impacts on land and food systems.",
+        "answer": 3
+    },
+    {
+        "question": 2,
+        "reasoning": "The report says that delaying climate mitigation and adaptation responses across sectors would lead to increasingly negative impacts and reduce the prospect of sustainable development.",
+        "answer": 3
+    },
+    {
+        "question": 3,
+        "reasoning": "The report notes that delayed action leads to both an increasing need for land-based adaptation and decreasing the potential for land-based mitigation.",
+        "answer": 3
+    },
+    {
+        "question": 4,
+        "reasoning": "The report states that in future scenarios, deferral of GHG emissions reduction implies significantly higher costs and risks.",
+        "answer": 3
+    },
+    {
+        "question": 5,
+        "reasoning": "The report says deferral of GHG emissions reductions from all sectors implies trade-offs including irreversible loss in land ecosystem functions and services.",
+        "answer": 3
+    }
+]

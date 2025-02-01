@@ -1,0 +1,32 @@
+{
+    "content_metrics": {
+        "accuracy": 0.83,
+        "precision": 0.67,
+        "recall": 0.58,
+        "f1": 0.62
+    },
+    "readability_metrics": {
+        "flesch_kincaid_score": 4.4108671966004245,
+        "flesch_kincaid_grade_level": "4",
+        "flesch_score": 85.05193171853519,
+        "flesch_ease": "easy",
+        "flesch_grade_levels": [
+            "6"
+        ],
+        "dale_chall_score": 6.895657054093238,
+        "dale_chall_grade_levels": [
+            "7",
+            "8"
+        ],
+        "ari_score": 4.295692991501067,
+        "ari_grade_levels": [
+            "5"
+        ],
+        "ari_ages": [
+            10,
+            11
+        ],
+        "gunning_fog_score": 6.362259117610299,
+        "gunning_fog_grade_level": "6"
+    }
+}

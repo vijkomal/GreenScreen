@@ -1,0 +1,927 @@
+[
+    {
+        "question": 1,
+        "reasoning": "The provided text does not contain the answer to this question.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The provided text does not contain the answer to this question.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The provided text does not contain the answer to this question.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The provided text does not contain the answer to this question.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The provided text does not contain the answer to this question.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The provided text does not contain the answer to this question.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The provided text does not contain the answer to this question.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The provided text does not contain the answer to this question.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The provided text does not contain the answer to this question.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The provided text does not contain the answer to this question.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The text mentions increased frequency of heat-related events and increased intensity of droughts as being observed due to warming. The text does not mention decreased intensity of heavy precipitation events. Therefore, option 2 is the answer.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "The text mentions that satellite observation over the last three decades has shown widespread greening. Therefore, the answer is option 2.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "The text states that vegetation greening is caused by combinations of an extended growing season, nitrogen deposition, CO2 fertilization, and land management. Therefore, the correct answer is option 2.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "The text mentions that the frequency and intensity of dust storms have decreased in some regions and increased in others. Therefore the answer is option 1.",
+        "answer": 1
+    },
+    {
+        "question": 5,
+        "reasoning": "The text mentions that in some dryland areas, decreased precipitation and increased land surface air temperature have contributed to desertification. Therefore, the answer is option 2.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "The text states that Agriculture, Forestry and Other Land Use (AFOLU) contributes approximately 23% of total anthropogenic greenhouse gas emissions. Therefore, the answer is 2.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "The text mentions that the natural response of land to human-induced environmental changes is a net sink of CO2. Therefore, the answer is option 2.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "The text mentions that deforestation is the primary cause of net CO2 emissions from land use and land-use change. Therefore, the answer is option 2.",
+        "answer": 2
+    },
+    {
+        "question": 9,
+        "reasoning": "The text mentions that global annual emissions show a clear increasing trend since 1990. Therefore, the answer is option 1.",
+        "answer": 1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text mentions that increased CO2 emissions due to climate change may counteract increased removals. Therefore, option 2 is the answer.",
+        "answer": 2
+    },
+    {
+        "question": 1,
+        "reasoning": "The text doesn't mention the projection of permafrost thawing.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The text doesn't specify the type of methods used in global models and GHG inventories.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The text doesn't specify the percentage of total net anthropogenic emissions of GHGs that AFOLU represents.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text does not provide details about the natural response of land to environmental changes.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The text does not provide information about the emissions within the farm gate and from agricultural land expansion.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The text doesn't provide information about the primary contributors to the rising concentration of methane.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The text does not give information regarding the contributors to rising N2O emissions.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The text doesn't specify the projected trend of emissions from agricultural production.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The text does not mention any effect of land cover change on global warming.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text does not mention the effect of land cover change on extreme events.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The text does not provide information about how climate change alters land conditions in boreal regions.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The text does not provide information about how desertification amplifies global warming.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The text does not provide information about how changes in forest cover affect regional surface temperature.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text does not provide information about the effect of urbanisation on warming.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The text does not provide information about the key characteristics of the SSP1 pathway.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The text does not provide information about the key characteristics of the SSP3 pathway.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The text does not provide information about the consequences of increases in global mean surface temperature.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The text does not provide information about what the SSP1 pathway illustrates regarding climate risks.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The text does not provide information about the effects of an increase in global mean surface temperature.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text does not provide information about the projected impact of increased warming on extreme events.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The provided document is a blank page and no information about the shift of climate zones was given, therefore the answer is not available.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The provided document is a blank page and no information about the risks associated with current levels of global warming was given, therefore the answer is not available.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The provided document is a blank page and no information about the projected effect of rising atmospheric CO2 on the nutritional quality of crops was given, therefore the answer is not available.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The provided document is a blank page and no information about the projected effect on food supply stability as extreme weather increases was given, therefore the answer is not available.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The provided document is a blank page and no information about the effects of climate change on migration was given, therefore the answer is not available.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The provided document is a blank page and no information about the relationship between unsustainable land management and economic impacts was given, therefore the answer is not available.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The provided document is a blank page and no information about pathways with higher demand for food, feed, and water was given, therefore the answer is not available.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The provided document is a blank page and no information about the effect of increased demand for food, feed, and water combined with land management practices was given, therefore the answer is not available.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The provided document is a blank page and no information about the risks related to water scarcity in drylands was given, therefore the answer is not available.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The provided document is a blank page and no information about the risks related to climate change driven land degradation was given, therefore the answer is not available.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The provided text does not contain information about the factors that exacerbate risks related to food security. Therefore, it is not possible to answer this question.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The provided text does not contain information about the impact of urban expansion on cropland. Therefore, it is not possible to answer this question.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The provided text does not contain information about the contribution of land-related responses. Therefore, it is not possible to answer this question.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The provided text does not contain information about the barriers to adaptation and global mitigation. Therefore, it is not possible to answer this question.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The provided text does not contain information about land-related actions that contribute to adaptation, mitigation, and sustainable development. Therefore, it is not possible to answer this question.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The provided text does not contain information about the characteristics of some response options. Therefore, it is not possible to answer this question.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The provided text does not contain information about the requirements for successful implementation of response options. Therefore, it is not possible to answer this question.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The provided text does not contain information about carbon sequestration in soil or vegetation. Therefore, it is not possible to answer this question.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The provided text does not contain information about response options in general. Therefore, it is not possible to answer this question.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The provided text does not contain information about the impact of increased demand for land conversion. Therefore, it is not possible to answer this question.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The text does not provide any information about the limits of land-based mitigation measures. Therefore, I cannot answer the question.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The text does not provide any information about the conclusions regarding biomass for bioenergy. Therefore, I cannot answer the question.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The text does not provide any information about the transition to low or moderate risk in SSP1. Therefore, I cannot answer the question.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text does not provide any information about the role of avoiding desertification in addressing climate change. Therefore, I cannot answer the question.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The text does not provide any information about solutions that help adapt to and mitigate climate change while combatting desertification. Therefore, I cannot answer the question.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The text does not provide any information about the impact of measures to combat desertification on soil carbon. Therefore, I cannot answer the question.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The text does not provide any information about the role of sustainable land management. Therefore, I cannot answer the question.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The text does not provide any information about land degradation in agriculture systems. Therefore, I cannot answer the question.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The text does not provide any information about the global sequestration potential of cover crops. Therefore, I cannot answer the question.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text does not provide any information about the conclusion regarding reducing deforestation and forest degradation. Therefore, I cannot answer the question.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The text does not contain information about what happens to carbon stocks in sustainable forest management.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The text does not contain information about what climate change can lead to even with measures intended to avoid or reverse land degradation.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The text does not contain information about what the report suggests regarding response options throughout the food system.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text does not contain information about practices that contribute to climate change adaptation and mitigation in cropland.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The text does not contain information about the effects of diversification in the food system.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The text does not contain information about the effect of reducing food loss and waste.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The text does not contain information about future land use.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The text does not contain information about modeled pathways that limit warming to 1.5\u00b0C.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The text does not contain information about modeled pathways limiting global warming to 1.5\u00b0C, compared to higher warming level pathways.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text does not contain information about model pathways limiting global warming to 1.5C or 2C.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The provided document does not contain any information about bioenergy use in models limiting global warming to 1.5\u00b0C or 2\u00b0C.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The provided document does not contain information on the percentage of the global, ice-free land surface directly affected by human use.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The provided document does not contain information on what land provides for human livelihoods and well-being.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The provided document does not contain information on the fraction of land's potential net primary production used by people.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The provided document does not contain information on whether land is a source or sink of anything.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The provided document does not contain information on what has caused the rates of land and freshwater use since 1961.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The provided document does not contain information about the percentage of global freshwater used for agriculture.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The provided document does not contain information about the percentage of food lost or wasted.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The provided document does not contain information about the proportion of Earth's ice-free land area subject to human-induced degradation.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The provided document does not contain information on the rate of soil erosion compared to soil formation.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The text does not specify what exacerbates land degradation so the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The text does not specify the difference between global mean surface temperature and land surface air temperature rise, therefore the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The text does not specify any impacts of climate change, therefore the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text does not specify what has increased in land regions due to warming, therefore the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The text does not specify what has been observed in the listed regions, therefore the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The text does not specify a cause of vegetation greening, therefore the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The text does not specify what has increased due to land use changes, therefore the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The text does not specify what has contributed to desertification, therefore the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The text does not specify what global warming has led to, therefore the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text does not specify what can exacerbate land degradation processes, therefore the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The text is not present in the OCR to determine which region has been affected.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The text is not present in the OCR to determine the activity that accounted for 23% of GHG emissions.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The text is not present in the OCR to determine the percentage of CO2 emissions the land has absorbed.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text is not present in the OCR to determine the drivers of CO2 emissions.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The text is not present in the OCR to determine the source of uncertainty.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The text is not present in the OCR to determine the use of global models and inventories.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The text is not present in the OCR to determine which activity contributes more to methane emissions.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The text is not present in the OCR to determine contributors to rising concentration of methane.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The text is not present in the OCR to determine the source of anthropogenic N2O emissions.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text is not present in the OCR to determine which components contribute to the global food system.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The document is completely blank, so I cannot determine the estimated range of emissions.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The document is completely blank, so I cannot determine how changes in land conditions affect the regional scale.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The document is completely blank, so I cannot determine what human activities have led to.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The document is completely blank, so I cannot determine how changes in land conditions affect regions hundreds of kilometers away.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The document is completely blank, so I cannot determine how decreased snow cover and albedo affects boreal regions.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The document is completely blank, so I cannot determine what desertification amplifies.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The document is completely blank, so I cannot determine where cooling results from enhanced evapotranspiration.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The document is completely blank, so I cannot determine what can enhance warming in cities.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The document is completely blank, so I cannot determine what the SSPs are.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The document is completely blank, so I cannot determine which SSP has low challenges to mitigation and adaptation.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "I cannot answer this question because the provided text does not define what each SSP includes.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "I cannot answer this question because the provided text does not define what the SSPs span.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "I cannot answer this question because the provided text does not discuss the effects of increases in global mean surface temperature.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "I cannot answer this question because the provided text does not discuss the risks driven by changes in land-based processes.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "I cannot answer this question because the provided text does not discuss the potential of socio-economic choices.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "I cannot answer this question because the provided text does not define the SSP1 pathway.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "I cannot answer this question because the provided text does not discuss regions vulnerable to increased desertification.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "I cannot answer this question because the provided text does not discuss the projected effects of climate change on dryland regions.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "I cannot answer this question because the provided text does not discuss the amplification of migration due to changes in climate.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "I cannot answer this question because the provided text does not discuss the impacts of unsustainable land management.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The provided document does not contain information about the level of risk posed by climate change, so the answer cannot be determined.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The provided document does not contain information about what pathways with higher demand for food, feed and water result in, so the answer cannot be determined.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The provided document does not contain information about projected increases in population and income, so the answer cannot be determined.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The provided document does not contain information about risks related to water scarcity, so the answer cannot be determined.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The provided document does not contain information about risks related to climate change driven land degradation, so the answer cannot be determined.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The provided document does not contain information about what risks related to food security are greater in, so the answer cannot be determined.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The provided document does not contain information about what is projected to lead to conversion of cropland, so the answer cannot be determined.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The provided document does not contain information about what land-related responses contribute to, so the answer cannot be determined.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The provided document does not contain information about what many land-related actions contribute to, so the answer cannot be determined.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The provided document does not contain information about examples of response options with immediate impacts, so the answer cannot be determined.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The document does not provide any context about the success of response options depending on environmental or socio-economic conditions.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The document does not provide any context about land-based options that deliver carbon sequestration.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The document does not provide any context about response options and their contributions.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The document does not provide any context about land management options and their requirements.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The document does not provide any context about activities for combating desertification.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The document does not provide any context about measures to combat desertification.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The document does not provide any context about applying measures promoting land degradation neutrality.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The document does not provide any context about access to cleaner energy sources.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The document does not provide any context about sustainable land management.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The document does not provide any context about management options that reduce vulnerability to soil erosion and nutrient loss.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The document does not provide information about farming systems such as agroforestry.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The document does not provide information about the effects of reducing deforestation and forest degradation on GHG emissions.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The document does not provide information about the effect of sustainable forest management.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The document does not provide information about climate change effects.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The document does not provide information about response options throughout the food system.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The document does not provide information about practices that contribute to climate change adaptation and mitigation in cropland.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The document does not provide information about diversification in the food system.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The document does not provide information about the reduction of food loss and waste.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The document does not provide information about modelled pathways that limit warming.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The document does not provide information about mitigation pathways.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The text does not specify what appropriate design of policies contributes to, so the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The text does not list any instruments that achieve adaptation and mitigation outcomes, so the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The text does not state what insecure land tenure affects, so the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text does not state what achieving land degradation neutrality involves, so the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The text does not state what a mix of policies can do, so the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The text does not say what policies operating across the food system enable, so the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The text does not provide any specific policies, so the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The text does not describe the effect of reflecting environmental costs of land-degrading practices, so the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The text does not provide any information about adaptation and resilience to extreme events impacting food systems, so the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The text does not describe the effects of public health policies, so the answer is unknown.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The document does not state what acknowledging co-benefits and trade-offs overcome. Thus, we cannot derive the correct answer based on the given information.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The document does not mention how addressing desertification and land degradation helps, so we cannot determine if it assists either climate resilience development or food security.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The document does not provide any details about the limiting factors of land-based response options. Therefore, we can't determine whether technical or biophysical factors limit adoption.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The document does not state what is increased by coordination with other sectors. Thus, we cannot derive the correct answer based on the given information.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The document does not specify the results of some response options and policies. Therefore, we cannot determine if they result in trade-offs, social impacts, or both.",
+        "answer": -1
+    },
+    {
+        "question": 6,
+        "reasoning": "The document does not state whose involvement enhances the effectiveness of decision-making and governance. Thus, we cannot derive the correct answer based on the given information.",
+        "answer": -1
+    },
+    {
+        "question": 7,
+        "reasoning": "The document does not state what is required for successful implementation of sustainable land management. Thus, we cannot derive the correct answer based on the given information.",
+        "answer": -1
+    },
+    {
+        "question": 8,
+        "reasoning": "The document does not state what inclusiveness in measurement, reporting, and verification can support. Thus, we cannot derive the correct answer based on the given information.",
+        "answer": -1
+    },
+    {
+        "question": 9,
+        "reasoning": "The document does not state what agricultural practices that include indigenous and local knowledge can contribute to overcoming. Thus, we cannot derive the correct answer based on the given information.",
+        "answer": -1
+    },
+    {
+        "question": 10,
+        "reasoning": "The document does not state what empowering women can bring synergies and co-benefits to. Thus, we cannot derive the correct answer based on the given information.",
+        "answer": -1
+    },
+    {
+        "question": 1,
+        "reasoning": "The text is not available, therefore, I cannot answer the question.",
+        "answer": -1
+    },
+    {
+        "question": 2,
+        "reasoning": "The text is not available, therefore, I cannot answer the question.",
+        "answer": -1
+    },
+    {
+        "question": 3,
+        "reasoning": "The text is not available, therefore, I cannot answer the question.",
+        "answer": -1
+    },
+    {
+        "question": 4,
+        "reasoning": "The text is not available, therefore, I cannot answer the question.",
+        "answer": -1
+    },
+    {
+        "question": 5,
+        "reasoning": "The text is not available, therefore, I cannot answer the question.",
+        "answer": -1
+    }
+]
