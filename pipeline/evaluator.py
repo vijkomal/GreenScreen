@@ -55,44 +55,53 @@ class Evaluator:
             del self.cache[report.display_name]
             save_json(self.cache, UPLOADED_FILES_CACHE)
 
-    def evaluate_content(self, questions: list, report: Report):
+    def evaluate_content(self, results_id, questions: list, report: Report):
         print("[*] Getting answers...")
 
-        # results_path = report.display_name.lower().replace(" ", "-")
+        results_path = f"../results/{results_id}.json"
 
         # Upload report
-        report = genai.upload_file(
+        report_file = genai.upload_file(
             path=report.filepath, display_name=report.display_name
         )
         print(f"Uploaded {report.display_name}")
 
         results = []
-        for i, data in tqdm(enumerate(questions)):
-            # Create multiple-choice question prompt
-            option_list = f"1) {data['option_1']}\n"
-            option_list += f"2) {data['option_2']}\n"
-            option_list += f"3) {data['option_3']}\n"
-            placeholders = [
-                ("[QUESTION_NUM]", str(i + 1)),
-                ("[QUESTION]", data["question"]),
-                ("[OPTIONS]", option_list),
-            ]
-            prompt = self.get_prompt("exam-question.prompt", placeholders)
+        step_size = 10
+        for i in range(0, len(questions), step_size):
+            curr = questions[i : i + step_size]
+            prompt = self.get_prompt("exam-question-initial.prompt", [])
+            prompt += "\n\n"
+            for j, qa in enumerate(curr):
+                # Create multiple-choice question prompt
+                option_list = f"1) {qa['option_1']}\n"
+                option_list += f"2) {qa['option_2']}\n"
+                option_list += f"3) {qa['option_3']}\n"
+                placeholders = [
+                    ("[QUESTION_NUM]", str(j + 1)),
+                    ("[QUESTION]", qa["question"]),
+                    ("[OPTIONS]", option_list),
+                ]
+                q_prompt = self.get_prompt("exam-question.prompt", placeholders)
+                prompt += q_prompt + "\n"
 
             # Get model response
-            raw_response = self.model.generate_content([prompt, report])
-            results.append(json.loads(raw_response.text))
+            raw_response = self.model.generate_content([prompt, report_file])
+            json_response = json.loads(raw_response.text)
+            results.extend(json_response)
 
             # Slight delay
             time.sleep(0.1)
 
-            # Save every 10
-            if i % 10 == 0:
-                save_json()
+            # Save every stepsize
+            save_json(results, results_path)
 
         # Delete file
-        genai.delete_file(report.name)
+        genai.delete_file(report_file.name)
         print(f"Deleted {report.display_name}.")
+
+        print(f"Saved results to {results_path}.")
+        save_json(results, results_path)
 
         return results
 
@@ -124,64 +133,59 @@ class Evaluator:
 
     def evaluate_readability(self, transcript):
         r = Readability(transcript)
+        fk = r.flesch_kincaid()
+        f = r.flesch()
+        dc = r.dale_chall()
+        ari = r.ari()
+        gf = r.gunning_fog()
 
         readability_scores = {
-            "flesch_kincaid": r.flesch_kincaid(),
-            "flesch": r.flesch(),
-            "gunning_fog": r.gunning_fog(),
-            "coleman_liau": r.coleman_liau(),
-            "dale_chall": r.dale_chall(),
-            "ari": r.ari(),
-            "linsear_write": r.linsear_write(),
-            "smog": r.smog(),
-            "spache": r.spache(),
+            "flesch_kincaid_score": fk.score,
+            "flesch_kincaid_grade_level": fk.grade_level,
+            "flesch_score": f.score,
+            "flesch_ease": f.ease,
+            "flesch_grade_levels": f.grade_levels,
+            "dale_chall_score": dc.score,
+            "dale_chall_grade_levels": dc.grade_levels,
+            "ari_score": ari.score,
+            "ari_grade_levels": ari.grade_levels,
+            "ari_ages": ari.ages,
+            "gunning_fog_score": gf.score,
+            "gunning_fog_grade_level": gf.grade_level,
         }
 
         return readability_scores
 
-    def save_results(self, results, metrics):
-        output_path = os.path.join(
-            os.path.dirname(self.pdf_path), "evaluation_results.json"
-        )
-        with open(output_path, "w") as file:
-            json.dump({"answers": results, "metrics": metrics}, file, indent=4)
-        print("Saved results")
+    def save_results(self, results_id, labels, data):
+        results_path = f"../results/{results_id}-metrics.json"
+        results_data = {l: d for l, d in zip(labels, data)}
+        with open(results_path, "w") as file:
+            json.dump(results_data, file, indent=4)
+        print(f"Saved results and metrics to {results_path}")
 
-    def run(self, report: Report):
-        # Evaluate content
-        questions = []
-        content_results = self.evaluate_content()
-        content_metrics = self.calculate_metrics(content_results)
-        # Evaluate readability
-        readability_metrics = self.evaluate_readability()
+    def run(self, questions: list, report: Report):
+        results_id = report.display_name.lower().replace(" ", "-")
+
+        # Get content question answers
+        content_results = self.evaluate_content(results_id, questions, report)
+
+        # Compute metrics
+        content_metrics = self.calculate_metrics(questions, content_results)
+        readability_metrics = self.evaluate_readability(report.text)
+
         # Save results
         self.save_results(
-            ["content_results", "content_metrics", "readability_metrics"],
-            [content_results, content_metrics, readability_metrics],
+            results_id,
+            ["content_metrics", "readability_metrics"],
+            [content_metrics, readability_metrics],
         )
-
-
-# Example usage:
-# pdf_path = '/path/to/presentation.pdf'
-# questions = [{'question': 'What is the main topic?', 'answer': 'AI'}, ...]
-# evaluator = Evaluator(pdf_path, questions)
-# evaluator.run()
-
-# questions = load_json("../questions/sample-questions.json")
-# evaluator = Evaluator(
-#     "/Users/alice/Documents/02-OUTPUT/Row4Labs/GreenScreen/data/pages/IPCC_SPM_2018-page-7.pdf",  # check gt
-#     questions,
-# )
-# evaluator.run()
 
 
 report_reader = ReportReader()
 evaluator = Evaluator()
 
 content_questions = load_json("../questions/sample-questions.json")
-
 sample_report = report_reader.get_report(
     "../data/pages/IPCC_SPM_2018-page-7.pdf", "IPPC 2018"
 )
-results = evaluator.evaluate_content(content_questions, sample_report)
-print(results)
+evaluator.run(content_questions, sample_report)
