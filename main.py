@@ -4,13 +4,19 @@ import dataclasses
 import typing_extensions as typing
 import os
 import time
+from time import sleep
+from tqdm import tqdm
+
+# progress bar 
+for i in tqdm(range(10)):
+    sleep(3)
 
 # config genAI
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # upload sample file
-sample_file = genai.upload_file(path="GreenScreen/data/IPCC_SPM_2018.pdf", display_name="Sample Paper")
+sample_file = genai.upload_file(path="GreenScreen/data/IPCC_SPM_2019.pdf", display_name="Sample Paper")
 file = genai.get_file(name=sample_file.name)
 
 # config model 
