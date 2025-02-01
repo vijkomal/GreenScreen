@@ -2,19 +2,29 @@
 
 from PyPDF2 import PdfReader
 import re
+from dataclasses import dataclass
+
+
+@dataclass
+class Report:
+    filepath: str
+    title: str
+    text: str
 
 
 class ReportReader:
-    def __init__(self, pdf_path):
-        self.pdf_path = pdf_path
-        self.reader = PdfReader(pdf_path)
-        self.text = self._extract_text()
+    def __init__(self):
+        return
 
     def _extract_text(self):
         text = ""
         for page in self.reader.pages:
             text += page.extract_text()
         return text
+
+    def get_report(self, pdf_path, title):
+        reader = PdfReader(pdf_path)
+        text = self._extract_text()
 
     def clean_section(self, text):
         text = text.strip()

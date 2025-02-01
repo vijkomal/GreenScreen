@@ -8,6 +8,10 @@ import google.generativeai as genai
 import json
 from utils import load_json
 import re
+from evaluator import Evaluator
+from slides import Slide
+from readability import Readability
+import pandas as pd
 
 # config genAI
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
@@ -29,7 +33,7 @@ def cache_report_name(report_name):
 
 
 class Evaluator:
-    def __init__(self, pdf_path, questions):
+    def __init__(self):
         self.pdf_path = pdf_path
         self.questions = questions
         self.model = genai.GenerativeModel(
@@ -40,13 +44,13 @@ class Evaluator:
         )
 
         # upload pdf
-        cached_report_name = get_cached_report_name()
-        try:
-            self.report_file = genai.get_file(name=cached_report_name)
-        except Exception:
-            self.report = genai.upload_file(path=pdf_path, display_name="IPCC Report")
-            self.report_file = genai.get_file(name=self.report.name)
-            cache_report_name(self.report.name)
+        # cached_report_name = get_cached_report_name()
+        # try:
+        #     self.report_file = genai.get_file(name=cached_report_name)
+        # except Exception:
+        #     self.report = genai.upload_file(path=pdf_path, display_name="IPCC Report")
+        #     self.report_file = genai.get_file(name=self.report.name)
+        #     cache_report_name(self.report.name)
 
     def get_prompt(self):
         initial_prompt = """
@@ -86,9 +90,10 @@ class Evaluator:
         )  # remove excessive spaces but keep newlines
         return prompt
 
-    def evaluate(self, with_report=True):
+    def evaluate_content(self, questions, context=None, pdf_path=None):
         print("[*] Getting answers...")
         prompt = self.get_prompt()
+
         if with_report:
             raw_response = self.model.generate_content([prompt, self.report_file])
         else:
@@ -122,6 +127,23 @@ class Evaluator:
 
         return metrics
 
+    def evaluate_readability(self, transcript):
+        r = Readability(transcript)
+
+        readability_scores = {
+            "flesch_kincaid": r.flesch_kincaid(),
+            "flesch": r.flesch(),
+            "gunning_fog": r.gunning_fog(),
+            "coleman_liau": r.coleman_liau(),
+            "dale_chall": r.dale_chall(),
+            "ari": r.ari(),
+            "linsear_write": r.linsear_write(),
+            "smog": r.smog(),
+            "spache": r.spache(),
+        }
+
+        return readability_scores
+
     def save_results(self, results, metrics):
         output_path = os.path.join(
             os.path.dirname(self.pdf_path), "evaluation_results.json"
@@ -131,9 +153,12 @@ class Evaluator:
         print("Saved results")
 
     def run(self):
-        results = self.evaluate()
-        metrics = self.calculate_metrics(results)
-        self.save_results(results, metrics)
+        # Evaluate content
+        content_results = self.evaluate_content()
+        content_metrics = self.calculate_metrics(content_results)
+        # Evaluate
+        readability_metrics
+        self.save_results(content_results, metrics)
 
 
 # Example usage:
@@ -141,7 +166,6 @@ class Evaluator:
 # questions = [{'question': 'What is the main topic?', 'answer': 'AI'}, ...]
 # evaluator = Evaluator(pdf_path, questions)
 # evaluator.run()
-
 
 questions = load_json("../questions/sample-questions.json")
 evaluator = Evaluator(
