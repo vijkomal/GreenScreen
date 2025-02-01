@@ -7,16 +7,12 @@ import time
 from time import sleep
 from tqdm import tqdm
 
-# progress bar 
-for i in tqdm(range(10)):
-    sleep(3)
-
 # config genAI
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # upload sample file
-sample_file = genai.upload_file(path="GreenScreen/data/IPCC_SPM_2019.pdf", display_name="Sample Paper")
+sample_file = genai.upload_file(path="GreenScreen/data/IPCC_SPM_2022.pdf", display_name="Sample Paper")
 file = genai.get_file(name=sample_file.name)
 
 # config model 
@@ -33,7 +29,7 @@ Return: list[QA]"""
 # save as json file and create QA bank 
 raw_response = model.generate_content([prompt, sample_file])
 response = json.loads(raw_response.text)
-output_file_title = 'QA_bank_2018_v2.json'
+output_file_title = 'QA_bank_2022_v2.json'
 print("Creating QA bank file. . .\n")
 with open(output_file_title, 'w') as f:
     json.dump(response, f, indent=4)

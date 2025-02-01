@@ -565,733 +565,733 @@
         "option_2": "More than those limiting it to 2C",
         "option_3": "The same as those limiting it to 2C",
         "answer": 2
-}
-{
-    "question": "What percentage of the global, ice-free land surface is directly affected by human use?",
-    "option_1": "Less than 50%",
-    "option_2": "More than 70%",
-    "option_3": "Exactly 50%",
-    "answer": 2
-},
-{
-    "question": "Land provides which of the following for human livelihoods and well-being?",
-    "option_1": "Only food",
-    "option_2": "Only freshwater",
-    "option_3": "Food, freshwater, and multiple other ecosystem services",
-    "answer": 3
-},
-{
-    "question": "Approximately what fraction of land's potential net primary production do people use for food, feed, fibre, timber and energy?",
-    "option_1": "One quarter to one third",
-    "option_2": "One half",
-    "option_3": "Three quarters",
-    "answer": 1
-},
-{
-    "question": "Land is both a source and a sink of what?",
-    "option_1": "Water",
-    "option_2": "Energy",
-    "option_3": "Greenhouse gases",
-    "answer": 3
-},
-{
-    "question": "What has caused unprecedented rates of land and freshwater use since 1961?",
-    "option_1": "Global population growth",
-    "option_2": "Changes in per capita consumption of food, feed, fibre, timber and energy",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What is the approximate percentage of global freshwater use that is used for agriculture?",
-    "option_1": "25%",
-    "option_2": "50%",
-    "option_3": "70%",
-    "answer": 3
-},
-{
-    "question": "What percentage of total food produced is lost or wasted?",
-    "option_1": "10-15%",
-    "option_2": "25-30%",
-    "option_3": "40-50%",
-    "answer": 2
-},
-{
-    "question": "Approximately what proportion of the Earth's ice-free land area is subject to human-induced degradation?",
-    "option_1": "One eighth",
-    "option_2": "One quarter",
-    "option_3": "One half",
-    "answer": 2
-},
-{
-    "question": "Soil erosion from agricultural fields is currently estimated to be how many times higher than the soil formation rate with conventional tillage?",
-    "option_1": "10 times",
-    "option_2": "20 times",
-    "option_3": "More than 100 times",
-    "answer": 3
-},
-{
-    "question": "What exacerbates land degradation?",
-    "option_1": "Climate change",
-    "option_2": "Human activities",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "Compared to the global mean surface temperature, how much has the land surface air temperature risen since the pre-industrial period?",
-    "option_1": "About half",
-    "option_2": "Nearly twice as much",
-    "option_3": "About the same",
-    "answer": 2
-},
-{
-    "question": "Climate change has already impacted which of the following?",
-    "option_1": "Food security",
-    "option_2": "Terrestrial ecosystems",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What has increased in most land regions due to warming?",
-    "option_1": "Frequency of droughts",
-    "option_2": "Intensity of heatwaves",
-    "option_3": "Duration of heat-related events",
-    "answer": 2
-},
-{
-    "question": "What has been observed in some regions including northern Eurasia, parts of North America, Central Asia and the Congo Basin?",
-    "option_1": "Vegetation greening",
-    "option_2": "Vegetation browning",
-    "option_3": "Increased carbon sequestration",
-    "answer": 2
-},
-{
-    "question": "What is one cause of vegetation greening?",
-    "option_1": "Nitrogen depletion",
-    "option_2": "Carbon Dioxide fertilisation",
-    "option_3": "Decreased growing season",
-    "answer": 2
-},
-{
-    "question": "What has increased over the last few decades due to land use and land cover changes?",
-    "option_1": "Frequency of dust storms",
-    "option_2": "Intensity of dust storms",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What has contributed to desertification in some dryland areas?",
-    "option_1": "Increased land surface air temperature",
-    "option_2": "Decreased precipitation amount",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What has global warming led to in many world regions?",
-    "option_1": "Shifts of climate zones",
-    "option_2": "Expansion of arid climate zones",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What can exacerbate land degradation processes?",
-    "option_1": "Increases in rainfall intensity",
-    "option_2": "Flooding",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What has climate change already affected due to warming and changing precipitation patterns?",
-    "option_1": "Crop yields in higher-latitude regions",
-    "option_2": "Crop yields in many lower-latitude regions",
-    "option_3": "Both of the above",
-    "answer": 2
-},
-{
-    "question": "Which activities accounted for around 23% of total net anthropogenic emissions of GHGs?",
-    "option_1": "Agriculture",
-    "option_2": "Forestry",
-    "option_3": "Agriculture, Forestry, and Other Land Use",
-    "answer": 3
-},
-{
-    "question": "The natural response of land to human-induced environmental change caused a net sink of approximately what portion of total CO2 emissions?",
-    "option_1": "10%",
-    "option_2": "29%",
-    "option_3": "50%",
-    "answer": 2
-},
-{
-    "question": "What are the main drivers of CO2 emissions from land use and land-use change?",
-    "option_1": "Deforestation",
-    "option_2": "Afforestation/reforestation",
-    "option_3": "Both of the above",
-    "answer": 1
-},
-{
-    "question": "What is a key source of uncertainty for determining the future of the land carbon sink?",
-    "option_1": "CO2 fertilisation",
-    "option_2": "Longer growing seasons",
-    "option_3": "Balance between the processes of CO2 fertilization and vegetation growth",
-    "answer": 3
-},
-{
-    "question": "What are global models and national GHG inventories used for?",
-    "option_1": "To estimate anthropogenic CO2 emissions",
-    "option_2": "To estimate removals for the land sector",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "Which activities make up a larger proportion of methane emissions?",
-    "option_1": "Biogenic sources",
-    "option_2": "Fossil fuel sources",
-    "option_3": "Both of the above",
-    "answer": 1
-},
-{
-    "question": "What are important contributors to the rising concentration of methane?",
-    "option_1": "Ruminants",
-    "option_2": "Expansion of rice cultivation",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "Where do anthropogenic N2O emissions come from?",
-    "option_1": "Nitrogen application to soils",
-    "option_2": "Livestock on managed pastures and rangelands",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "Which components contribute to the global food system?",
-    "option_1": "Agricultural emissions",
-    "option_2": "Land use change",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What is the estimated range of emissions within the farm gate and from agricultural land expansion contributing to the global food system?",
-    "option_1": "10-15%",
-    "option_2": "16-27%",
-    "option_3": "28-35%",
-    "answer": 2
-},
-{
-    "question": "Changes in land conditions affect what at the regional scale?",
-    "option_1": "Reduce warming",
-    "option_2": "Accentuate warming",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What have human activities led to since the pre-industrial period?",
-    "option_1": "Net release of CO2",
-    "option_2": "Increase in global land albedo",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "Changes in land conditions can affect what in regions hundreds of kilometers away?",
-    "option_1": "Temperature",
-    "option_2": "Rainfall",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What does decreased snow cover and albedo in boreal regions enhance?",
-    "option_1": "Winter warming",
-    "option_2": "Growing season warming",
-    "option_3": "Both of the above",
-    "answer": 1
-},
-{
-    "question": "What does desertification amplify?",
-    "option_1": "Global warming",
-    "option_2": "Vegetation cover",
-    "option_3": "Both of the above",
-    "answer": 1
-},
-{
-    "question": "Where does cooling result from enhanced evapotranspiration?",
-    "option_1": "Tropical regions",
-    "option_2": "Boreal regions",
-    "option_3": "Temperate regions",
-    "answer": 1
-},
-{
-    "question": "What can enhance warming in cities and their surroundings?",
-    "option_1": "Global warming",
-    "option_2": "Urbanisation",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What are the SSPs in this report?",
-    "option_1": "Shared Socio-economic Pathways",
-    "option_2": "Scientific Study Protocols",
-    "option_3": "Systematic Solution Plans",
-    "answer": 1
-},
-{
-    "question": "Which SSP has low challenges to mitigation and low challenges to adaptation?",
-    "option_1": "SSP1",
-    "option_2": "SSP3",
-    "option_3": "SSP5",
-    "answer": 1
-},
-{
-    "question": "Which SSP includes high population growth, low income and continued inequalities?",
-    "option_1": "SSP1",
-    "option_2": "SSP2",
-    "option_3": "SSP3",
-    "answer": 3
-},
-{
-    "question": "What do the SSPs span?",
-    "option_1": "Range of challenges to climate change mitigation",
-    "option_2": "Range of challenges to adaptation",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What do the increases in global mean surface temperature affect?",
-    "option_1": "Desertification",
-    "option_2": "Land degradation",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "What can changes in land-based processes drive risks to?",
-    "option_1": "Food systems",
-    "option_2": "Livelihoods",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "What can socio-economic choices do?",
-    "option_1": "Reduce climate related risks",
-    "option_2": "Exacerbate climate related risks",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What does the SSP1 pathway illustrate?",
-    "option_1": "High population growth",
-    "option_2": "High income and reduced inequalities",
-    "option_3": "Food produced in high GHG emission systems",
-    "answer": 2
-},
-{
-    "question": "Which regions are projected to have the highest number of people vulnerable to increased desertification?",
-    "option_1": "North America and South America",
-    "option_2": "Asia and Africa",
-    "option_3": "Europe and Australia",
-    "answer": 2
-},
-{
-    "question": "What are the projected effects of climate change on dryland regions?",
-    "option_1": "Reductions in crop productivity",
-    "option_2": "Reductions in livestock productivity",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "Changes in climate can amplify what type of migration?",
-    "option_1": "Environmentally induced migration",
-    "option_2": "Socially induced migration",
-    "option_3": "Both of the above",
-    "answer": 1
-},
-{
-    "question": "What has unsustainable land management led to?",
-    "option_1": "Negative environmental impacts",
-    "option_2": "Negative economic impacts",
-    "option_3": "Both of the above",
-    "answer": 2
-},
-{
-    "question": "The level of risk posed by climate change depends on which of the following?",
-    "option_1": "The level of warming",
-    "option_2": "How land management patterns evolve",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What do pathways with higher demand for food, feed and water result in?",
-    "option_1": "Higher risks from water scarcity",
-    "option_2": "Higher risks from food insecurity",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "What do projected increases in population and income result in?",
-    "option_1": "Increased demand for food",
-    "option_2": "Increased demand for water",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What do risks related to water scarcity depend on?",
-    "option_1": "Population growth",
-    "option_2": "Adaptive capacity",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "Risks related to climate change driven land degradation are higher in which pathways?",
-    "option_1": "High adaptive capacity",
-    "option_2": "Low adaptive capacity",
-    "option_3": "Both of the above",
-    "answer": 2
-},
-{
-    "question": "What are risks related to food security greater in?",
-    "option_1": "Pathways with higher incomes",
-    "option_2": "Pathways with lower incomes",
-    "option_3": "Pathways with more limited trade",
-    "answer": 2
-},
-{
-    "question": "What is projected to lead to conversion of cropland?",
-    "option_1": "Urban expansion",
-    "option_2": "Decreased use of fertilizers",
-    "option_3": "Improved land management",
-    "answer": 1
-},
-{
-    "question": "What can land-related responses contribute to?",
-    "option_1": "Climate change adaptation",
-    "option_2": "Climate change mitigation",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What do many land-related actions contribute to?",
-    "option_1": "Adaptation",
-    "option_2": "Mitigation",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What do examples of response options with immediate impacts include?",
-    "option_1": "Afforestation",
-    "option_2": "Reforestation",
-    "option_3": "Conservation of high-carbon ecosystems",
-    "answer": 3
-},
-{
-    "question": "What does the successful implementation of response options depend on?",
-    "option_1": "Local environmental conditions",
-    "option_2": "Local socio-economic conditions",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What do land-based options that deliver carbon sequestration not continue to do indefinitely?",
-    "option_1": "Sequester carbon",
-    "option_2": "Emit carbon",
-    "option_3": "Both of the above",
-    "answer": 1
-},
-{
-    "question": "Most of the response options assessed contribute to what?",
-    "option_1": "Sustainable development",
-    "option_2": "Other societal goals",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What can a number of land management options not require?",
-    "option_1": "Land use change",
-    "option_2": "Demand for more land conversion",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What do many activities for combating desertification contribute to?",
-    "option_1": "Climate change adaptation",
-    "option_2": "Halting biodiversity loss",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "Measures to combat desertification can promote what?",
-    "option_1": "Soil carbon sequestration",
-    "option_2": "Natural vegetation restoration",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What can be benefited by applying measures promoting land degradation neutrality?",
-    "option_1": "Eradicating poverty",
-    "option_2": "Ensuring food security",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What can developing, enabling and promoting access to cleaner energy sources and technologies contribute to?",
-    "option_1": "Mitigating climate change",
-    "option_2": "Combating desertification",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What can sustainable land management do?",
-    "option_1": "Prevent land degradation",
-    "option_2": "Maintain land productivity",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "What management options can reduce vulnerability to soil erosion and nutrient loss?",
-    "option_1": "Growing green manure crops",
-    "option_2": "Crop residue retention",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "What do farming systems such as agroforestry do?",
-    "option_1": "Substantially reduce erosion",
-    "option_2": "Build soil carbon",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "Reducing deforestation and forest degradation does what?",
-    "option_1": "Lowers GHG emissions",
-    "option_2": "Increases GHG emissions",
-    "option_3": "No effect on GHG emissions",
-    "answer": 1
-},
-{
-    "question": "Sustainable forest management can maintain or enhance what?",
-    "option_1": "Forest carbon stocks",
-    "option_2": "Forest carbon sinks",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What does climate change lead to, even with the implementation of measures intended to avoid, reduce or reverse land degradation?",
-    "option_1": "Land degradation",
-    "option_2": "Limits to adaptation",
-    "option_3": "Both of the above",
-    "answer": 2
-},
-{
-    "question": "Response options throughout the food system, from production to consumption, including food loss and waste, can do what?",
-    "option_1": "Advance adaptation",
-    "option_2": "Advance mitigation",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "Practices that contribute to climate change adaptation and mitigation in cropland include what?",
-    "option_1": "Increasing soil organic matter",
-    "option_2": "Improved crop management",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "Diversification in the food system can reduce what?",
-    "option_1": "Risks from climate change",
-    "option_2": "Risks from market fluctuations",
-    "option_3": "Both of the above",
-    "answer": 1
-},
-{
-    "question": "Reduction of food loss and waste can do what?",
-    "option_1": "Lower GHG emissions",
-    "option_2": "Contribute to adaptation",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What do all assessed modelled pathways that limit warming to 1.5\u00b0C or well below 2\u00b0C require?",
-    "option_1": "Land-based mitigation",
-    "option_2": "Land-use change",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "Most mitigation pathways include substantial deployment of what?",
-    "option_1": "Bioenergy technologies",
-    "option_2": "Carbon capture technologies",
-    "option_3": "Both of the above",
-    "answer": 1
-},
-{
-    "question": "What does appropriate design of policies, institutions and governance systems at all scales contribute to?",
-    "option_1": "Land-related adaptation",
-    "option_2": "Land-related mitigation",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "Which of the following instruments can achieve positive adaptation and mitigation outcomes?",
-    "option_1": "Land-use zoning",
-    "option_2": "Spatial planning",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "What does insecure land tenure affect?",
-    "option_1": "Ability of people to make changes to land",
-    "option_2": "Ability of communities to make changes to land",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What will achieving land degradation neutrality involve?",
-    "option_1": "Avoid and reduce land degradation",
-    "option_2": "Reverse land degradation",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "A mix of policies, rather than single policy approaches, can do what?",
-    "option_1": "Deliver improved results",
-    "option_2": "Reduce vulnerability to climate change",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "Policies that operate across the food system enable what?",
-    "option_1": "More sustainable land-use management",
-    "option_2": "Enhanced food security",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "Policies that enable and incentivise sustainable land management include what?",
-    "option_1": "Improved access to markets",
-    "option_2": "Empowering women",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "Reflecting the environmental costs of land-degrading agricultural practices can do what?",
-    "option_1": "Incentivise more sustainable land management",
-    "option_2": "Reduce productivity",
-    "option_3": "Increase costs",
-    "answer": 1
-},
-{
-    "question": "What can facilitate adaptation and enhanced resilience to extreme events impacting food systems?",
-    "option_1": "Risk management",
-    "option_2": "Agricultural diversification",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "Public health policies to improve nutrition can potentially do what?",
-    "option_1": "Influence food demand",
-    "option_2": "Reduce healthcare costs",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "Acknowledging co-benefits and trade-offs when designing land and food policies can overcome barriers to what?",
-    "option_1": "Adaptation",
-    "option_2": "Mitigation",
-    "option_3": "Implementation",
-    "answer": 3
-},
-{
-    "question": "What can addressing desertification, land degradation, and food security in an integrated manner assist?",
-    "option_1": "Climate resilient development",
-    "option_2": "Food security",
-    "option_3": "Both of the above",
-    "answer": 1
-},
-{
-    "question": "What can limit the adoption of many land-based response options?",
-    "option_1": "Technical barriers",
-    "option_2": "Biophysical barriers",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "What does coordination with other sectors increase?",
-    "option_1": "Co-benefits",
-    "option_2": "Co-risks",
-    "option_3": "Both of the above",
-    "answer": 1
-},
-{
-    "question": "Some response options and policies may result in what?",
-    "option_1": "Trade-offs",
-    "option_2": "Social impacts",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "The effectiveness of decision-making and governance is enhanced by the involvement of whom?",
-    "option_1": "Local stakeholders",
-    "option_2": "Indigenous peoples",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "Successful implementation of sustainable land management practices requires accounting for what?",
-    "option_1": "Local environmental conditions",
-    "option_2": "Local socio-economic conditions",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What can inclusiveness in the measurement, reporting and verification of the performance of policy instruments support?",
-    "option_1": "Sustainable land management",
-    "option_2": "Effective policy",
-    "option_3": "Both of the above",
-    "answer": 1
-},
-{
-    "question": "Agricultural practices that include indigenous and local knowledge can contribute to overcoming what?",
-    "option_1": "Climate change challenges",
-    "option_2": "Food security challenges",
-    "option_3": "All of the above",
-    "answer": 3
-},
-{
-    "question": "What can empowering women bring synergies and co-benefits to?",
-    "option_1": "Household food security",
-    "option_2": "Sustainable land management",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What does rapid reductions in anthropogenic GHG emissions reduce?",
-    "option_1": "Negative impacts of climate change on land",
-    "option_2": "Negative impacts of climate change on food systems",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What would delaying climate mitigation and adaptation responses across sectors lead to?",
-    "option_1": "Increasingly negative impacts on land",
-    "option_2": "Reducing the prospect of sustainable development",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "What does delayed action across sectors lead to?",
-    "option_1": "Increasing need for land-based adaptation",
-    "option_2": "Decreasing potential for the array of land-based mitigation options",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "In future scenarios, deferral of GHG emissions reductions implies what?",
-    "option_1": "Significantly higher costs",
-    "option_2": "Significantly higher risks",
-    "option_3": "Both of the above",
-    "answer": 3
-},
-{
-    "question": "Deferral of GHG emissions reductions from all sectors implies trade-offs including what?",
-    "option_1": "Irreversible loss in land ecosystem functions",
-    "option_2": "Irreversible loss in land ecosystem services",
-    "option_3": "Both of the above",
-    "answer": 3
-}
+    }
+    {
+        "question": "What percentage of the global, ice-free land surface is directly affected by human use?",
+        "option_1": "Less than 50%",
+        "option_2": "More than 70%",
+        "option_3": "Exactly 50%",
+        "answer": 2
+    },
+    {
+        "question": "Land provides which of the following for human livelihoods and well-being?",
+        "option_1": "Only food",
+        "option_2": "Only freshwater",
+        "option_3": "Food, freshwater, and multiple other ecosystem services",
+        "answer": 3
+    },
+    {
+        "question": "Approximately what fraction of land's potential net primary production do people use for food, feed, fibre, timber and energy?",
+        "option_1": "One quarter to one third",
+        "option_2": "One half",
+        "option_3": "Three quarters",
+        "answer": 1
+    },
+    {
+        "question": "Land is both a source and a sink of what?",
+        "option_1": "Water",
+        "option_2": "Energy",
+        "option_3": "Greenhouse gases",
+        "answer": 3
+    },
+    {
+        "question": "What has caused unprecedented rates of land and freshwater use since 1961?",
+        "option_1": "Global population growth",
+        "option_2": "Changes in per capita consumption of food, feed, fibre, timber and energy",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What is the approximate percentage of global freshwater use that is used for agriculture?",
+        "option_1": "25%",
+        "option_2": "50%",
+        "option_3": "70%",
+        "answer": 3
+    },
+    {
+        "question": "What percentage of total food produced is lost or wasted?",
+        "option_1": "10-15%",
+        "option_2": "25-30%",
+        "option_3": "40-50%",
+        "answer": 2
+    },
+    {
+        "question": "Approximately what proportion of the Earth's ice-free land area is subject to human-induced degradation?",
+        "option_1": "One eighth",
+        "option_2": "One quarter",
+        "option_3": "One half",
+        "answer": 2
+    },
+    {
+        "question": "Soil erosion from agricultural fields is currently estimated to be how many times higher than the soil formation rate with conventional tillage?",
+        "option_1": "10 times",
+        "option_2": "20 times",
+        "option_3": "More than 100 times",
+        "answer": 3
+    },
+    {
+        "question": "What exacerbates land degradation?",
+        "option_1": "Climate change",
+        "option_2": "Human activities",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "Compared to the global mean surface temperature, how much has the land surface air temperature risen since the pre-industrial period?",
+        "option_1": "About half",
+        "option_2": "Nearly twice as much",
+        "option_3": "About the same",
+        "answer": 2
+    },
+    {
+        "question": "Climate change has already impacted which of the following?",
+        "option_1": "Food security",
+        "option_2": "Terrestrial ecosystems",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What has increased in most land regions due to warming?",
+        "option_1": "Frequency of droughts",
+        "option_2": "Intensity of heatwaves",
+        "option_3": "Duration of heat-related events",
+        "answer": 2
+    },
+    {
+        "question": "What has been observed in some regions including northern Eurasia, parts of North America, Central Asia and the Congo Basin?",
+        "option_1": "Vegetation greening",
+        "option_2": "Vegetation browning",
+        "option_3": "Increased carbon sequestration",
+        "answer": 2
+    },
+    {
+        "question": "What is one cause of vegetation greening?",
+        "option_1": "Nitrogen depletion",
+        "option_2": "Carbon Dioxide fertilisation",
+        "option_3": "Decreased growing season",
+        "answer": 2
+    },
+    {
+        "question": "What has increased over the last few decades due to land use and land cover changes?",
+        "option_1": "Frequency of dust storms",
+        "option_2": "Intensity of dust storms",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What has contributed to desertification in some dryland areas?",
+        "option_1": "Increased land surface air temperature",
+        "option_2": "Decreased precipitation amount",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What has global warming led to in many world regions?",
+        "option_1": "Shifts of climate zones",
+        "option_2": "Expansion of arid climate zones",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What can exacerbate land degradation processes?",
+        "option_1": "Increases in rainfall intensity",
+        "option_2": "Flooding",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What has climate change already affected due to warming and changing precipitation patterns?",
+        "option_1": "Crop yields in higher-latitude regions",
+        "option_2": "Crop yields in many lower-latitude regions",
+        "option_3": "Both of the above",
+        "answer": 2
+    },
+    {
+        "question": "Which activities accounted for around 23% of total net anthropogenic emissions of GHGs?",
+        "option_1": "Agriculture",
+        "option_2": "Forestry",
+        "option_3": "Agriculture, Forestry, and Other Land Use",
+        "answer": 3
+    },
+    {
+        "question": "The natural response of land to human-induced environmental change caused a net sink of approximately what portion of total CO2 emissions?",
+        "option_1": "10%",
+        "option_2": "29%",
+        "option_3": "50%",
+        "answer": 2
+    },
+    {
+        "question": "What are the main drivers of CO2 emissions from land use and land-use change?",
+        "option_1": "Deforestation",
+        "option_2": "Afforestation/reforestation",
+        "option_3": "Both of the above",
+        "answer": 1
+    },
+    {
+        "question": "What is a key source of uncertainty for determining the future of the land carbon sink?",
+        "option_1": "CO2 fertilisation",
+        "option_2": "Longer growing seasons",
+        "option_3": "Balance between the processes of CO2 fertilization and vegetation growth",
+        "answer": 3
+    },
+    {
+        "question": "What are global models and national GHG inventories used for?",
+        "option_1": "To estimate anthropogenic CO2 emissions",
+        "option_2": "To estimate removals for the land sector",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "Which activities make up a larger proportion of methane emissions?",
+        "option_1": "Biogenic sources",
+        "option_2": "Fossil fuel sources",
+        "option_3": "Both of the above",
+        "answer": 1
+    },
+    {
+        "question": "What are important contributors to the rising concentration of methane?",
+        "option_1": "Ruminants",
+        "option_2": "Expansion of rice cultivation",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "Where do anthropogenic N2O emissions come from?",
+        "option_1": "Nitrogen application to soils",
+        "option_2": "Livestock on managed pastures and rangelands",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "Which components contribute to the global food system?",
+        "option_1": "Agricultural emissions",
+        "option_2": "Land use change",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What is the estimated range of emissions within the farm gate and from agricultural land expansion contributing to the global food system?",
+        "option_1": "10-15%",
+        "option_2": "16-27%",
+        "option_3": "28-35%",
+        "answer": 2
+    },
+    {
+        "question": "Changes in land conditions affect what at the regional scale?",
+        "option_1": "Reduce warming",
+        "option_2": "Accentuate warming",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What have human activities led to since the pre-industrial period?",
+        "option_1": "Net release of CO2",
+        "option_2": "Increase in global land albedo",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "Changes in land conditions can affect what in regions hundreds of kilometers away?",
+        "option_1": "Temperature",
+        "option_2": "Rainfall",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What does decreased snow cover and albedo in boreal regions enhance?",
+        "option_1": "Winter warming",
+        "option_2": "Growing season warming",
+        "option_3": "Both of the above",
+        "answer": 1
+    },
+    {
+        "question": "What does desertification amplify?",
+        "option_1": "Global warming",
+        "option_2": "Vegetation cover",
+        "option_3": "Both of the above",
+        "answer": 1
+    },
+    {
+        "question": "Where does cooling result from enhanced evapotranspiration?",
+        "option_1": "Tropical regions",
+        "option_2": "Boreal regions",
+        "option_3": "Temperate regions",
+        "answer": 1
+    },
+    {
+        "question": "What can enhance warming in cities and their surroundings?",
+        "option_1": "Global warming",
+        "option_2": "Urbanisation",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What are the SSPs in this report?",
+        "option_1": "Shared Socio-economic Pathways",
+        "option_2": "Scientific Study Protocols",
+        "option_3": "Systematic Solution Plans",
+        "answer": 1
+    },
+    {
+        "question": "Which SSP has low challenges to mitigation and low challenges to adaptation?",
+        "option_1": "SSP1",
+        "option_2": "SSP3",
+        "option_3": "SSP5",
+        "answer": 1
+    },
+    {
+        "question": "Which SSP includes high population growth, low income and continued inequalities?",
+        "option_1": "SSP1",
+        "option_2": "SSP2",
+        "option_3": "SSP3",
+        "answer": 3
+    },
+    {
+        "question": "What do the SSPs span?",
+        "option_1": "Range of challenges to climate change mitigation",
+        "option_2": "Range of challenges to adaptation",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What do the increases in global mean surface temperature affect?",
+        "option_1": "Desertification",
+        "option_2": "Land degradation",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "What can changes in land-based processes drive risks to?",
+        "option_1": "Food systems",
+        "option_2": "Livelihoods",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "What can socio-economic choices do?",
+        "option_1": "Reduce climate related risks",
+        "option_2": "Exacerbate climate related risks",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What does the SSP1 pathway illustrate?",
+        "option_1": "High population growth",
+        "option_2": "High income and reduced inequalities",
+        "option_3": "Food produced in high GHG emission systems",
+        "answer": 2
+    },
+    {
+        "question": "Which regions are projected to have the highest number of people vulnerable to increased desertification?",
+        "option_1": "North America and South America",
+        "option_2": "Asia and Africa",
+        "option_3": "Europe and Australia",
+        "answer": 2
+    },
+    {
+        "question": "What are the projected effects of climate change on dryland regions?",
+        "option_1": "Reductions in crop productivity",
+        "option_2": "Reductions in livestock productivity",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "Changes in climate can amplify what type of migration?",
+        "option_1": "Environmentally induced migration",
+        "option_2": "Socially induced migration",
+        "option_3": "Both of the above",
+        "answer": 1
+    },
+    {
+        "question": "What has unsustainable land management led to?",
+        "option_1": "Negative environmental impacts",
+        "option_2": "Negative economic impacts",
+        "option_3": "Both of the above",
+        "answer": 2
+    },
+    {
+        "question": "The level of risk posed by climate change depends on which of the following?",
+        "option_1": "The level of warming",
+        "option_2": "How land management patterns evolve",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What do pathways with higher demand for food, feed and water result in?",
+        "option_1": "Higher risks from water scarcity",
+        "option_2": "Higher risks from food insecurity",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "What do projected increases in population and income result in?",
+        "option_1": "Increased demand for food",
+        "option_2": "Increased demand for water",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What do risks related to water scarcity depend on?",
+        "option_1": "Population growth",
+        "option_2": "Adaptive capacity",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "Risks related to climate change driven land degradation are higher in which pathways?",
+        "option_1": "High adaptive capacity",
+        "option_2": "Low adaptive capacity",
+        "option_3": "Both of the above",
+        "answer": 2
+    },
+    {
+        "question": "What are risks related to food security greater in?",
+        "option_1": "Pathways with higher incomes",
+        "option_2": "Pathways with lower incomes",
+        "option_3": "Pathways with more limited trade",
+        "answer": 2
+    },
+    {
+        "question": "What is projected to lead to conversion of cropland?",
+        "option_1": "Urban expansion",
+        "option_2": "Decreased use of fertilizers",
+        "option_3": "Improved land management",
+        "answer": 1
+    },
+    {
+        "question": "What can land-related responses contribute to?",
+        "option_1": "Climate change adaptation",
+        "option_2": "Climate change mitigation",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What do many land-related actions contribute to?",
+        "option_1": "Adaptation",
+        "option_2": "Mitigation",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What do examples of response options with immediate impacts include?",
+        "option_1": "Afforestation",
+        "option_2": "Reforestation",
+        "option_3": "Conservation of high-carbon ecosystems",
+        "answer": 3
+    },
+    {
+        "question": "What does the successful implementation of response options depend on?",
+        "option_1": "Local environmental conditions",
+        "option_2": "Local socio-economic conditions",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What do land-based options that deliver carbon sequestration not continue to do indefinitely?",
+        "option_1": "Sequester carbon",
+        "option_2": "Emit carbon",
+        "option_3": "Both of the above",
+        "answer": 1
+    },
+    {
+        "question": "Most of the response options assessed contribute to what?",
+        "option_1": "Sustainable development",
+        "option_2": "Other societal goals",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What can a number of land management options not require?",
+        "option_1": "Land use change",
+        "option_2": "Demand for more land conversion",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What do many activities for combating desertification contribute to?",
+        "option_1": "Climate change adaptation",
+        "option_2": "Halting biodiversity loss",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "Measures to combat desertification can promote what?",
+        "option_1": "Soil carbon sequestration",
+        "option_2": "Natural vegetation restoration",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What can be benefited by applying measures promoting land degradation neutrality?",
+        "option_1": "Eradicating poverty",
+        "option_2": "Ensuring food security",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What can developing, enabling and promoting access to cleaner energy sources and technologies contribute to?",
+        "option_1": "Mitigating climate change",
+        "option_2": "Combating desertification",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What can sustainable land management do?",
+        "option_1": "Prevent land degradation",
+        "option_2": "Maintain land productivity",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "What management options can reduce vulnerability to soil erosion and nutrient loss?",
+        "option_1": "Growing green manure crops",
+        "option_2": "Crop residue retention",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "What do farming systems such as agroforestry do?",
+        "option_1": "Substantially reduce erosion",
+        "option_2": "Build soil carbon",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "Reducing deforestation and forest degradation does what?",
+        "option_1": "Lowers GHG emissions",
+        "option_2": "Increases GHG emissions",
+        "option_3": "No effect on GHG emissions",
+        "answer": 1
+    },
+    {
+        "question": "Sustainable forest management can maintain or enhance what?",
+        "option_1": "Forest carbon stocks",
+        "option_2": "Forest carbon sinks",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What does climate change lead to, even with the implementation of measures intended to avoid, reduce or reverse land degradation?",
+        "option_1": "Land degradation",
+        "option_2": "Limits to adaptation",
+        "option_3": "Both of the above",
+        "answer": 2
+    },
+    {
+        "question": "Response options throughout the food system, from production to consumption, including food loss and waste, can do what?",
+        "option_1": "Advance adaptation",
+        "option_2": "Advance mitigation",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "Practices that contribute to climate change adaptation and mitigation in cropland include what?",
+        "option_1": "Increasing soil organic matter",
+        "option_2": "Improved crop management",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "Diversification in the food system can reduce what?",
+        "option_1": "Risks from climate change",
+        "option_2": "Risks from market fluctuations",
+        "option_3": "Both of the above",
+        "answer": 1
+    },
+    {
+        "question": "Reduction of food loss and waste can do what?",
+        "option_1": "Lower GHG emissions",
+        "option_2": "Contribute to adaptation",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What do all assessed modelled pathways that limit warming to 1.5\u00b0C or well below 2\u00b0C require?",
+        "option_1": "Land-based mitigation",
+        "option_2": "Land-use change",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "Most mitigation pathways include substantial deployment of what?",
+        "option_1": "Bioenergy technologies",
+        "option_2": "Carbon capture technologies",
+        "option_3": "Both of the above",
+        "answer": 1
+    },
+    {
+        "question": "What does appropriate design of policies, institutions and governance systems at all scales contribute to?",
+        "option_1": "Land-related adaptation",
+        "option_2": "Land-related mitigation",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "Which of the following instruments can achieve positive adaptation and mitigation outcomes?",
+        "option_1": "Land-use zoning",
+        "option_2": "Spatial planning",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "What does insecure land tenure affect?",
+        "option_1": "Ability of people to make changes to land",
+        "option_2": "Ability of communities to make changes to land",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What will achieving land degradation neutrality involve?",
+        "option_1": "Avoid and reduce land degradation",
+        "option_2": "Reverse land degradation",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "A mix of policies, rather than single policy approaches, can do what?",
+        "option_1": "Deliver improved results",
+        "option_2": "Reduce vulnerability to climate change",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "Policies that operate across the food system enable what?",
+        "option_1": "More sustainable land-use management",
+        "option_2": "Enhanced food security",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "Policies that enable and incentivise sustainable land management include what?",
+        "option_1": "Improved access to markets",
+        "option_2": "Empowering women",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "Reflecting the environmental costs of land-degrading agricultural practices can do what?",
+        "option_1": "Incentivise more sustainable land management",
+        "option_2": "Reduce productivity",
+        "option_3": "Increase costs",
+        "answer": 1
+    },
+    {
+        "question": "What can facilitate adaptation and enhanced resilience to extreme events impacting food systems?",
+        "option_1": "Risk management",
+        "option_2": "Agricultural diversification",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "Public health policies to improve nutrition can potentially do what?",
+        "option_1": "Influence food demand",
+        "option_2": "Reduce healthcare costs",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "Acknowledging co-benefits and trade-offs when designing land and food policies can overcome barriers to what?",
+        "option_1": "Adaptation",
+        "option_2": "Mitigation",
+        "option_3": "Implementation",
+        "answer": 3
+    },
+    {
+        "question": "What can addressing desertification, land degradation, and food security in an integrated manner assist?",
+        "option_1": "Climate resilient development",
+        "option_2": "Food security",
+        "option_3": "Both of the above",
+        "answer": 1
+    },
+    {
+        "question": "What can limit the adoption of many land-based response options?",
+        "option_1": "Technical barriers",
+        "option_2": "Biophysical barriers",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "What does coordination with other sectors increase?",
+        "option_1": "Co-benefits",
+        "option_2": "Co-risks",
+        "option_3": "Both of the above",
+        "answer": 1
+    },
+    {
+        "question": "Some response options and policies may result in what?",
+        "option_1": "Trade-offs",
+        "option_2": "Social impacts",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "The effectiveness of decision-making and governance is enhanced by the involvement of whom?",
+        "option_1": "Local stakeholders",
+        "option_2": "Indigenous peoples",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "Successful implementation of sustainable land management practices requires accounting for what?",
+        "option_1": "Local environmental conditions",
+        "option_2": "Local socio-economic conditions",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What can inclusiveness in the measurement, reporting and verification of the performance of policy instruments support?",
+        "option_1": "Sustainable land management",
+        "option_2": "Effective policy",
+        "option_3": "Both of the above",
+        "answer": 1
+    },
+    {
+        "question": "Agricultural practices that include indigenous and local knowledge can contribute to overcoming what?",
+        "option_1": "Climate change challenges",
+        "option_2": "Food security challenges",
+        "option_3": "All of the above",
+        "answer": 3
+    },
+    {
+        "question": "What can empowering women bring synergies and co-benefits to?",
+        "option_1": "Household food security",
+        "option_2": "Sustainable land management",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What does rapid reductions in anthropogenic GHG emissions reduce?",
+        "option_1": "Negative impacts of climate change on land",
+        "option_2": "Negative impacts of climate change on food systems",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What would delaying climate mitigation and adaptation responses across sectors lead to?",
+        "option_1": "Increasingly negative impacts on land",
+        "option_2": "Reducing the prospect of sustainable development",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "What does delayed action across sectors lead to?",
+        "option_1": "Increasing need for land-based adaptation",
+        "option_2": "Decreasing potential for the array of land-based mitigation options",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "In future scenarios, deferral of GHG emissions reductions implies what?",
+        "option_1": "Significantly higher costs",
+        "option_2": "Significantly higher risks",
+        "option_3": "Both of the above",
+        "answer": 3
+    },
+    {
+        "question": "Deferral of GHG emissions reductions from all sectors implies trade-offs including what?",
+        "option_1": "Irreversible loss in land ecosystem functions",
+        "option_2": "Irreversible loss in land ecosystem services",
+        "option_3": "Both of the above",
+        "answer": 3
+    }
 ]

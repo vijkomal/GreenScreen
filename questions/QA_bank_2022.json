@@ -1,0 +1,1017 @@
+[
+    {
+        "question": "What does deep, rapid, and sustained reductions in greenhouse gas emissions lead to?",
+        "option_1": "Increased warming",
+        "option_2": "Slower rate of climate change",
+        "option_3": "More unpredictable climate patterns",
+        "answer": 2
+    },
+    {
+        "question": "What does the report recognize as interdependent?",
+        "option_1": "Climate, ecosystems, biodiversity, and human societies",
+        "option_2": "Only climate and human societies",
+        "option_3": "Only ecosystems and biodiversity",
+        "answer": 1
+    },
+    {
+        "question": "What is the concept of risk central to?",
+        "option_1": "Only social impacts",
+        "option_2": "All three AR6 working groups",
+        "option_3": "Only ecological assessments",
+        "answer": 2
+    },
+    {
+        "question": "What are the three components that generate risk in the context of climate change?",
+        "option_1": "Hazards, exposure, and vulnerability",
+        "option_2": "Only exposure and vulnerability",
+        "option_3": "Only climate hazards",
+        "answer": 1
+    },
+    {
+        "question": "What role does adaptation play in regards to climate change?",
+        "option_1": "Increases exposure",
+        "option_2": "Reduces vulnerability",
+        "option_3": "Has no effect",
+        "answer": 2
+    },
+    {
+        "question": "What does resilience encompass?",
+        "option_1": "Returning to the previous state",
+        "option_2": "The ability to maintain function and the capacity for transformation",
+        "option_3": "Only maintaining structure",
+        "answer": 2
+    },
+    {
+        "question": "What does the term climate justice generally include?",
+        "option_1": "Only distributive justice",
+        "option_2": "Only procedural justice",
+        "option_3": "Distributive, procedural, and recognition",
+        "answer": 3
+    },
+    {
+        "question": "What does effectiveness refer to in the context of actions related to climate change?",
+        "option_1": "Only reducing vulnerability",
+        "option_2": "The extent to which an action reduces vulnerability and risk, increases resilience, and avoids maladaptation",
+        "option_3": "Only avoiding maladaptation",
+        "answer": 2
+    },
+    {
+        "question": "What are system transitions important for?",
+        "option_1": "Only human health",
+        "option_2": "Ecosystem health only",
+        "option_3": "Achieving low global warming levels and human health, economic and social resilience and ecosystem health",
+        "answer": 3
+    },
+    {
+        "question": "Which time period approximates pre-industrial global surface temperature?",
+        "option_1": "2021-2040",
+        "option_2": "1850-1900",
+        "option_3": "2081-2100",
+        "answer": 2
+    },
+    {
+        "question": "What has the knowledge base increased since AR5?",
+        "option_1": "Observed impacts only",
+        "option_2": "Projected impacts only",
+        "option_3": "Observed and projected impacts",
+        "answer": 3
+    },
+    {
+        "question": "What does the term 'losses and damages' refer to?",
+        "option_1": "Only economic losses",
+        "option_2": "Adverse observed impacts or projected risks",
+        "option_3": "Only non-economic losses",
+        "answer": 2
+    },
+    {
+        "question": "What have the observed increases in areas burned by wildfires been attributed to in some regions?",
+        "option_1": "Natural variability only",
+        "option_2": "Human-induced climate change",
+        "option_3": "Natural causes alone",
+        "answer": 2
+    },
+    {
+        "question": "What has climate change caused in terrestrial, freshwater, and marine ecosystems?",
+        "option_1": "Only reversible losses",
+        "option_2": "Increasingly irreversible losses",
+        "option_3": "Only minimal changes",
+        "answer": 2
+    },
+    {
+        "question": "What has slowed the growth of overall agricultural productivity over the past 50 years?",
+        "option_1": "Increased use of fertilizers",
+        "option_2": "Climate change",
+        "option_3": "Increased efficiency",
+        "answer": 2
+    },
+    {
+        "question": "What is a main result from extreme heat events in all regions?",
+        "option_1": "Decreased mortality",
+        "option_2": "Increased human mortality and morbidity",
+        "option_3": "No impact on health",
+        "answer": 2
+    },
+    {
+        "question": "What is the main impact observed in urban settings?",
+        "option_1": "Improved health",
+        "option_2": "Impacts on human health, livelihoods, and key infrastructure",
+        "option_3": "Decreased vulnerability",
+        "answer": 2
+    },
+    {
+        "question": "What is climate change contributing to in relation to humanitarian crises?",
+        "option_1": "Decreased displacement",
+        "option_2": "Increased displacement",
+        "option_3": "No effect on humanitarian crises",
+        "answer": 2
+    },
+    {
+        "question": "What are some main drivers of vulnerability?",
+        "option_1": "Only climate change",
+        "option_2": "Socioeconomic development, unsustainable land use, inequity, marginalization, and governance",
+        "option_3": "Only natural disasters",
+        "answer": 2
+    },
+    {
+        "question": "What does the loss of ecosystems and their services impact?",
+        "option_1": "Only developed nations",
+        "option_2": "People globally, especially for Indigenous Peoples and local communities",
+        "option_3": "Only urban populations",
+        "answer": 2
+    },
+    {
+        "question": "What exacerbates ecosystem vulnerability to climate change?",
+        "option_1": "Sustainable use of resources",
+        "option_2": "Unsustainable use of natural resources, habitat fragmentation, and pollution",
+        "option_3": "Increased protection of areas",
+        "answer": 2
+    },
+    {
+        "question": "What will future vulnerability of ecosystems be strongly influenced by?",
+        "option_1": "Only present actions",
+        "option_2": "Past, present, and future development of human society",
+        "option_3": "Only climate projections",
+        "answer": 2
+    },
+    {
+        "question": "Where are global hotspots of high human vulnerability found?",
+        "option_1": "Only developed nations",
+        "option_2": "West, Central, and East Africa, South Asia, Central and South America, Small Island Developing States and the Arctic",
+        "option_3": "Only in mountain regions",
+        "answer": 2
+    },
+    {
+        "question": "What is happening to human mortality from floods, droughts and storms in vulnerable regions?",
+        "option_1": "It is decreasing",
+        "option_2": "It is 15 times higher than in low vulnerable regions",
+        "option_3": "It is the same as other regions",
+        "answer": 2
+    },
+    {
+        "question": "Where will future human vulnerability continue to concentrate?",
+        "option_1": "Regions with strong infrastructures",
+        "option_2": "Regions with the least capacity to provide infrastructures and basic services",
+        "option_3": "Everywhere equally",
+        "answer": 2
+    },
+    {
+        "question": "What is the main result of global warming reaching 1.5\u00b0C in the near-term?",
+        "option_1": "Avoidable climate hazards",
+        "option_2": "Unavoidable increases in multiple climate hazards and present multiple risks",
+        "option_3": "Eliminated risk to ecosystems and humans",
+        "answer": 2
+    },
+    {
+        "question": "What does the level of risk depend on in the near-term?",
+        "option_1": "Only climate change",
+        "option_2": "Concurrent trends in vulnerability, exposure, socioeconomic development and adaptation",
+        "option_3": "Only vulnerability",
+        "answer": 2
+    },
+    {
+        "question": "What will continued sea level rise lead to in the near term?",
+        "option_1": "No impact on coastlines",
+        "option_2": "Encroachment on coastal settlements and infrastructure and commit low-lying coastal ecosystems to submergence and loss",
+        "option_3": "Only minor impact",
+        "answer": 2
+    },
+    {
+        "question": "What are risks in the near term more strongly dependent on?",
+        "option_1": "Changes in climate hazards",
+        "option_2": "Changes in vulnerability and exposure",
+        "option_3": "Climate change only",
+        "answer": 2
+    },
+    {
+        "question": "What level of risks are projected to be reached in the near term?",
+        "option_1": "All will remain low",
+        "option_2": "High to very high at lower global warming levels than in AR5",
+        "option_3": "All will be eliminated",
+        "answer": 2
+    },
+    {
+        "question": "What happens to biodiversity loss and ecosystem degradation in the mid- to long-term?",
+        "option_1": "They remain unchanged",
+        "option_2": "They will continue to escalate with every increment of global warming",
+        "option_3": "They are reversed",
+        "answer": 2
+    },
+    {
+        "question": "What is projected to happen to extinction risks in the mid-to-long term?",
+        "option_1": "They will decrease",
+        "option_2": "They will continue to escalate",
+        "option_3": "They will stabilize",
+        "answer": 2
+    },
+    {
+        "question": "What risks will continue to increase by the mid to long term in all assessed regions?",
+        "option_1": "Only non-water related hazards",
+        "option_2": "Risks in physical water availability and water-related hazards",
+        "option_3": "Only ecosystem degradation",
+        "answer": 2
+    },
+    {
+        "question": "What does climate change increase the pressure on?",
+        "option_1": "Food production and access",
+        "option_2": "Only financial markets",
+        "option_3": "Only water security",
+        "answer": 1
+    },
+    {
+        "question": "What does the climate change related extreme events significantly increase?",
+        "option_1": "Good health",
+        "option_2": "Ill health and premature deaths",
+        "option_3": "Improved mental health",
+        "answer": 2
+    },
+    {
+        "question": "What is projected to increase in cities in the mid- to long-term?",
+        "option_1": "Decreased risks to infrastructure",
+        "option_2": "Risks to cities, settlements and key infrastructure will rise rapidly",
+        "option_3": "No impact to infrastructure",
+        "answer": 2
+    },
+    {
+        "question": "What is the relationship between projected estimates of economic damages and global warming levels?",
+        "option_1": "Inversely proportional",
+        "option_2": "Generally increase non-linearly",
+        "option_3": "They are not related",
+        "answer": 2
+    },
+    {
+        "question": "What is the main impact of displacement in the mid- to long term?",
+        "option_1": "Decreased displacement",
+        "option_2": "Displacement will increase",
+        "option_3": "No impact",
+        "answer": 2
+    },
+    {
+        "question": "What is a main finding regarding climate change impacts and risks?",
+        "option_1": "They are becoming less complex",
+        "option_2": "They are becoming increasingly complex and difficult to manage",
+        "option_3": "They are easily managed",
+        "answer": 2
+    },
+    {
+        "question": "What occurs with multiple climate hazards?",
+        "option_1": "They do not interact",
+        "option_2": "They occur simultaneously, and multiple climatic and non-climatic risks will interact",
+        "option_3": "They cancel out",
+        "answer": 2
+    },
+    {
+        "question": "What do adverse impacts from climate hazards lead to?",
+        "option_1": "Decreased risks",
+        "option_2": "Cascading risks across sectors and regions",
+        "option_3": "No impacts",
+        "answer": 2
+    },
+    {
+        "question": "What can some responses intended to reduce the risks of climate change lead to?",
+        "option_1": "Only positive impacts",
+        "option_2": "Risks from maladaptation and adverse side effects",
+        "option_3": "Only mitigation",
+        "answer": 2
+    },
+    {
+        "question": "What would occur if global warming transiently exceeds 1.5\u00b0C?",
+        "option_1": "No further impacts",
+        "option_2": "Many human and natural systems will face additional severe risks",
+        "option_3": "Reversal of all impacts",
+        "answer": 2
+    },
+    {
+        "question": "What are some irreversible impacts from global warming above 1.5\u00b0C?",
+        "option_1": "Only economic impacts",
+        "option_2": "Impacts on polar, mountain, and coastal ecosystems, impacted by ice-sheet, glacier melt, or by accelerating and higher committed sea level rise",
+        "option_3": "All impacts are reversible",
+        "answer": 2
+    },
+    {
+        "question": "What has been observed in adaptation planning and implementation?",
+        "option_1": "It is slowing down",
+        "option_2": "It has been observed across all sectors and regions, generating multiple benefits",
+        "option_3": "It is not present in developing nations",
+        "answer": 2
+    },
+    {
+        "question": "What results from public and political awareness of climate impacts and risks?",
+        "option_1": "Decreased efforts towards adaptation",
+        "option_2": "At least 170 countries and many cities including adaptation in their climate policies and planning processes",
+        "option_3": "No change in political action",
+        "answer": 2
+    },
+    {
+        "question": "What have pilot projects and local experiments resulted in?",
+        "option_1": "No benefits at all",
+        "option_2": "Improved agricultural productivity, innovation, health and well-being, food security, livelihood, and biodiversity conservation",
+        "option_3": "Only economic losses",
+        "answer": 2
+    },
+    {
+        "question": "What do adaptation gaps exist between?",
+        "option_1": "Current adaptation and no adaptation needs",
+        "option_2": "Current levels of adaptation and levels needed to respond to impacts and reduce climate risks",
+        "option_3": "Only current planning",
+        "answer": 2
+    },
+    {
+        "question": "What does the effectiveness of adaptation to reduce climate risk depend on?",
+        "option_1": "Only technology",
+        "option_2": "Specific contexts, sectors and regions",
+        "option_3": "Only funding",
+        "answer": 2
+    },
+    {
+        "question": "What kind of solutions increase the feasibility and effectiveness of adaptation?",
+        "option_1": "Single-sector solutions",
+        "option_2": "Integrated, multi-sectoral solutions that address social inequities, differentiate responses based on climate risk, and cut across systems",
+        "option_3": "Only technological solutions",
+        "answer": 2
+    },
+    {
+        "question": "What are adaptation responses focused on in regards to water related risks?",
+        "option_1": "Only large scale irrigation",
+        "option_2": "On-farm water management, water storage, soil moisture conservation and irrigation",
+        "option_3": "Only desalination",
+        "answer": 2
+    },
+    {
+        "question": "What do effective adaptation options and public policies enhance in the food system?",
+        "option_1": "Food price increases",
+        "option_2": "Food availability, stability, and reduce climate risk, while increasing their sustainability",
+        "option_3": "Only short-term gains",
+        "answer": 2
+    },
+    {
+        "question": "What does adaptation for natural forests include?",
+        "option_1": "Only deforestation",
+        "option_2": "Conservation, protection and restoration measures",
+        "option_3": "Only clear-cutting",
+        "answer": 2
+    },
+    {
+        "question": "What makes ecosystem-based adaptation more effective?",
+        "option_1": "High levels of intervention",
+        "option_2": "It reduces a range of climate change risks to people, biodiversity and ecosystem services with multiple co-benefits",
+        "option_3": "It has no benefit",
+        "answer": 2
+    },
+    {
+        "question": "What is needed for urban and rural infrastructure to become resilient?",
+        "option_1": "Ignoring climate risk",
+        "option_2": "Considering climate change impacts and risks in the design and planning",
+        "option_3": "Only infrastructure development",
+        "answer": 2
+    },
+    {
+        "question": "What is needed to increase the adaptive capacity of urban and rural systems?",
+        "option_1": "Excluding vulnerable groups",
+        "option_2": "Effective partnerships between governments, civil society, and private sector organizations across scales",
+        "option_3": "Ignoring existing infrastructure",
+        "answer": 2
+    },
+    {
+        "question": "What are some constraints on the feasibility and effectiveness of urban adaptation responses?",
+        "option_1": "Unlimited resources",
+        "option_2": "Institutional, financial, and technological access and capacity",
+        "option_3": "Only natural conditions",
+        "answer": 2
+    },
+    {
+        "question": "What do feasible adaptation options need in order to be successful?",
+        "option_1": "Only top down planning",
+        "option_2": "To be inclusive of all stake-holders",
+        "option_3": "Only government involvement",
+        "answer": 2
+    },
+    {
+        "question": "What do inclusive governance processes strengthen?",
+        "option_1": "Decreased adaptation",
+        "option_2": "The ability of governments and other stakeholders to jointly consider factors for climate resilient development",
+        "option_3": "Only short term gains",
+        "answer": 2
+    },
+    {
+        "question": "What is most effective governance for climate resilient development supported by?",
+        "option_1": "Only informal institutions",
+        "option_2": "Formal and informal institutions and practices that are well aligned across scales, sectors, policy domains and timeframes",
+        "option_3": "Only government institutions",
+        "answer": 2
+    },
+    {
+        "question": "What can interactions between urban form, exposure, and vulnerability create?",
+        "option_1": "Decreased risks and losses",
+        "option_2": "Climate change-induced risks and losses for cities and settlements",
+        "option_3": "Only positive outcomes",
+        "answer": 2
+    },
+    {
+        "question": "What do effective partnerships between local and municipal governments result in?",
+        "option_1": "Decreased climate resilience",
+        "option_2": "Advance climate resilient development by addressing structural inequalities, insufficient financial resources and more",
+        "option_3": "Lock-in of vulnerability",
+        "answer": 2
+    },
+    {
+        "question": "What is a key role that coastal cities play in climate resilient development?",
+        "option_1": "They do not contribute",
+        "option_2": "Key contributions to global trade supply chains, cultural exchange, and centres of innovation.",
+        "option_3": "They are a detriment to climate resilience",
+        "answer": 2
+    },
+    {
+        "question": "What is fundamental to climate resilient development?",
+        "option_1": "Ignoring biodiversity and ecosystems",
+        "option_2": "Safeguarding biodiversity and ecosystems",
+        "option_3": "Only economic growth",
+        "answer": 2
+    },
+    {
+        "question": "What does building the resilience of biodiversity and supporting ecosystem integrity maintain?",
+        "option_1": "Only economic value",
+        "option_2": "Benefits for people, including livelihoods, human health and well-being and the provision of food, fibre and water",
+        "option_3": "Only resource extraction",
+        "answer": 2
+    },
+    {
+        "question": "What is essential for maintaining and enhancing the resilience of the biosphere?",
+        "option_1": "Ignoring ecosystem degradation",
+        "option_2": "Protecting and restoring ecosystems",
+        "option_3": "Only industrial output",
+        "answer": 2
+    },
+    {
+        "question": "What does maladaptation create?",
+        "option_1": "Opportunities for growth",
+        "option_2": "Lock-ins of vulnerability, exposure and risks that are difficult and expensive to change and exacerbate existing inequalities",
+        "option_3": "Increased resilience",
+        "answer": 2
+    },
+    {
+        "question": "What can avoid maladaptation?",
+        "option_1": "Only short term planning",
+        "option_2": "Flexible, multi-sectoral, inclusive and long-term planning",
+        "option_3": "Ignoring all other options",
+        "answer": 2
+    },
+    {
+        "question": "What is reduced by actions that support biodiversity and ecosystem resilience?",
+        "option_1": "Risk of maladaptation",
+        "option_2": "Economic output",
+        "option_3": "Adaptation capacity",
+        "answer": 1
+    },
+    {
+        "question": "What results in maladaptation?",
+        "option_1": "Only considering low income households",
+        "option_2": "Not considering adverse outcomes for different groups",
+        "option_3": "Only considering the most vulnerable",
+        "answer": 2
+    },
+    {
+        "question": "What can minimise maladaptation?",
+        "option_1": "Inflexible planning",
+        "option_2": "Multi-sectoral, multi-actor and inclusive planning with flexible pathways",
+        "option_3": "Focus on single issues",
+        "answer": 2
+    },
+    {
+        "question": "What do enabling conditions include?",
+        "option_1": "Only technological innovation",
+        "option_2": "Political commitment, institutional frameworks, policies and instruments, enhanced knowledge, mobilization of and access to resources, monitoring and evaluation, and inclusive governance",
+        "option_3": "Only financial resources",
+        "answer": 2
+    },
+    {
+        "question": "What accelerates the implementation of adaptation actions?",
+        "option_1": "Decreased government engagement",
+        "option_2": "Political commitment and follow-through across all levels of government",
+        "option_3": "Ignoring community input",
+        "answer": 2
+    },
+    {
+        "question": "What does climate resilient development integrate?",
+        "option_1": "Only economic development",
+        "option_2": "Adaptation measures and their enabling conditions with mitigation to advance sustainable development for all",
+        "option_3": "Only technological solutions",
+        "answer": 2
+    },
+    {
+        "question": "What is the focus of climate resilient development?",
+        "option_1": "Only where people and ecosystems are not co-located",
+        "option_2": "Both where people and ecosystems are co-located and the protection and maintenance of ecosystem function at the planetary scale",
+        "option_3": "Only where natural resources are abundant",
+        "answer": 2
+    },
+    {
+        "question": "What does climate resilient development pathways depend on?",
+        "option_1": "Only climate projections",
+        "option_2": "Societal choices",
+        "option_3": "Only historical data",
+        "answer": 2
+    },
+    {
+        "question": "What makes climate resilient development hard to achieve with global warming over 1.5\u00b0C?",
+        "option_1": "Only technology",
+        "option_2": "The progressively more difficult conditions associated with higher warming",
+        "option_3": "No impact to climate resilience",
+        "answer": 2
+    },
+    {
+        "question": "What do governance efforts that advance climate resilient development account for?",
+        "option_1": "Only static and predictable conditions",
+        "option_2": "The dynamic, uncertain and context-specific nature of climate-related risk",
+        "option_3": "Only governmental priorities",
+        "answer": 2
+    },
+    {
+        "question": "What do inclusive governance process for climate resilient development do?",
+        "option_1": "They limit consideration of all relevant factors",
+        "option_2": "Strengthen ability of governments and other stakeholders to jointly consider all relevant factors",
+        "option_3": "They have no impact",
+        "answer": 2
+    }
+    {
+        "question": "What does this report recognize the interdependence of?",
+        "option_1": "Climate, ecosystems and biodiversity, and human societies",
+        "option_2": "Economic growth, social progress and cultural heritage",
+        "option_3": "Technological advancements, international relations and political stability",
+        "answer": 1
+    },
+    {
+        "question": "The assessment of climate change impacts and risks is set against what?",
+        "option_1": "Historical data from previous centuries",
+        "option_2": "Concurrent non-climatic global trends",
+        "option_3": "Future theoretical scenarios",
+        "answer": 2
+    },
+    {
+        "question": "What is central to all three AR6 Working Groups?",
+        "option_1": "The concept of political stability",
+        "option_2": "The concept of social equity",
+        "option_3": "The concept of risk",
+        "answer": 3
+    },
+    {
+        "question": "What does risk provide a framework for across all three AR6 working groups?",
+        "option_1": "Understanding only the economic impacts of climate change.",
+        "option_2": "Understanding the interconnected impacts of climate change.",
+        "option_3": "Understanding only social impacts of climate change.",
+        "answer": 2
+    },
+    {
+        "question": "What does adaptation play a key role in reducing?",
+        "option_1": "Economic inequality and technological limitations",
+        "option_2": "Exposure and vulnerability to climate change",
+        "option_3": "Political instability and international conflicts",
+        "answer": 2
+    },
+    {
+        "question": "What does adaptation in ecological systems include?",
+        "option_1": "Government regulations",
+        "option_2": "Autonomous adjustments",
+        "option_3": "Financial investments",
+        "answer": 2
+    },
+    {
+        "question": "What types of adjustments does adaptation in human systems include?",
+        "option_1": "Only reactive adjustments",
+        "option_2": "Only anticipatory adjustments",
+        "option_3": "Both anticipatory and reactive adjustments",
+        "answer": 3
+    },
+    {
+        "question": "What is the risk propeller?",
+        "option_1": "A tool used by political scientists to predict political outcomes",
+        "option_2": "A visual tool that shows that risk emerges from the overlap of climate hazards, vulnerability and exposure",
+        "option_3": "A technique used by ecologists to analyze complex ecosystems",
+        "answer": 2
+    },
+    {
+        "question": "What does effectiveness refer to in the context of actions related to climate change?",
+        "option_1": "The ability of an action to generate economic profits",
+        "option_2": "The speed at which an action is implemented",
+        "option_3": "The extent to which an action reduces vulnerability and climate-related risk",
+        "answer": 3
+    },
+    {
+        "question": "What does climate justice generally include?",
+        "option_1": "Only distributive justice",
+        "option_2": "Only procedural justice",
+        "option_3": "Distributive, procedural and recognition principles",
+        "answer": 3
+    },
+    {
+        "question": "This report has a focus on transformation and system transitions in which sectors?",
+        "option_1": "Only the energy and transportation sectors",
+        "option_2": "Only the health and education sectors",
+        "option_3": "Energy; land, ocean, coastal and freshwater ecosystems; urban, rural and infrastructure; and industry and society",
+        "answer": 3
+    },
+    {
+        "question": "What are RCPs?",
+        "option_1": "Representative Carbon Prices",
+        "option_2": "Representative Concentration Pathways",
+        "option_3": "Regional Climate Patterns",
+        "answer": 2
+    },
+    {
+        "question": "What does the term 'losses and damages' refer to in this report?",
+        "option_1": "The predicted theoretical impacts that are not yet realized",
+        "option_2": "Only financial losses",
+        "option_3": "Adverse observed impacts and/or projected risks",
+        "answer": 3
+    },
+    {
+        "question": "What is the estimated increase in global surface temperature in 2011-2020?",
+        "option_1": "0.50 \u00b0C",
+        "option_2": "1.09 \u00b0C",
+        "option_3": "1.50 \u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "Complex risks result from what?",
+        "option_1": "Single climate hazards occurring in isolation",
+        "option_2": "Multiple climate hazards occurring concurrently, and from multiple risks interacting",
+        "option_3": "A single risk in isolation",
+        "answer": 2
+    },
+    {
+        "question": "What has human-induced climate change caused?",
+        "option_1": "Only minor changes in weather patterns",
+        "option_2": "Widespread adverse impacts and related losses and damages to nature and people",
+        "option_3": "Only some improvements in agriculture",
+        "answer": 2
+    },
+    {
+        "question": "What has been attributed to human-induced climate change?",
+        "option_1": "Increased heat-related human mortality only.",
+        "option_2": "Increased drought-related tree mortality only.",
+        "option_3": "Increases in heat-related human mortality, warm-water coral bleaching and mortality and increases in drought-related tree mortality",
+        "answer": 3
+    },
+    {
+        "question": "What has climate change caused in ecosystems?",
+        "option_1": "Only minor shifts in species migration.",
+        "option_2": "Substantial damages, and increasingly irreversible losses",
+        "option_3": "Only some positive effects in ecosystem function",
+        "answer": 2
+    },
+    {
+        "question": "Climate change has reduced what aspect of human life?",
+        "option_1": "Only water security",
+        "option_2": "Only food security",
+        "option_3": "Both food and water security",
+        "answer": 3
+    },
+    {
+        "question": "How has climate change affected agricultural productivity?",
+        "option_1": "Increased global agricultural productivity over the past 50 years",
+        "option_2": "Slowed growth in global agricultural productivity over the past 50 years",
+        "option_3": "Had no impact on agricultural productivity over the past 50 years",
+        "answer": 2
+    },
+    {
+        "question": "What has climate change caused in the incidence of vector-borne diseases?",
+        "option_1": "Decreased from range expansion",
+        "option_2": "Increased from range expansion",
+        "option_3": "Had no effect on disease incidence",
+        "answer": 2
+    },
+    {
+        "question": "In urban settings, what has climate change caused impacts on?",
+        "option_1": "Only livelihoods",
+        "option_2": "Only key infrastructure",
+        "option_3": "Human health, livelihoods and key infrastructure",
+        "answer": 3
+    },
+    {
+        "question": "Overall adverse economic impacts attributable to climate change have been what?",
+        "option_1": "Decreasingly identified",
+        "option_2": "Increasingly identified",
+        "option_3": "Stable",
+        "answer": 2
+    },
+    {
+        "question": "Climate change is contributing to what type of crises?",
+        "option_1": "Economic crises",
+        "option_2": "Humanitarian crises",
+        "option_3": "Political crises",
+        "answer": 2
+    },
+    {
+        "question": "What exacerbates vulnerability to climate change?",
+        "option_1": "Only economic factors.",
+        "option_2": "Only governmental factors.",
+        "option_3": "Intersecting socioeconomic factors and historical patterns of inequity",
+        "answer": 3
+    },
+    {
+        "question": "What do unsustainable land-use and land cover change, unsustainable use of natural resources, and loss of biodiversity adversely affect?",
+        "option_1": "Only economic capacities",
+        "option_2": "Only governmental capacities",
+        "option_3": "The capacities of ecosystems, societies, communities and individuals to adapt to climate change",
+        "answer": 3
+    },
+    {
+        "question": "What exacerbates current ecosystem vulnerability to climate change?",
+        "option_1": "Only pollution",
+        "option_2": "Only unsustainable use of natural resources",
+        "option_3": "Unsustainable use of natural resources, habitat fragmentation, and ecosystem damage by pollutants",
+        "answer": 3
+    },
+    {
+        "question": "Future vulnerability of ecosystems to climate change will be strongly influenced by what?",
+        "option_1": "Only technological factors",
+        "option_2": "Only political factors",
+        "option_3": "The past, present and future development of human society, including unsustainable consumption, and increasing demographic pressures",
+        "answer": 3
+    },
+    {
+        "question": "Regions and people with considerable development constraints have high vulnerability to what?",
+        "option_1": "Only technological hazards",
+        "option_2": "Only political hazards",
+        "option_3": "Climatic hazards",
+        "answer": 3
+    },
+    {
+        "question": "What is a main contributing factor to human vulnerability in rural areas?",
+        "option_1": "Increased habitability",
+        "option_2": "High reliance on climate-sensitive livelihoods",
+        "option_3": "High emigration",
+        "answer": 2
+    },
+    {
+        "question": "Global warming, reaching 1.5\u00b0C in the near-term, would cause what?",
+        "option_1": "A decrease in climate hazards",
+        "option_2": "Unavoidable increases in multiple climate hazards and present multiple risks to ecosystems and humans",
+        "option_3": "No change in climate hazards",
+        "answer": 2
+    },
+    {
+        "question": "Near-term warming and increased frequency, severity and duration of extreme events will place many terrestrial, freshwater, coastal and marine ecosystems at what risk level?",
+        "option_1": "Low risk",
+        "option_2": "Moderate risk",
+        "option_3": "High or very high risks of biodiversity loss",
+        "answer": 3
+    },
+    {
+        "question": "In the near term, climate-associated risks to natural and human systems depend more strongly on what?",
+        "option_1": "Only the changes in climate hazards between emissions scenarios",
+        "option_2": "Only the changes in their vulnerability",
+        "option_3": "Changes in vulnerability and exposure than on differences in climate hazards",
+        "answer": 3
+    },
+    {
+        "question": "Levels of risk for all Reasons for Concern (RFC) are assessed to become what at lower global warming levels than in AR5?",
+        "option_1": "Low to moderate",
+        "option_2": "Moderate",
+        "option_3": "High to very high",
+        "answer": 3
+    },
+    {
+        "question": "Biodiversity loss and degradation, damages to and transformation of ecosystems are what type of risks?",
+        "option_1": "Only a local risk",
+        "option_2": "Only a regional risk",
+        "option_3": "Key risks for every region",
+        "answer": 3
+    },
+    {
+        "question": "What percentage of species assessed will likely face very high risk of extinction at global warming levels of 1.5\u00b0C?",
+        "option_1": "1 to 2%",
+        "option_2": "3 to 14%",
+        "option_3": "15 to 20%",
+        "answer": 2
+    },
+    {
+        "question": "At approximately 2\u00b0C global warming, snowmelt water availability for irrigation is projected to decline by how much in some snowmelt dependent river basins?",
+        "option_1": "Up to 10%",
+        "option_2": "Up to 20%",
+        "option_3": "Up to 30%",
+        "answer": 2
+    },
+    {
+        "question": "Climate change will increasingly put pressure on what?",
+        "option_1": "Only economic prosperity",
+        "option_2": "Only governmental institutions",
+        "option_3": "Food production and access",
+        "answer": 3
+    },
+    {
+        "question": "Climate change and related extreme events will significantly increase what?",
+        "option_1": "Premature deaths and ill health",
+        "option_2": "Only ill health",
+        "option_3": "Only premature deaths",
+        "answer": 1
+    },
+    {
+        "question": "Climate change risks to cities, settlements and key infrastructure will rise rapidly in which time periods?",
+        "option_1": "Only short term",
+        "option_2": "Only long term",
+        "option_3": "Mid and long term",
+        "answer": 3
+    },
+    {
+        "question": "Projected estimates of global aggregate net economic damages generally increase how with global warming levels?",
+        "option_1": "Linearly",
+        "option_2": "Non-linearly",
+        "option_3": "Remain constant",
+        "answer": 2
+    },
+    {
+        "question": "In the mid- to long-term, displacement will increase with intensification of which events?",
+        "option_1": "Only drought and sea level rise",
+        "option_2": "Only heavy precipitation and associated flooding and tropical cyclones",
+        "option_3": "Heavy precipitation and associated flooding, tropical cyclones, drought and, increasingly, sea level rise",
+        "answer": 3
+    },
+    {
+        "question": "Climate change impacts and risks are becoming increasingly complex and more difficult to manage. Multiple climate hazards will occur when?",
+        "option_1": "Only in the short term",
+        "option_2": "Only in the long term",
+        "option_3": "Simultaneously",
+        "answer": 3
+    },
+    {
+        "question": "Concurrent and repeated climate hazards occur in which regions?",
+        "option_1": "Only in polar regions",
+        "option_2": "Only in tropical regions",
+        "option_3": "All regions",
+        "answer": 3
+    },
+    {
+        "question": "Adverse impacts from climate hazards and resulting risks are cascading across which areas?",
+        "option_1": "Only in urban centers",
+        "option_2": "Only in rural areas",
+        "option_3": "Sectors and regions",
+        "answer": 3
+    },
+    {
+        "question": "Risks arise from some responses that are intended to reduce the risks of climate change, including risks from what?",
+        "option_1": "Only poor policy choices",
+        "option_2": "Only flawed financial decisions",
+        "option_3": "Maladaptation and adverse side effects of some emissions reduction and carbon dioxide removal measures",
+        "answer": 3
+    },
+    {
+        "question": "Solar radiation modification approaches introduce what type of risks?",
+        "option_1": "Well-understood risks",
+        "option_2": "No new risks",
+        "option_3": "New risks to people and ecosystems",
+        "answer": 3
+    },
+    {
+        "question": "If global warming transiently exceeds 1.5\u00b0C in the coming decades or later, then what will human and natural systems face?",
+        "option_1": "Decreased risks",
+        "option_2": "Additional severe risks",
+        "option_3": "No change in risks",
+        "answer": 2
+    },
+    {
+        "question": "Adaptation progress is observed to be how?",
+        "option_1": "Evenly distributed",
+        "option_2": "Unevenly distributed",
+        "option_3": "Minimal in all areas",
+        "answer": 2
+    },
+    {
+        "question": "What has resulted from growing public and political awareness of climate impacts and risks?",
+        "option_1": "No change in policies",
+        "option_2": "At least 170 countries and many cities including adaptation in their climate policies and planning processes",
+        "option_3": "Less focus on policy and planning processes",
+        "answer": 2
+    },
+    {
+        "question": "What do Adaptation options often have?",
+        "option_1": "Short implementation times",
+        "option_2": "Long implementation times",
+        "option_3": "No implementation time",
+        "answer": 2
+    },
+    {
+        "question": "What are feasible and effective in reducing risks to people and nature?",
+        "option_1": "Only mitigation efforts",
+        "option_2": "Only technological fixes",
+        "option_3": "Adaptation options",
+        "answer": 3
+    },
+    {
+        "question": "Adaptation to water-related risks and impacts make up what?",
+        "option_1": "A minority of documented adaptation",
+        "option_2": "The majority of all documented adaptation",
+        "option_3": "An insignificant part of documented adaptation",
+        "answer": 2
+    },
+    {
+        "question": "What do effective adaptation options together with supportive public policies enhance?",
+        "option_1": "Only economic prosperity",
+        "option_2": "Only financial stability",
+        "option_3": "Food availability and stability and reduce climate risk for food systems while increasing their sustainability",
+        "answer": 3
+    },
+    {
+        "question": "Adaptation for natural forests includes what measures?",
+        "option_1": "Only protection measures",
+        "option_2": "Only restoration measures",
+        "option_3": "Conservation, protection and restoration measures",
+        "answer": 3
+    },
+    {
+        "question": "What is the range of feasibility levels for climate responses and adaptation options across the different dimensions?",
+        "option_1": "Low and medium",
+        "option_2": "Medium and high",
+        "option_3": "Low, medium and high",
+        "answer": 3
+    },
+    {
+        "question": "What has climate change already done to human and natural systems?",
+        "option_1": "Only slowed changes",
+        "option_2": "Has already disrupted",
+        "option_3": "Had no effect",
+        "answer": 2
+    },
+    {
+        "question": "What can accelerate the implementation of adaptation actions?",
+        "option_1": "Only political commitment",
+        "option_2": "Only technological advances",
+        "option_3": "Political commitment and follow-through across all levels of government",
+        "answer": 3
+    },
+    {
+        "question": "What do institutions that enable climate resilient development do?",
+        "option_1": "Only hinder emergent risks",
+        "option_2": "Are inflexible",
+        "option_3": "Are flexible and responsive to emergent risks",
+        "answer": 3
+    },
+    {
+        "question": "What does the global trend of urbanization offer?",
+        "option_1": "Only negative opportunities",
+        "option_2": "Only negative impacts",
+        "option_3": "A critical opportunity to advance climate resilient development",
+        "answer": 3
+    },
+    {
+        "question": "What is essential for climate resilient development in light of the threats climate change poses to them?",
+        "option_1": "Economic security",
+        "option_2": "Political stability",
+        "option_3": "Safeguarding biodiversity and ecosystems",
+        "answer": 3
+    },
+    {
+        "question": "Protecting and restoring ecosystems is essential for maintaining and enhancing what?",
+        "option_1": "Only technological development",
+        "option_2": "Only economic development",
+        "option_3": "The resilience of the biosphere",
+        "answer": 3
+    },
+    {
+        "question": "What does climate resilient development depend on?",
+        "option_1": "Only past and current development trends",
+        "option_2": "Only future emission trends",
+        "option_3": "Past and current development trends (past emissions, development and climate change)",
+        "answer": 3
+    },
+    {
+        "question": "What is already challenging at current global warming levels?",
+        "option_1": "Technological advances",
+        "option_2": "Political institutions",
+        "option_3": "Climate resilient development",
+        "answer": 3
+    },
+    {
+        "question": "What enables climate resilient development?",
+        "option_1": "Only inclusive governance and investment",
+        "option_2": "Only access to appropriate technology and capacity building",
+        "option_3": "Inclusive governance, investment aligned with climate resilient development, access to appropriate technology and rapidly scaled-up finance, and capacity building of governments at all levels, the private sector and civil society",
+        "answer": 3
+    },
+    {
+        "question": "What does the cumulative scientific evidence clearly show?",
+        "option_1": "Climate change poses a minor threat to planetary health",
+        "option_2": "Climate change is a threat to human well-being and planetary health",
+        "option_3": "Climate change poses a major benefit for future generations",
+        "answer": 2
+    }
+]
