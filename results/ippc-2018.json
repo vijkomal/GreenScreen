@@ -1,0 +1,47 @@
+[
+    {
+        "question": 1,
+        "reasoning": "According to section B.1.2, extreme hot days in mid-latitudes warm by up to about 3\u00b0C at 1.5\u00b0C global warming.",
+        "answer": 2
+    },
+    {
+        "question": 2,
+        "reasoning": "According to section B.1.2, the number of hot days is projected to increase in most land regions, with highest increases in the tropics.",
+        "answer": 2
+    },
+    {
+        "question": 3,
+        "reasoning": "According to section B.2, global mean sea level rise is projected to be around 0.1 meter lower at 1.5\u00b0C compared to 2\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 4,
+        "reasoning": "According to section B.1.3, risks from droughts and precipitation deficits are projected to be higher at 2\u00b0C compared to 1.5\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": 5,
+        "reasoning": "According to section B.2.2, sea level rise will continue beyond 2100 due to factors like marine ice sheet instability in Antarctica and/or irreversible loss of the Greenland ice sheet.",
+        "answer": 2
+    },
+    {
+        "question": 6,
+        "reasoning": "According to section B.2.1, the projected range for global mean sea level rise by 2100 with 1.5\u00b0C of global warming is 0.26 to 0.77 meters.",
+        "answer": 2
+    },
+    {
+        "question": 7,
+        "reasoning": "According to section B.1.3, risks from heavy precipitation events are projected to be higher at 2\u00b0C compared to 1.5\u00b0C, particularly in certain northern hemisphere regions.",
+        "answer": 2
+    },
+    {
+        "question": 8,
+        "reasoning": "According to section B.1.2, temperature extremes on land are projected to warm by about 3\u00b0C at 1.5\u00b0C and about 4\u00b0C at 2\u00b0C.",
+        "answer": 1
+    },
+    {
+        "question": 9,
+        "reasoning": "According to section B.1.3, risks from heavy precipitation events are projected to be higher at 2\u00b0C compared to 1.5\u00b0C in several northern hemisphere high-latitude and/or high-elevation regions, eastern Asia and eastern North America.",
+        "answer": 1
+    }
+]

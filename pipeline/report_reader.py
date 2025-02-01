@@ -2,17 +2,24 @@
 
 from PyPDF2 import PdfReader
 import re
+from dataclasses import dataclass
+
+
+@dataclass
+class Report:
+    filepath: str
+    display_name: str
+    text: str
+    sections: list
 
 
 class ReportReader:
-    def __init__(self, pdf_path):
-        self.pdf_path = pdf_path
-        self.reader = PdfReader(pdf_path)
-        self.text = self._extract_text()
+    def __init__(self):
+        return
 
-    def _extract_text(self):
+    def _extract_text(self, reader):
         text = ""
-        for page in self.reader.pages:
+        for page in reader.pages:
             text += page.extract_text()
         return text
 
@@ -38,14 +45,24 @@ class ReportReader:
         text = text.replace("}", "\\}")
         return text
 
-    def get_labeled_sections(self):
-        # Regular expression pattern to match section headers (e.g., B.1, B.1.1, etc.)
-        pattern = r"(B\.\d+(\.\d+)*\s.*?)(?=B\.\d|\Z)"
-        sections = re.findall(pattern, self.text, flags=re.DOTALL)
+    def get_labeled_sections(self, text):
+        # Regular expression pattern to match section headers (e.g., A.1, B.1.1, etc.)
+        pattern = r"([A-Z]\.\d+(\.\d+)*\s.*?)(?=[A-Z]\.\d|\Z)"
+        sections = re.findall(pattern, text, flags=re.DOTALL)
 
         # Clean up the sections (remove unwanted extra spaces)
         cleaned_sections = [self.clean_section(section[0]) for section in sections[:3]]
         return cleaned_sections
+
+    def get_report(self, pdf_path, title):
+        reader = PdfReader(pdf_path)
+        text = self._extract_text(reader)
+        sections = self.get_labeled_sections(text)
+
+        report = Report(
+            filepath=pdf_path, display_name=title, text=text, sections=sections
+        )
+        return report
 
     def process_section(self, section: str):
         """Returns json object about the section"""

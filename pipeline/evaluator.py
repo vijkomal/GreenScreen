@@ -6,100 +6,109 @@ import PyPDF2
 
 import google.generativeai as genai
 import json
-from utils import load_json
+from utils import load_json, save_json
 import re
+from slides import Slide
+from readability import Readability
+import pandas as pd
+from report_reader import Report
+from report_reader import ReportReader
+from tqdm import tqdm
+import time
 
-# config genAI
+# Config genAI
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 
-CACHE_FILE = "evaluator.cache"
-
-
-def get_cached_report_name():
-    if os.path.exists(CACHE_FILE):
-        with open(CACHE_FILE, "r") as file:
-            return file.read().strip()
-    return None
-
-
-def cache_report_name(report_name):
-    with open(CACHE_FILE, "w") as file:
-        file.write(report_name)
+UPLOADED_FILES_CACHE = "../cache/uploaded-files.json"
 
 
 class Evaluator:
-    def __init__(self, pdf_path, questions):
-        self.pdf_path = pdf_path
-        self.questions = questions
+    def __init__(self):
         self.model = genai.GenerativeModel(
             "gemini-2.0-flash-exp",
             generation_config={
                 "response_mime_type": "application/json"
             },  # json response
         )
+        self.cache = load_json(UPLOADED_FILES_CACHE)
 
-        # upload pdf
-        cached_report_name = get_cached_report_name()
-        try:
-            self.report_file = genai.get_file(name=cached_report_name)
-        except Exception:
-            self.report = genai.upload_file(path=pdf_path, display_name="IPCC Report")
-            self.report_file = genai.get_file(name=self.report.name)
-            cache_report_name(self.report.name)
+    def get_prompt(self, prompt_name, placeholders):
+        with open(f"../prompts/{prompt_name}") as f:
+            prompt = f.read()
 
-    def get_prompt(self):
-        initial_prompt = """
-        Your task is to answer the following multiple choice questions about the report. 
-        For each question, provide a sentence about your reasoning. Then answer using
-        the number of the option with the correct answer. If you cannot answer the question
-        based on the provided context, use `-1` as your answer. Format your response
-        using this JSON schema:
+        for ph in placeholders:
+            prompt = prompt.replace(ph[0], ph[1])
 
-        Answer = {'question': int, 'reasoning': str, 'answer': int}
-        Return: list[Answer]
-        """.strip()
-        question_prompt = """
-        Question [QUESTION_NUM]: [QUESTION]
-        Options:
-        [OPTIONS]
-        """.strip()
-
-        prompt = initial_prompt
-        prompt += "\n\nMultiple-Choice Exam:\n"
-        prompt += "###################################"
-        for i, data in enumerate(self.questions):
-            q_prompt = question_prompt
-            q_prompt = q_prompt.replace("[QUESTION_NUM]", str(i + 1))
-            q_prompt = q_prompt.replace("[QUESTION]", data["question"])
-            option_list = f"""
-            1) {data['option_1']}
-            2) {data['option_2']}
-            3) {data['option_3']}
-            """.strip()
-            q_prompt = q_prompt.replace("[OPTIONS]", option_list)
-            prompt += "\n" + q_prompt + "\n"
-
-        prompt += "###################################"
-        prompt = re.sub(
-            r"[ \t]+", " ", prompt
-        )  # remove excessive spaces but keep newlines
         return prompt
 
-    def evaluate(self, with_report=True):
-        print("[*] Getting answers...")
-        prompt = self.get_prompt()
-        if with_report:
-            raw_response = self.model.generate_content([prompt, self.report_file])
-        else:
-            raw_response = self.model.generate_content(prompt)
-        answers = json.loads(raw_response.text)
-        return answers
+    def add_report_to_cache(self, report):
+        report = genai.upload_file(
+            path=report.filepath, display_name=report.display_name
+        )
+        self.cache[report.display_name] = report.name
+        save_json(self.cache, UPLOADED_FILES_CACHE)
+        return report
 
-    def calculate_metrics(self, results):
+    def remove_report_from_cache(self, report):
+        if report.display_name in self.cache:
+            del self.cache[report.display_name]
+            save_json(self.cache, UPLOADED_FILES_CACHE)
+
+    def evaluate_content(self, results_id, questions: list, report: Report):
+        print("[*] Getting answers...")
+
+        results_path = f"../results/{results_id}.json"
+
+        # Upload report
+        report_file = genai.upload_file(
+            path=report.filepath, display_name=report.display_name
+        )
+        print(f"Uploaded {report.display_name}")
+
+        results = []
+        step_size = 10
+        for i in range(0, len(questions), step_size):
+            curr = questions[i : i + step_size]
+            prompt = self.get_prompt("exam-question-initial.prompt", [])
+            prompt += "\n\n"
+            for j, qa in enumerate(curr):
+                # Create multiple-choice question prompt
+                option_list = f"1) {qa['option_1']}\n"
+                option_list += f"2) {qa['option_2']}\n"
+                option_list += f"3) {qa['option_3']}\n"
+                placeholders = [
+                    ("[QUESTION_NUM]", str(j + 1)),
+                    ("[QUESTION]", qa["question"]),
+                    ("[OPTIONS]", option_list),
+                ]
+                q_prompt = self.get_prompt("exam-question.prompt", placeholders)
+                prompt += q_prompt + "\n"
+
+            # Get model response
+            raw_response = self.model.generate_content([prompt, report_file])
+            json_response = json.loads(raw_response.text)
+            results.extend(json_response)
+
+            # Slight delay
+            time.sleep(0.1)
+
+            # Save every stepsize
+            save_json(results, results_path)
+
+        # Delete file
+        genai.delete_file(report_file.name)
+        print(f"Deleted {report.display_name}.")
+
+        print(f"Saved results to {results_path}.")
+        save_json(results, results_path)
+
+        return results
+
+    def calculate_metrics(self, answers, results):
         print("[*] Calculating metrics...")
         # get predictions
-        y_true = [q["answer"] for q in self.questions]
+        y_true = [q["answer"] for q in answers]
         y_pred = [a["answer"] for a in results]
 
         accuracy = accuracy_score(y_true, y_pred)
@@ -122,30 +131,61 @@ class Evaluator:
 
         return metrics
 
-    def save_results(self, results, metrics):
-        output_path = os.path.join(
-            os.path.dirname(self.pdf_path), "evaluation_results.json"
+    def evaluate_readability(self, transcript):
+        r = Readability(transcript)
+        fk = r.flesch_kincaid()
+        f = r.flesch()
+        dc = r.dale_chall()
+        ari = r.ari()
+        gf = r.gunning_fog()
+
+        readability_scores = {
+            "flesch_kincaid_score": fk.score,
+            "flesch_kincaid_grade_level": fk.grade_level,
+            "flesch_score": f.score,
+            "flesch_ease": f.ease,
+            "flesch_grade_levels": f.grade_levels,
+            "dale_chall_score": dc.score,
+            "dale_chall_grade_levels": dc.grade_levels,
+            "ari_score": ari.score,
+            "ari_grade_levels": ari.grade_levels,
+            "ari_ages": ari.ages,
+            "gunning_fog_score": gf.score,
+            "gunning_fog_grade_level": gf.grade_level,
+        }
+
+        return readability_scores
+
+    def save_results(self, results_id, labels, data):
+        results_path = f"../results/{results_id}-metrics.json"
+        results_data = {l: d for l, d in zip(labels, data)}
+        with open(results_path, "w") as file:
+            json.dump(results_data, file, indent=4)
+        print(f"Saved results and metrics to {results_path}")
+
+    def run(self, questions: list, report: Report):
+        results_id = report.display_name.lower().replace(" ", "-")
+
+        # Get content question answers
+        content_results = self.evaluate_content(results_id, questions, report)
+
+        # Compute metrics
+        content_metrics = self.calculate_metrics(questions, content_results)
+        readability_metrics = self.evaluate_readability(report.text)
+
+        # Save results
+        self.save_results(
+            results_id,
+            ["content_metrics", "readability_metrics"],
+            [content_metrics, readability_metrics],
         )
-        with open(output_path, "w") as file:
-            json.dump({"answers": results, "metrics": metrics}, file, indent=4)
-        print("Saved results")
-
-    def run(self):
-        results = self.evaluate()
-        metrics = self.calculate_metrics(results)
-        self.save_results(results, metrics)
 
 
-# Example usage:
-# pdf_path = '/path/to/presentation.pdf'
-# questions = [{'question': 'What is the main topic?', 'answer': 'AI'}, ...]
-# evaluator = Evaluator(pdf_path, questions)
-# evaluator.run()
+report_reader = ReportReader()
+evaluator = Evaluator()
 
-
-questions = load_json("../questions/sample-questions.json")
-evaluator = Evaluator(
-    "/Users/alice/Documents/02-OUTPUT/Row4Labs/GreenScreen/data/pages/IPCC_SPM_2018-page-7.pdf",  # check gt
-    questions,
+content_questions = load_json("../questions/sample-questions.json")
+sample_report = report_reader.get_report(
+    "../data/pages/IPCC_SPM_2018-page-7.pdf", "IPPC 2018"
 )
-evaluator.run()
+evaluator.run(content_questions, sample_report)

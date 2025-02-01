@@ -4,6 +4,10 @@ import dataclasses
 import typing_extensions as typing
 import os
 import nltk
+from dataclasses import dataclass
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfTransformer
+import numpy as np
 
 nltk.download("punkt")
 
@@ -28,11 +32,18 @@ do not include the documentclass etc.
 
 
 ###
+@dataclasses.dataclass
+class Slide:
+    latex_content: str
+    transcript: str
 
 
-class Slides:
+###
+class SlidesGenerator:
     def __init__(self):
         self.prompts = {"retain-original": retain_original_prompt}
+        self.vectorizer = CountVectorizer(stop_words="english")
+        self.transformer = TfidfTransformer(smooth_idf=True, use_idf=True)
         # self.model = genai.GenerativeModel("gemini-2.0-flash-exp")
 
     def get_slide_from_section(self, section_text, prompt_name="retain-original"):
@@ -40,10 +51,19 @@ class Slides:
         response = self.model.generate_content(prompt)
         return response.text
 
-    def get_slide_latex(self, section_text):
+    def get_keywords(self, text, n=5):
+        word_count = self.vectorizer.fit_transform([text])
+        tfidf = self.transformer.fit_transform(word_count)
+        scores = tfidf.toarray()[0]
+        feature_names = self.vectorizer.get_feature_names_out()
+        top_indices = np.argsort(scores)[::-1][:n]
+        top_keywords = [feature_names[i] for i in top_indices]
+        return ", ".join(top_keywords)
+
+    def get_raw_slide_latex(self, section_text, title):
         # sentences = nltk.sent_tokenize(section_text)
         slide_latex = r"\begin{frame}" + "\n"
-        slide_latex += r"\frametitle{Carbon Budget and Limiting Global Warming}" + "\n"
+        slide_latex += r"\frametitle{" + title + r"}" + "\n"
         slide_latex += section_text
         # slide_latex += r"\begin{itemize}" + "\n"
         # for sentence in sentences:
@@ -51,6 +71,14 @@ class Slides:
         # slide_latex += r"\end{itemize}" + "\n"
         slide_latex += r"\end{frame}" + "\n"
         return slide_latex
+
+    def make_slide(self, section_text):
+        title = self.get_keywords(section_text)
+        slide = Slide(
+            latex_content=self.get_raw_slide_latex(section_text, title),
+            transcript=section_text,
+        )
+        return slide
 
 
 # \begin{frame}
