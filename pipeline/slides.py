@@ -8,6 +8,8 @@ from dataclasses import dataclass
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 import numpy as np
+from utils import get_prompt
+import time
 
 nltk.download("punkt")
 
@@ -44,7 +46,7 @@ class SlidesGenerator:
         self.prompts = {"retain-original": retain_original_prompt}
         self.vectorizer = CountVectorizer(stop_words="english")
         self.transformer = TfidfTransformer(smooth_idf=True, use_idf=True)
-        # self.model = genai.GenerativeModel("gemini-2.0-flash-exp")
+        self.model = genai.GenerativeModel("gemini-2.0-flash-exp")
 
     def get_slide_from_section(self, section_text, prompt_name="retain-original"):
         prompt = self.prompts[prompt_name]
@@ -64,19 +66,32 @@ class SlidesGenerator:
         # sentences = nltk.sent_tokenize(section_text)
         slide_latex = r"\begin{frame}" + "\n"
         slide_latex += r"\frametitle{" + title + r"}" + "\n"
-        slide_latex += section_text
-        # slide_latex += r"\begin{itemize}" + "\n"
-        # for sentence in sentences:
-        # slide_latex += r"\item " + sentence + "\n"
-        # slide_latex += r"\end{itemize}" + "\n"
+        slide_latex += section_text + "\n"
         slide_latex += r"\end{frame}" + "\n"
         return slide_latex
 
-    def make_slide(self, section_text):
+    def make_raw_slide(self, section_text):
         title = self.get_keywords(section_text)
         slide = Slide(
             latex_content=self.get_raw_slide_latex(section_text, title),
             transcript=section_text,
+        )
+        return slide
+
+    def parse_latex_response(self, latex_response):
+        latex_response = latex_response.replace("```latex", "")
+        latex_response = latex_response.replace("```", "")
+        return latex_response.strip()
+
+    def make_slide(self, prompt_name, placeholders):
+        print("[*] Making slide...")
+        prompt = get_prompt(prompt_name, placeholders)
+        response = self.model.generate_content(prompt)
+        latex_response = self.parse_latex_response(response.text)
+
+        slide = Slide(
+            latex_content=latex_response,
+            transcript="",
         )
         return slide
 

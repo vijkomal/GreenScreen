@@ -51,7 +51,7 @@ class ReportReader:
         sections = re.findall(pattern, text, flags=re.DOTALL)
 
         # Clean up the sections (remove unwanted extra spaces)
-        cleaned_sections = [self.clean_section(section[0]) for section in sections[:3]]
+        cleaned_sections = [self.clean_section(section[0]) for section in sections]
         return cleaned_sections
 
     def get_report(self, pdf_path, title):

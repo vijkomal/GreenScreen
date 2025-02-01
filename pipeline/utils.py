@@ -21,3 +21,13 @@ def save_json(data, file_path):
     """
     with open(file_path, "w") as file:
         json.dump(data, file, indent=4)
+
+
+def get_prompt(prompt_name, placeholders):
+    with open(f"../prompts/{prompt_name}") as f:
+        prompt = f.read()
+
+    for ph in placeholders:
+        prompt = prompt.replace(ph[0], ph[1])
+
+    return prompt

@@ -2,18 +2,14 @@ import json
 import os
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import precision_score, recall_score, f1_score
-import PyPDF2
 
 import google.generativeai as genai
 import json
-from utils import load_json, save_json
-import re
+from utils import load_json, save_json, get_prompt
 from slides import Slide
 from readability import Readability
 import pandas as pd
 from report_reader import Report
-from report_reader import ReportReader
-from tqdm import tqdm
 import time
 
 # Config genAI
@@ -32,15 +28,6 @@ class Evaluator:
             },  # json response
         )
         self.cache = load_json(UPLOADED_FILES_CACHE)
-
-    def get_prompt(self, prompt_name, placeholders):
-        with open(f"../prompts/{prompt_name}") as f:
-            prompt = f.read()
-
-        for ph in placeholders:
-            prompt = prompt.replace(ph[0], ph[1])
-
-        return prompt
 
     def add_report_to_cache(self, report):
         report = genai.upload_file(
@@ -70,7 +57,7 @@ class Evaluator:
         step_size = 10
         for i in range(0, len(questions), step_size):
             curr = questions[i : i + step_size]
-            prompt = self.get_prompt("exam-question-initial.prompt", [])
+            prompt = get_prompt("exam-question-initial.prompt", [])
             prompt += "\n\n"
             for j, qa in enumerate(curr):
                 # Create multiple-choice question prompt
@@ -82,7 +69,7 @@ class Evaluator:
                     ("[QUESTION]", qa["question"]),
                     ("[OPTIONS]", option_list),
                 ]
-                q_prompt = self.get_prompt("exam-question.prompt", placeholders)
+                q_prompt = get_prompt("exam-question.prompt", placeholders)
                 prompt += q_prompt + "\n"
 
             # Get model response
@@ -179,13 +166,3 @@ class Evaluator:
             ["content_metrics", "readability_metrics"],
             [content_metrics, readability_metrics],
         )
-
-
-report_reader = ReportReader()
-evaluator = Evaluator()
-
-content_questions = load_json("../questions/sample-questions.json")
-sample_report = report_reader.get_report(
-    "../data/pages/IPCC_SPM_2018-page-7.pdf", "IPPC 2018"
-)
-evaluator.run(content_questions, sample_report)
