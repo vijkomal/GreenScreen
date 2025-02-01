@@ -8,6 +8,7 @@ from dataclasses import dataclass
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 import numpy as np
+
 nltk.download("punkt")
 
 # config genAI
@@ -36,6 +37,7 @@ class Slide:
     latex_content: str
     transcript: str
 
+
 ###
 class SlidesGenerator:
     def __init__(self):
@@ -61,7 +63,7 @@ class SlidesGenerator:
     def get_raw_slide_latex(self, section_text, title):
         # sentences = nltk.sent_tokenize(section_text)
         slide_latex = r"\begin{frame}" + "\n"
-        slide_latex += r"\frametitle{" + title r"}" + "\n"
+        slide_latex += r"\frametitle{" + title + r"}" + "\n"
         slide_latex += section_text
         # slide_latex += r"\begin{itemize}" + "\n"
         # for sentence in sentences:

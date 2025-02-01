@@ -1,0 +1,12 @@
+Your task is to answer the following multiple choice questions about the report. 
+For each question, provide a sentence about your reasoning. Then answer using
+the number of the option with the correct answer. If you cannot answer the question
+based on the provided context, use `-1` as your answer. Format your response
+using this JSON schema:
+
+Answer = {'question': int, 'reasoning': str, 'answer': int}
+Return: Answer
+
+Question [QUESTION_NUM]: [QUESTION]
+Options:
+[OPTIONS]
