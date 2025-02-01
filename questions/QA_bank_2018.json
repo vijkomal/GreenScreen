@@ -1,0 +1,1150 @@
+[
+    {
+        "question": "What would deep, rapid, and sustained reductions in greenhouse gas emissions lead to?",
+        "option_1": "Continued increases in global warming.",
+        "option_2": "A slowing down of global warming.",
+        "option_3": "A halting of anthropogenic global warming.",
+        "answer": 3
+    },
+    {
+        "question": "If current trends continue, when is global warming likely to reach 1.5\u00b0C?",
+        "option_1": "Between 2030 and 2052.",
+        "option_2": "Between 2050 and 2075.",
+        "option_3": "Between 2075 and 2100.",
+        "answer": 1
+    },
+    {
+        "question": "Approximately how much has human activity increased global warming above pre-industrial levels?",
+        "option_1": "0.5\u00b0C",
+        "option_2": "1.0\u00b0C",
+        "option_3": "1.5\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "How much faster is warming occurring in the Arctic compared to the global average?",
+        "option_1": "The same rate.",
+        "option_2": "Two to three times faster.",
+        "option_3": "Three to four times faster.",
+        "answer": 2
+    },
+    {
+        "question": "By how much are anthropogenic emissions up to the present likely to cause further warming over the next two to three decades?",
+        "option_1": "More than 1.0\u00b0C",
+        "option_2": "More than 0.5\u00b0C",
+        "option_3": "Less than 0.2\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "What would reaching and sustaining net zero global anthropogenic CO2 emissions do to anthropogenic global warming on multi-decadal time scales?",
+        "option_1": "Increase it significantly.",
+        "option_2": "Slow it slightly.",
+        "option_3": "Halt it.",
+        "answer": 3
+    },
+    {
+        "question": "What is the relationship between climate-related risks and the degree of global warming?",
+        "option_1": "Risks are higher at 1.5\u00b0C compared to 2\u00b0C.",
+        "option_2": "Risks are lower at 1.5\u00b0C compared to 2\u00b0C.",
+        "option_3": "Risks are the same at 1.5\u00b0C and 2\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "What is one possible consequence if global warming exceeds 1.5\u00b0C before returning to that level by 2100?",
+        "option_1": "Faster stabilization of global temperatures.",
+        "option_2": "Long-lasting or irreversible impacts such as the loss of ecosystems.",
+        "option_3": "Enhanced marine biodiversity",
+        "answer": 2
+    },
+    {
+        "question": "What is the relationship between net global anthropogenic CO2 emissions and the maximum temperature reached?",
+        "option_1": "The maximum temperature is not determined by CO2 emissions",
+        "option_2": "The maximum temperature is determined by cumulative net global anthropogenic CO2 emissions.",
+        "option_3": "The maximum temperature is determined by non-CO2 emissions",
+        "answer": 2
+    },
+    {
+        "question": "What is projected to happen to extreme hot days in mid-latitudes with a global warming of 1.5\u00b0C?",
+        "option_1": "They will warm by about 2\u00b0C",
+        "option_2": "They will warm by about 3\u00b0C.",
+        "option_3": "They will not change",
+        "answer": 2
+    },
+    {
+        "question": "What is projected to happen to extreme cold nights in high latitudes with a global warming of 1.5\u00b0C?",
+        "option_1": "They will not change",
+        "option_2": "They will warm by about 4.5\u00b0C.",
+        "option_3": "They will warm by about 2\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "What is projected to happen to the risk of droughts and precipitation deficits in some regions with 2\u00b0C of global warming compared to 1.5\u00b0C?",
+        "option_1": "They will be lower",
+        "option_2": "They will be higher.",
+        "option_3": "They will stay the same",
+        "answer": 2
+    },
+    {
+        "question": "By 2100, how will global mean sea level rise be affected by a global warming of 1.5\u00b0C compared to 2\u00b0C?",
+        "option_1": "It will be the same.",
+        "option_2": "It will be around 0.1 metre lower.",
+        "option_3": "It will be around 0.1 metre higher",
+        "answer": 2
+    },
+    {
+        "question": "What will happen to sea level rise beyond 2100 even if global warming is limited to 1.5\u00b0C?",
+        "option_1": "It will stay the same",
+        "option_2": "It will not change",
+        "option_3": "It will continue to rise.",
+        "answer": 3
+    },
+    {
+        "question": "What might result from marine ice sheet instability in Antarctica and/or irreversible loss of the Greenland ice sheet?",
+        "option_1": "A decrease in sea level.",
+        "option_2": "A multi-metre rise in sea level.",
+        "option_3": "A stabilization in sea level.",
+        "answer": 2
+    },
+    {
+        "question": "What is projected to happen to species loss and extinction at 1.5\u00b0C compared to 2\u00b0C?",
+        "option_1": "It will be higher at 1.5\u00b0C.",
+        "option_2": "It will be lower at 1.5\u00b0C.",
+        "option_3": "It will be the same at 1.5\u00b0C and 2\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "What is projected to happen to risks associated with forest fires with 1.5\u00b0C of global warming compared to 2\u00b0C?",
+        "option_1": "Risks will be lower at 1.5\u00b0C.",
+        "option_2": "Risks will be higher at 1.5\u00b0C.",
+        "option_3": "Risks will be the same at 1.5\u00b0C and 2\u00b0C",
+        "answer": 1
+    },
+    {
+        "question": "What is projected to happen to increases in ocean temperature and acidity with 1.5\u00b0C compared to 2\u00b0C?",
+        "option_1": "Increases will be higher at 1.5\u00b0C",
+        "option_2": "Increases will be reduced at 1.5\u00b0C.",
+        "option_3": "Increases will be the same at 1.5\u00b0C and 2\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "What is the projected probability of a sea ice-free Arctic Ocean during summer at 1.5\u00b0C compared to 2\u00b0C?",
+        "option_1": "It is projected to be lower at 1.5\u00b0C.",
+        "option_2": "It is projected to be higher at 1.5\u00b0C.",
+        "option_3": "It is the same at both 1.5\u00b0C and 2\u00b0C",
+        "answer": 1
+    },
+    {
+        "question": "What is the projected percentage reduction in coral reefs at 1.5\u00b0C?",
+        "option_1": "70-90%.",
+        "option_2": "20-40%",
+        "option_3": "10-20%",
+        "answer": 1
+    },
+    {
+        "question": "What is the projected percentage reduction in coral reefs at 2\u00b0C?",
+        "option_1": "70-90%.",
+        "option_2": "More than 99%",
+        "option_3": "20-40%",
+        "answer": 2
+    },
+    {
+        "question": "What is the relationship between global warming and the level of ocean acidification?",
+        "option_1": "Ocean acidification will be reduced with warming",
+        "option_2": "Ocean acidification will be amplified with warming",
+        "option_3": "Ocean acidification is not impacted by global warming",
+        "answer": 2
+    },
+    {
+        "question": "What is the projected decrease in global annual catch for marine fisheries at 1.5\u00b0C of global warming, compared to 2\u00b0C?",
+        "option_1": "The decrease will be higher at 1.5\u00b0C",
+        "option_2": "The decrease will be lower at 1.5\u00b0C.",
+        "option_3": "The decrease will be the same at 1.5\u00b0C and 2\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "What populations are at disproportionately higher risk of adverse consequences with global warming of 1.5\u00b0C?",
+        "option_1": "Only developed nations",
+        "option_2": "Disadvantaged and vulnerable populations, some indigenous peoples, and local communities dependent on agricultural or coastal livelihoods.",
+        "option_3": "Only urban areas.",
+        "answer": 2
+    },
+    {
+        "question": "How does limiting global warming to 1.5\u00b0C, compared with 2\u00b0C, affect the number of people exposed to climate-related risks?",
+        "option_1": "It would increase the number of people exposed.",
+        "option_2": "It could reduce the number of people exposed by up to several hundred million by 2050.",
+        "option_3": "It would have no impact on the number of people exposed.",
+        "answer": 2
+    },
+    {
+        "question": "What effect does any increase in global warming have on human health?",
+        "option_1": "Primarily positive consequences",
+        "option_2": "Primarily negative consequences.",
+        "option_3": "No effect",
+        "answer": 2
+    },
+    {
+        "question": "What effect does limiting warming to 1.5\u00b0C have on the yields of maize, rice, and wheat compared with 2\u00b0C?",
+        "option_1": "It is projected to result in larger net reductions.",
+        "option_2": "It is projected to result in smaller net reductions.",
+        "option_3": "It will have no impact",
+        "answer": 2
+    },
+    {
+        "question": "How does limiting global warming to 1.5\u00b0C compare with 2\u00b0C regarding the proportion of the world population exposed to increased water stress?",
+        "option_1": "It may reduce the proportion of the population exposed by up to 50%",
+        "option_2": "It may increase the proportion of the population exposed by up to 50%",
+        "option_3": "It will have no impact",
+        "answer": 1
+    },
+    {
+        "question": "How do risks to global aggregated economic growth compare at 1.5\u00b0C and 2\u00b0C?",
+        "option_1": "They are projected to be higher at 1.5\u00b0C.",
+        "option_2": "They are projected to be lower at 1.5\u00b0C.",
+        "option_3": "They are the same at 1.5\u00b0C and 2\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "What happens to the number of people exposed and susceptible to poverty in Africa and Asia as the risk of climate-related issues increases?",
+        "option_1": "The number decreases.",
+        "option_2": "The number increases.",
+        "option_3": "The number stays the same",
+        "answer": 2
+    },
+    {
+        "question": "What is the risk transition between 1.5\u00b0C and 2\u00b0C for RFC1 (Unique and threatened systems)?",
+        "option_1": "From moderate to high risk",
+        "option_2": "From high to very high risk.",
+        "option_3": "From very high to low risk",
+        "answer": 2
+    },
+    {
+        "question": "What is the risk transition between 1\u00b0C and 1.5\u00b0C for RFC2 (Extreme weather events)?",
+        "option_1": "From high to very high risk",
+        "option_2": "From moderate to high risk.",
+        "option_3": "From very low to low risk",
+        "answer": 2
+    },
+    {
+        "question": "What is the relationship between adaptation needs and global warming?",
+        "option_1": "Adaptation needs are higher for global warming of 1.5\u00b0C compared to 2\u00b0C",
+        "option_2": "Adaptation needs are lower for global warming of 1.5\u00b0C compared to 2\u00b0C.",
+        "option_3": "Adaptation needs are the same at 1.5\u00b0C and 2\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "What are adaptation options available to reduce the risks to natural and managed ecosystems?",
+        "option_1": "Only ecosystem restoration",
+        "option_2": "Ecosystem-based adaptation, ecosystem restoration and avoided degradation and deforestation, biodiversity management, sustainable aquaculture, and local knowledge and indigenous knowledge.",
+        "option_3": "Only local knowledge",
+        "answer": 2
+    },
+    {
+        "question": "What happens to adaptation as global warming increases?",
+        "option_1": "Adaptation gets easier",
+        "option_2": "Adaptation becomes more challenging.",
+        "option_3": "Adaptation is not impacted by increases in global warming",
+        "answer": 2
+    },
+    {
+        "question": "What is the relationship between limits to adaptive capacity and global warming?",
+        "option_1": "Limits to adaptive capacity get reduced at 1.5\u00b0C",
+        "option_2": "Limits to adaptive capacity exist at 1.5\u00b0C of global warming, become more pronounced at higher levels of warming",
+        "option_3": "There is no relation between adaptive capacity and global warming",
+        "answer": 2
+    },
+    {
+        "question": "In model pathways with no or limited overshoot of 1.5\u00b0C, by about how much do global net anthropogenic CO2 emissions decline by 2030 from 2010 levels?",
+        "option_1": "About 15%",
+        "option_2": "About 45%",
+        "option_3": "About 75%",
+        "answer": 2
+    },
+    {
+        "question": "In model pathways with no or limited overshoot of 1.5\u00b0C, when do global net anthropogenic CO2 emissions reach net zero?",
+        "option_1": "Around 2070",
+        "option_2": "Around 2050.",
+        "option_3": "Around 2090",
+        "answer": 2
+    },
+    {
+        "question": "How do non-CO2 emissions in pathways that limit global warming to 1.5\u00b0C compare to those in pathways limiting warming to 2\u00b0C?",
+        "option_1": "Non-CO2 emissions in 1.5\u00b0C are higher",
+        "option_2": "Non-CO2 emissions in 1.5\u00b0C show deep reductions similar to those in 2\u00b0C",
+        "option_3": "Non-CO2 emissions are higher in 2\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "In modeled pathways that limit warming to 1.5\u00b0C, what happens to methane and black carbon emissions by 2050 relative to 2010?",
+        "option_1": "They decrease by 10%",
+        "option_2": "They decrease by 35% or more.",
+        "option_3": "They increase by 35%",
+        "answer": 2
+    },
+    {
+        "question": "What is the climate impact of reduced cooling aerosols?",
+        "option_1": "They enhance the cooling effect.",
+        "option_2": "They partially offset mitigation effects for two to three decades.",
+        "option_3": "There is no climate impact",
+        "answer": 2
+    },
+    {
+        "question": "What does limiting global warming require in terms of total cumulative global anthropogenic emissions of CO2?",
+        "option_1": "It requires increasing the total cumulative global emissions",
+        "option_2": "It requires limiting the total cumulative global emissions.",
+        "option_3": "It has no impact on total cumulative emissions",
+        "answer": 2
+    },
+    {
+        "question": "By the end of 2017, approximately how much had anthropogenic CO2 emissions reduced the total carbon budget for 1.5\u00b0C?",
+        "option_1": "Approximately 1000 GtCO2.",
+        "option_2": "Approximately 2200 GtCO2.",
+        "option_3": "Approximately 500 GtCO2",
+        "answer": 2
+    },
+    {
+        "question": "How does the choice of the measure of global temperature affect the estimated remaining carbon budget?",
+        "option_1": "The choice of measure does not affect the remaining carbon budget.",
+        "option_2": "The choice of measure does affect the remaining carbon budget.",
+        "option_3": "It depends on the country",
+        "answer": 2
+    },
+    {
+        "question": "How does permafrost thawing affect the carbon budget?",
+        "option_1": "It would increase the budget",
+        "option_2": "It would reduce the budget.",
+        "option_3": "It would have no impact",
+        "answer": 2
+    },
+    {
+        "question": "What is the impact of solar radiation modification measures on ocean acidification?",
+        "option_1": "They mitigate ocean acidification",
+        "option_2": "They do not mitigate ocean acidification.",
+        "option_3": "They amplify ocean acidification",
+        "answer": 2
+    },
+    {
+        "question": "In pathways limiting global warming to 1.5\u00b0C, what is the relationship of the system changes and the rates of change compared to 2\u00b0C pathways?",
+        "option_1": "The system changes are slower and less pronounced.",
+        "option_2": "The system changes are more rapid and pronounced.",
+        "option_3": "The system changes are the same",
+        "answer": 2
+    },
+    {
+        "question": "What is the typical amount that renewables are projected to supply of electricity in 2050 in 1.5\u00b0C pathways?",
+        "option_1": "30-40%",
+        "option_2": "70-85%",
+        "option_3": "90-100%",
+        "answer": 2
+    },
+    {
+        "question": "What is the projected share of gas in global electricity in 2050 in 1.5\u00b0C pathways with the use of CCS?",
+        "option_1": "25%",
+        "option_2": "Approximately 8%.",
+        "option_3": "1%",
+        "answer": 2
+    },
+    {
+        "question": "In pathways limiting global warming to 1.5\u00b0C, how much lower are CO2 emissions from industry projected to be in 2050 relative to 2010?",
+        "option_1": "10-20% lower",
+        "option_2": "65-90% lower.",
+        "option_3": "20-40% lower",
+        "answer": 2
+    },
+    {
+        "question": "What is one way to achieve reductions in CO2 emissions from industry?",
+        "option_1": "Increase in use of fossil fuels.",
+        "option_2": "Electrification, hydrogen, sustainable bio-based feedstocks, product substitution, and carbon capture, utilization and storage (CCUS).",
+        "option_3": "Increase in transport emissions",
+        "answer": 2
+    },
+    {
+        "question": "In pathways limiting global warming to 1.5\u00b0C, what is the projected electricity share of energy demand in buildings in 2050?",
+        "option_1": "30-40%",
+        "option_2": "About 55-75%.",
+        "option_3": "About 90-100%",
+        "answer": 2
+    },
+    {
+        "question": "What land-use changes are projected in pathways that limit global warming to 1.5\u00b0C with no or limited overshoot by 2050?",
+        "option_1": "Increase in pasture land and reduction in agricultural land",
+        "option_2": "Reduction in non-pasture agricultural land and increase in forest land.",
+        "option_3": "There is no impact on land-use",
+        "answer": 2
+    },
+    {
+        "question": "In pathways limiting warming to 1.5\u00b0C, how do land-use transitions compare to those in 2\u00b0C pathways?",
+        "option_1": "Land-use transitions are lower in 1.5\u00b0C.",
+        "option_2": "Land-use transitions are similar in magnitude to those in 2\u00b0C.",
+        "option_3": "Land-use transitions are higher in 1.5\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "What are estimated additional annual average energy-related investments for pathways limiting warming to 1.5\u00b0C compared to pathways without new climate policies?",
+        "option_1": "Around 830 billion USD2010.",
+        "option_2": "Around 200 billion USD2010",
+        "option_3": "Around 100 billion USD2010",
+        "answer": 1
+    },
+    {
+        "question": "How do modelled marginal abatement costs compare between pathways limiting warming to 1.5\u00b0C and pathways limiting warming to below 2\u00b0C?",
+        "option_1": "They are similar",
+        "option_2": "They are roughly 3-4 times higher in pathways limiting warming to 1.5\u00b0C.",
+        "option_3": "They are roughly 3-4 times lower in pathways limiting warming to 1.5\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "What is the primary use of Carbon Dioxide Removal (CDR) in pathways limiting global warming to 1.5\u00b0C?",
+        "option_1": "To reduce emissions",
+        "option_2": "To compensate for residual emissions and achieve net negative emissions.",
+        "option_3": "To improve air quality",
+        "answer": 2
+    },
+    {
+        "question": "In pathways limiting global warming to 1.5\u00b0C, what is the projected range of BECCS deployment in 2030?",
+        "option_1": "0-1 GtCO\u2082 yr\u207b\u00b9",
+        "option_2": "10-20 GtCO\u2082 yr\u207b\u00b9",
+        "option_3": "20-30 GtCO\u2082 yr\u207b\u00b9",
+        "answer": 1
+    },
+    {
+        "question": "What is the range of deployment of AFOLU-related CDR measures in 2030 in pathways limiting global warming to 1.5\u00b0C?",
+        "option_1": "0-5 GtCO\u2082 yr\u207b\u00b9.",
+        "option_2": "10-15 GtCO\u2082 yr\u207b\u00b9",
+        "option_3": "20-25 GtCO\u2082 yr\u207b\u00b9",
+        "answer": 1
+    },
+    {
+        "question": "What happens to CDR in pathways that overshoot 1.5\u00b0C of global warming?",
+        "option_1": "CDR is reduced",
+        "option_2": "CDR exceeds residual CO2 emissions later in the century to return to below 1.5\u00b0C by 2100.",
+        "option_3": "CDR has no impact",
+        "answer": 2
+    },
+    {
+        "question": "What are some of the potential impacts of current and potential CDR measures?",
+        "option_1": "Impacts on land, energy, water or nutrients",
+        "option_2": "No significant impacts",
+        "option_3": "All are beneficial",
+        "answer": 1
+    },
+    {
+        "question": "What are some of the co-benefits of some AFOLU-related CDR measures?",
+        "option_1": "Improved biodiversity, soil quality, and local food security.",
+        "option_2": "No co-benefits",
+        "option_3": "Negative impacts on food security",
+        "answer": 1
+    },
+    {
+        "question": "What is the global emissions outcome of current nationally stated mitigation ambitions by 2030?",
+        "option_1": "20-30 GtCO2eq yr-1",
+        "option_2": "52-58 GtCO2eq yr-1.",
+        "option_3": "10-20 GtCO2eq yr-1",
+        "answer": 2
+    },
+    {
+        "question": "What is the outcome if current nationally stated mitigation ambitions are followed?",
+        "option_1": "It would limit global warming to 1.5\u00b0C",
+        "option_2": "It would not limit global warming to 1.5\u00b0C.",
+        "option_3": "It would limit global warming to 2\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "If pathways overshoot global warming to 1.5\u00b0C, what are the potential challenges?",
+        "option_1": "Lower impacts and associated challenges",
+        "option_2": "Higher impacts and associated challenges.",
+        "option_3": "No changes in impacts",
+        "answer": 2
+    },
+    {
+        "question": "What happens to challenges from delayed actions to reduce greenhouse gas emissions?",
+        "option_1": "Challenges are reduced",
+        "option_2": "They include the risk of cost escalation, lock-in in carbon-emitting infrastructure, stranded assets, and reduced flexibility in future response options.",
+        "option_3": "There is no impact",
+        "answer": 2
+    },
+    {
+        "question": "How would limiting global warming to 1.5\u00b0C rather than 2\u00b0C affect climate change impacts on sustainable development?",
+        "option_1": "The avoided impacts would be greater if warming was limited to 1.5\u00b0C",
+        "option_2": "The avoided impacts would be greater if warming was limited to 2\u00b0C",
+        "option_3": "There is no impact",
+        "answer": 1
+    },
+    {
+        "question": "What do the United Nations Sustainable Development Goals (SDGs) provide?",
+        "option_1": "No framework for assessing links between global warming and development",
+        "option_2": "An established framework for assessing the links between global warming and development goals.",
+        "option_3": "Frameworks for only developing countries",
+        "answer": 2
+    },
+    {
+        "question": "What are core aspects of climate-resilient development pathways that aim to limit global warming to 1.5\u00b0C?",
+        "option_1": "Social justice and equity.",
+        "option_2": "Only technical innovations.",
+        "option_3": "Financial assistance only",
+        "answer": 1
+    },
+    {
+        "question": "What are some of the enabling conditions that enhance the feasibility of mitigation and adaptation options for 1.5\u00b0C-consistent systems transitions?",
+        "option_1": "Strengthened multilevel governance, institutional capacity, policy instruments, technological innovation and transfer, and mobilization of finance, and changes in human behaviour and lifestyles.",
+        "option_2": "Only technology improvements",
+        "option_3": "Only policy changes",
+        "answer": 1
+    },
+    {
+        "question": "What is a key enabling condition to enhance resilience and adaptive capacities of societies?",
+        "option_1": "Decreasing investment in social infrastructure",
+        "option_2": "Increasing investment in physical and social infrastructure.",
+        "option_3": "Investment only in physical infrastructure",
+        "answer": 2
+    },
+    {
+        "question": "What is one of the potential trade-offs of adaptation to 1.5\u00b0C of global warming if poorly designed?",
+        "option_1": "Decreases in greenhouse gas emissions",
+        "option_2": "Increase in water use.",
+        "option_3": "No negative impacts",
+        "answer": 2
+    },
+    {
+        "question": "What can a mix of adaptation and mitigation options enable in urban and rural areas?",
+        "option_1": "A slow transition",
+        "option_2": "Rapid, systemic transitions.",
+        "option_3": "No transition",
+        "answer": 2
+    },
+    {
+        "question": "What does mitigation combined with adaptation provide?",
+        "option_1": "No synergies",
+        "option_2": "Synergies and cost savings.",
+        "option_3": "Increased costs",
+        "answer": 2
+    },
+    {
+        "question": "What is the net effect of mitigation options in relation to the Sustainable Development Goals (SDGs)?",
+        "option_1": "Net effect is negative",
+        "option_2": "Net effect will depend on the pace and magnitude of changes.",
+        "option_3": "Net effect is positive",
+        "answer": 2
+    },
+    {
+        "question": "Which SDGs have robust synergies in 1.5\u00b0C pathways?",
+        "option_1": "Only health and clean energy",
+        "option_2": "Health, clean energy, cities and communities, responsible consumption and production and oceans.",
+        "option_3": "Only oceans",
+        "answer": 2
+    },
+    {
+        "question": "How do 1.5\u00b0C pathways that include low energy demand compare with others?",
+        "option_1": "They have less synergies",
+        "option_2": "They have the most pronounced synergies and the lowest number of trade-offs.",
+        "option_3": "They have the most trade-offs",
+        "answer": 2
+    },
+    {
+        "question": "What are policy instruments that can facilitate system transitions to help limit global warming to 1.5\u00b0C?",
+        "option_1": "Only technological innovation",
+        "option_2": "Market and non-market based instruments.",
+        "option_3": "Only increase in investments",
+        "answer": 2
+    },
+    {
+        "question": "What does international cooperation contribute to in the development and adoption of mitigation technologies?",
+        "option_1": "Nothing",
+        "option_2": "It can contribute to the development, commercialization and widespread adoption of mitigation and adaptation technologies.",
+        "option_3": "It slows adoption",
+        "answer": 2
+    }
+    {
+        "question": "If global warming continues to increase at the current rate, when is it likely to reach 1.5\u00b0C?",
+        "option_1": "Between 2050 and 2070",
+        "option_2": "Between 2030 and 2052",
+        "option_3": "Between 2060 and 2080",
+        "answer": 2
+    },
+    {
+        "question": "How much is estimated anthropogenic global warming currently increasing per decade?",
+        "option_1": "0.2\u00b0C",
+        "option_2": "0.5\u00b0C",
+        "option_3": "0.8\u00b0C",
+        "answer": 1
+    },
+    {
+        "question": "Where is warming being experienced more than the global average?",
+        "option_1": "Only in the ocean",
+        "option_2": "Many land regions and seasons, including the Arctic",
+        "option_3": "Only in the Southern hemisphere",
+        "answer": 2
+    },
+    {
+        "question": "What is the consequence of warming from anthropogenic emissions?",
+        "option_1": "It will cause short-term changes.",
+        "option_2": "It will persist for centuries to millennia causing long-term changes in the climate system.",
+        "option_3": "It will have no impact on sea level.",
+        "answer": 2
+    },
+    {
+        "question": "What is the relationship between reaching net zero global anthropogenic CO2 emissions and global warming?",
+        "option_1": "Reaching net zero CO2 emissions will have no effect on warming",
+        "option_2": "Reaching net zero CO2 emissions would halt anthropogenic global warming on multi-decadal time scales",
+        "option_3": "Reaching net zero CO2 emissions will cause additional warming",
+        "answer": 2
+    },
+    {
+        "question": "What is the difference between climate related risks at 1.5\u00b0C vs 2\u00b0C?",
+        "option_1": "Risks are the same at both temperatures",
+        "option_2": "Risks are higher at 1.5\u00b0C",
+        "option_3": "Risks are higher at 2\u00b0C",
+        "answer": 3
+    },
+    {
+        "question": "What would a higher peak temperature before returning to 1.5\u00b0C by 2100 result in?",
+        "option_1": "Smaller risks than if global warming stabilizes at 1.5\u00b0C",
+        "option_2": "Larger risks than if global warming gradually stabilizes at 1.5\u00b0C, particularly if the peak temperature is high",
+        "option_3": "The same risks as if global warming gradually stabilizes at 1.5\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "What is the impact of adaptation and mitigation on future climate related risks?",
+        "option_1": "Risks would increase regardless of adaptation and mitigation.",
+        "option_2": "Risks would be reduced by the upscaling and acceleration of far-reaching, multilevel, and cross-sectoral climate mitigation and by adaptation.",
+        "option_3": "Risks would be reduced only by upscaling mitigation.",
+        "answer": 2
+    },
+    {
+        "question": "What determines the maximum temperature reached according to the text?",
+        "option_1": "The rate of non-CO2 emissions reduction.",
+        "option_2": "The cumulative net global anthropogenic CO2 emissions up to the time of net zero CO2 emissions and the level of non-CO2 radiative forcing",
+        "option_3": "The level of radiative forcing in the decades before maximum temperatures are reached",
+        "answer": 2
+    },
+    {
+        "question": "Compared to pre-industrial levels, how much warmer are temperature extremes on land projected to be at 1.5\u00b0C of global warming?",
+        "option_1": "About 2\u00b0C",
+        "option_2": "About 3\u00b0C",
+        "option_3": "About 4\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "What is the projection for extreme cold nights in high latitudes at 1.5\u00b0C warming?",
+        "option_1": "They will warm by about 3\u00b0C",
+        "option_2": "They will warm by up to 4.5\u00b0C",
+        "option_3": "They will warm by up to 6\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "How are risks from droughts and precipitation deficits projected at 2\u00b0C compared to 1.5\u00b0C?",
+        "option_1": "Lower",
+        "option_2": "Higher",
+        "option_3": "The same",
+        "answer": 2
+    },
+    {
+        "question": "What is projected for heavy precipitation at 2\u00b0C compared to 1.5\u00b0C?",
+        "option_1": "Higher in some regions",
+        "option_2": "Lower in some regions",
+        "option_3": "The same in some regions",
+        "answer": 1
+    },
+    {
+        "question": "By 2100, how much lower is global mean sea level rise projected to be at 1.5\u00b0C compared to 2\u00b0C?",
+        "option_1": "Around 0.1 metre",
+        "option_2": "Around 0.2 metres",
+        "option_3": "Around 0.5 metres",
+        "answer": 1
+    },
+    {
+        "question": "What will sea level do even if global warming is limited to 1.5\u00b0C in the 21st century?",
+        "option_1": "It will stop rising by 2100",
+        "option_2": "It will continue to rise well beyond 2100",
+        "option_3": "It will go down",
+        "answer": 2
+    },
+    {
+        "question": "At what temperature range could instabilities in marine ice sheets be triggered?",
+        "option_1": "Around 0.5\u00b0C to 1\u00b0C of global warming",
+        "option_2": "Around 1.5\u00b0C to 2\u00b0C of global warming",
+        "option_3": "Around 2.5\u00b0C to 3\u00b0C of global warming",
+        "answer": 2
+    },
+    {
+        "question": "How do risks associated with sea level rise compare at 1.5\u00b0C and 2\u00b0C?",
+        "option_1": "The risks are higher at 1.5\u00b0C",
+        "option_2": "The risks are higher at 2\u00b0C",
+        "option_3": "The risks are the same",
+        "answer": 2
+    },
+    {
+        "question": "How do impacts on biodiversity and ecosystems compare at 1.5\u00b0C and 2\u00b0C of global warming?",
+        "option_1": "Impacts are projected to be lower at 1.5\u00b0C",
+        "option_2": "Impacts are projected to be higher at 1.5\u00b0C",
+        "option_3": "Impacts are the same at both temperatures",
+        "answer": 1
+    },
+    {
+        "question": "What is the projection for species loss if warming reaches 1.5\u00b0C?",
+        "option_1": "6% of insects, 8% of plants, and 4% of vertebrates are projected to lose over half of their climatically determined geographic range.",
+        "option_2": "18% of insects, 16% of plants, and 8% of vertebrates are projected to lose over half of their climatically determined geographic range.",
+        "option_3": "All species will lose their geographic range.",
+        "answer": 1
+    },
+    {
+        "question": "How much lower is the area at risk of ecosystem transformation projected to be at 1.5\u00b0C compared to 2\u00b0C?",
+        "option_1": "25% lower",
+        "option_2": "50% lower",
+        "option_3": "75% lower",
+        "answer": 2
+    },
+    {
+        "question": "What is the projected impact on high-latitude tundra and boreal forests with climate change?",
+        "option_1": "They are not at risk.",
+        "option_2": "They are at risk of climate change-induced degradation and loss.",
+        "option_3": "They are at risk only with 2\u00b0C warming",
+        "answer": 2
+    },
+    {
+        "question": "What is the projected consequence for the permafrost area if warming is limited to 1.5\u00b0C compared to 2\u00b0C?",
+        "option_1": "The thawing over centuries of a permafrost area is projected to be prevented with 1.5\u00b0C rather than 2\u00b0C.",
+        "option_2": "The thawing is projected to be the same regardless of the temperature.",
+        "option_3": "The thawing will only occur with 2\u00b0C warming.",
+        "answer": 1
+    },
+    {
+        "question": "How does limiting global warming to 1.5\u00b0C impact ocean conditions compared to 2\u00b0C?",
+        "option_1": "It increases the rate of ocean acidification.",
+        "option_2": "It is projected to reduce increases in ocean temperature, acidity and decreases in oxygen levels.",
+        "option_3": "It has no impact on ocean conditions",
+        "answer": 2
+    },
+    {
+        "question": "What is the likelihood of a sea ice-free Arctic Ocean during summer at 1.5\u00b0C compared to 2\u00b0C?",
+        "option_1": "It is equally likely at both temperatures",
+        "option_2": "It is substantially more likely at 1.5\u00b0C than at 2\u00b0C",
+        "option_3": "It is substantially lower at 1.5\u00b0C than at 2\u00b0C",
+        "answer": 3
+    },
+    {
+        "question": "How many sea ice-free Arctic summers are projected per century at 1.5\u00b0C warming?",
+        "option_1": "One",
+        "option_2": "Five",
+        "option_3": "Ten",
+        "answer": 1
+    },
+    {
+        "question": "What happens with the sea ice if temperatures overshoot?",
+        "option_1": "Effects are reversible for Arctic sea ice cover on decadal time scales",
+        "option_2": "Effects are not reversible.",
+        "option_3": "There is no impact to Arctic ice.",
+        "answer": 1
+    },
+    {
+        "question": "What is projected to happen to many marine species at 1.5\u00b0C warming?",
+        "option_1": "Ranges will stay the same",
+        "option_2": "Ranges will shift to higher latitudes",
+        "option_3": "They will shift to lower latitudes",
+        "answer": 2
+    },
+    {
+        "question": "What is the impact of ocean acidification due to increasing CO2 concentrations?",
+        "option_1": "It is projected to have minimal effects on the growth, development, calcification, and survival of species.",
+        "option_2": "It is projected to amplify the adverse effects of warming on a broad range of species.",
+        "option_3": "It is projected to only affect fish",
+        "answer": 2
+    },
+    {
+        "question": "How do climate change impacts on fisheries and aquaculture compare at 1.5\u00b0C vs 2\u00b0C?",
+        "option_1": "They are projected to be greater at 1.5\u00b0C",
+        "option_2": "They are projected to be less at 1.5\u00b0C",
+        "option_3": "They are projected to be the same",
+        "answer": 2
+    },
+    {
+        "question": "How is climate change projected to affect climate-related risks to health, livelihoods, food security, etc.?",
+        "option_1": "They are projected to increase with global warming of 1.5\u00b0C and decrease further with 2\u00b0C",
+        "option_2": "They are projected to increase with global warming of 1.5\u00b0C and increase further with 2\u00b0C",
+        "option_3": "They will remain the same",
+        "answer": 2
+    },
+    {
+        "question": "What populations are at higher risk of adverse consequences with global warming of 1.5\u00b0C and beyond?",
+        "option_1": "Only developed countries",
+        "option_2": "Only wealthy populations",
+        "option_3": "Disadvantaged and vulnerable populations, some indigenous peoples, and local communities dependent on agricultural or coastal livelihoods.",
+        "answer": 3
+    },
+    {
+        "question": "What is projected for heat-related morbidity and mortality at 1.5\u00b0C than at 2\u00b0C?",
+        "option_1": "Lower risks",
+        "option_2": "Higher risks",
+        "option_3": "The same risks",
+        "answer": 1
+    },
+    {
+        "question": "How are risks from vector-borne diseases, such as malaria and dengue fever, projected to change with warming?",
+        "option_1": "They are projected to decrease with warming from 1.5\u00b0C to 2\u00b0C",
+        "option_2": "They are projected to increase with warming from 1.5\u00b0C to 2\u00b0C",
+        "option_3": "They are projected to stay the same with warming from 1.5\u00b0C to 2\u00b0C",
+        "answer": 2
+    },
+    {
+        "question": "What is the projected impact on yields of maize, rice, and wheat with warming?",
+        "option_1": "Smaller net increases are projected with 1.5\u00b0C warming.",
+        "option_2": "Smaller net reductions are projected with 1.5\u00b0C warming.",
+        "option_3": "The reductions will be larger with 1.5\u00b0C warming",
+        "answer": 2
+    },
+    {
+        "question": "What is the impact of limiting global warming to 1.5\u00b0C compared to 2\u00b0C on water stress?",
+        "option_1": "It may increase the proportion of the world population exposed to water stress.",
+        "option_2": "It may reduce the proportion of the world population exposed to water stress.",
+        "option_3": "It has no impact on water stress.",
+        "answer": 2
+    },
+    {
+        "question": "How do risks to global aggregated economic growth compare at 1.5\u00b0C and 2\u00b0C?",
+        "option_1": "Risks are projected to be higher at 1.5\u00b0C.",
+        "option_2": "Risks are projected to be lower at 1.5\u00b0C.",
+        "option_3": "Risks are projected to be the same",
+        "answer": 2
+    },
+    {
+        "question": "What happens with exposure to multiple and compound climate-related risks between 1.5\u00b0C and 2\u00b0C?",
+        "option_1": "Exposure decreases.",
+        "option_2": "Exposure increases.",
+        "option_3": "Exposure stays the same",
+        "answer": 2
+    },
+    {
+        "question": "According to the report, what has happened to assessed risk levels since AR5?",
+        "option_1": "They have decreased.",
+        "option_2": "They have stayed the same.",
+        "option_3": "They have increased for four of the five Reasons for Concern (RFCs) for global warming to 2\u00b0C.",
+        "answer": 3
+    },
+    {
+        "question": "What is projected for adaptation needs for a global warming of 1.5\u00b0C compared to 2\u00b0C?",
+        "option_1": "They are projected to be higher.",
+        "option_2": "They are projected to be lower.",
+        "option_3": "They are projected to be the same.",
+        "answer": 2
+    },
+    {
+        "question": "What does the text say about availability of adaptation options?",
+        "option_1": "There are no available adaptation options.",
+        "option_2": "There are a wide range of adaptation options that can reduce the risks of climate change.",
+        "option_3": "Adaptation options cannot reduce the risks.",
+        "answer": 2
+    },
+    {
+        "question": "What is the projection for adaptation at 2\u00b0C of global warming compared to 1.5\u00b0C?",
+        "option_1": "It is expected to be less challenging at 2\u00b0C.",
+        "option_2": "It is expected to be more challenging at 2\u00b0C.",
+        "option_3": "The difficulty of adaptation is not impacted by warming",
+        "answer": 2
+    },
+    {
+        "question": "At 1.5\u00b0C of global warming, what happens with limits to adaptive capacity?",
+        "option_1": "Limits disappear at 1.5\u00b0C.",
+        "option_2": "Limits do not exist at any level of warming.",
+        "option_3": "Limits to adaptive capacity exist at 1.5\u00b0C of global warming, become more pronounced at higher levels of warming and vary by sector.",
+        "answer": 3
+    },
+    {
+        "question": "In model pathways with no or limited overshoot of 1.5\u00b0C, how much do global net anthropogenic CO2 emissions decline by 2030 from 2010 levels?",
+        "option_1": "About 25%",
+        "option_2": "About 45%",
+        "option_3": "About 65%",
+        "answer": 2
+    },
+    {
+        "question": "When is net zero CO2 emissions reached in pathways limiting global warming to 1.5\u00b0C?",
+        "option_1": "Around 2050",
+        "option_2": "Around 2070",
+        "option_3": "Around 2090",
+        "answer": 1
+    },
+    {
+        "question": "How much are non-CO2 emissions reduced in pathways limiting global warming to 1.5\u00b0C?",
+        "option_1": "They are not reduced.",
+        "option_2": "They show deep reductions that are similar to those in pathways limiting warming to 2\u00b0C.",
+        "option_3": "They are reduced more than in pathways limiting warming to 2\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": "What does the text say about CO2 emissions reductions that limit global warming to 1.5\u00b0C?",
+        "option_1": "They can involve only one type of mitigation measure.",
+        "option_2": "They can involve different portfolios of mitigation measures.",
+        "option_3": "They all face the same implementation challenges.",
+        "answer": 2
+    },
+    {
+        "question": "What specific greenhouse gases are reduced in 1.5\u00b0C pathways?",
+        "option_1": "Methane and black carbon are not reduced.",
+        "option_2": "Only methane is reduced.",
+        "option_3": "Methane and black carbon are reduced.",
+        "answer": 3
+    },
+    {
+        "question": "What does the text say about total cumulative global anthropogenic emissions of CO2?",
+        "option_1": "They do not need to be limited.",
+        "option_2": "They need to be limited to stay within a total carbon budget.",
+        "option_3": "They can be unlimited.",
+        "answer": 2
+    },
+    {
+        "question": "What is the estimated remaining carbon budget for a 50% probability of limiting warming to 1.5\u00b0C, according to GMST?",
+        "option_1": "580 GtCO2",
+        "option_2": "770 GtCO2",
+        "option_3": "900 GtCO2",
+        "answer": 2
+    },
+    {
+        "question": "What is the impact of solar radiation modification (SRM) on pathways?",
+        "option_1": "SRM is included in all of the assessed pathways.",
+        "option_2": "SRM is not included in any of the available assessed pathways.",
+        "option_3": "SRM is effective in reducing ocean acidification",
+        "answer": 2
+    },
+    {
+        "question": "According to the text, what type of transitions do pathways limiting global warming to 1.5\u00b0C require?",
+        "option_1": "They require slow and minimal transitions in energy, land, urban, etc.",
+        "option_2": "They require rapid and far-reaching transitions in energy, land, urban, etc.",
+        "option_3": "They require no changes",
+        "answer": 2
+    },
+    {
+        "question": "Are the system transitions required for 1.5\u00b0C unprecedented in terms of scale, speed or both?",
+        "option_1": "They are unprecedented in terms of speed.",
+        "option_2": "They are unprecedented in terms of scale, but not necessarily in terms of speed.",
+        "option_3": "They are unprecedented in both scale and speed",
+        "answer": 2
+    },
+    {
+        "question": "In energy systems, what is projected in 1.5\u00b0C pathways?",
+        "option_1": "Energy service demand will be met with higher energy use.",
+        "option_2": "Energy service demand will be met with lower energy use, and faster electrification of energy end use compared to 2\u00b0C.",
+        "option_3": "Energy service demand will be met with less electrification.",
+        "answer": 2
+    },
+    {
+        "question": "In 1.5\u00b0C pathways, how does the projected use of renewables compare with that in 2\u00b0C pathways?",
+        "option_1": "They are projected to have the same share.",
+        "option_2": "They are projected to have a higher share, compared with 2\u00b0C pathways.",
+        "option_3": "They are projected to have a lower share, compared with 2\u00b0C pathways.",
+        "answer": 2
+    },
+    {
+        "question": "What is the projected range for renewables share of electricity in 2050 in 1.5\u00b0C pathways?",
+        "option_1": "50-65%",
+        "option_2": "70-85%",
+        "option_3": "90-100%",
+        "answer": 2
+    },
+    {
+        "question": "How much are CO2 emissions from industry projected to be lower in 2050 for 1.5\u00b0C compared to 2010?",
+        "option_1": "About 20-40% lower",
+        "option_2": "About 65-90% lower",
+        "option_3": "About 85-100% lower",
+        "answer": 2
+    },
+    {
+        "question": "What does the text say about the urban and infrastructure system transitions consistent with 1.5\u00b0C warming?",
+        "option_1": "They imply minimal changes to land and urban planning.",
+        "option_2": "They imply changes in land and urban planning practices, and deeper emissions reductions in transport and buildings.",
+        "option_3": "They imply no changes to any system.",
+        "answer": 2
+    },
+    {
+        "question": "In pathways limiting global warming to 1.5\u00b0C, what changes are there for agricultural land?",
+        "option_1": "A large increase in agricultural land for food and feed crops.",
+        "option_2": "A large reduction in agricultural land for food and feed crops.",
+        "option_3": "A reduction to an increase of agricultural land, depending on the model",
+        "answer": 3
+    },
+    {
+        "question": "How are energy-related investments projected to change in 1.5\u00b0C pathways compared to those without new climate policies?",
+        "option_1": "They are estimated to be about 25% lower.",
+        "option_2": "They are estimated to be about 12% higher.",
+        "option_3": "They are estimated to be about 50% lower.",
+        "answer": 2
+    },
+    {
+        "question": "How do marginal abatement costs compare between 1.5\u00b0C and below 2\u00b0C pathways?",
+        "option_1": "They are roughly the same.",
+        "option_2": "They are roughly 3-4 times higher in pathways limiting global warming to 1.5\u00b0C.",
+        "option_3": "They are roughly 3-4 times lower in pathways limiting global warming to 1.5\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": "What does the text say about the use of CDR in pathways limiting global warming to 1.5\u00b0C?",
+        "option_1": "CDR is not projected to be used in these pathways.",
+        "option_2": "CDR is projected to be used on the order of 100-1000 GtCO2 over the 21st century.",
+        "option_3": "CDR is not effective for limiting global warming",
+        "answer": 2
+    },
+    {
+        "question": "What are some examples of CDR measures?",
+        "option_1": "They include only afforestation and reforestation.",
+        "option_2": "They include afforestation, reforestation, BECCS, etc.",
+        "option_3": "They do not include land based options.",
+        "answer": 2
+    },
+    {
+        "question": "In pathways limiting global warming to 1.5\u00b0C, how much BECCS is projected to be deployed?",
+        "option_1": "It is projected to be 1-5 GtCO2 yr-1 in 2050",
+        "option_2": "It is projected to range from 0-1 to 0-16 GtCO2 yr-1 in 2030, 2050 and 2100 respectively.",
+        "option_3": "It is projected to be 2-10 GtCO2 yr-1 in 2030.",
+        "answer": 2
+    },
+    {
+        "question": "What do pathways that overshoot 1.5\u00b0C of global warming rely on?",
+        "option_1": "They rely on CDR exceeding residual CO2 emissions later in the century to return to below 1.5\u00b0C by 2100.",
+        "option_2": "They rely on continued warming above 1.5\u00b0C.",
+        "option_3": "They rely on low CDR.",
+        "answer": 1
+    },
+    {
+        "question": "What does the text say about current and potential CDR measures?",
+        "option_1": "They will have minimal impact on land, water or nutrients.",
+        "option_2": "They could have significant impacts on land, energy, water or nutrients.",
+        "option_3": "They are all very effective.",
+        "answer": 2
+    },
+    {
+        "question": "What does the text say about feasibility and sustainability of CDR use?",
+        "option_1": "It is best if a single large-scale option is deployed.",
+        "option_2": "It is best if a portfolio of options deployed at substantial, but lesser scales, is used.",
+        "option_3": "It is not relevant to be concerned about feasibility and sustainability of CDR",
+        "answer": 2
+    },
+    {
+        "question": "What co-benefits could some AFOLU-related CDR measures provide?",
+        "option_1": "They could not provide any co-benefits.",
+        "option_2": "They could improve biodiversity, soil quality, and local food security.",
+        "option_3": "They could reduce soil quality.",
+        "answer": 2
+    },
+    {
+        "question": "What do estimates of the global emissions outcome of current nationally stated mitigation ambitions lead to?",
+        "option_1": "They lead to global greenhouse gas emissions in 2030 of 5-10 GtCO2eq yr-1.",
+        "option_2": "They lead to global greenhouse gas emissions in 2030 of 30-40 GtCO2eq yr-1.",
+        "option_3": "They lead to global greenhouse gas emissions in 2030 of 52-58 GtCO2eq yr-1.",
+        "answer": 3
+    },
+    {
+        "question": "What does the text say about pathways reflecting current mitigation ambitions?",
+        "option_1": "They would limit global warming to 1.5\u00b0C.",
+        "option_2": "They would not limit global warming to 1.5\u00b0C.",
+        "option_3": "They would not limit global warming to 2\u00b0C.",
+        "answer": 2
+    },
+    {
+        "question": "What is necessary to avoid overshoot and large-scale deployment of CDR?",
+        "option_1": "CO2 emissions start to decline after 2030.",
+        "option_2": "CO2 emissions start to decline well before 2030.",
+        "option_3": "CO2 emissions increase well before 2030",
+        "answer": 2
+    },
+    {
+        "question": "According to the text, how do pathways that limit global warming to 1.5\u00b0C show emission reductions by 2030?",
+        "option_1": "They do not show emission reductions.",
+        "option_2": "They show clear emission reductions by 2030.",
+        "option_3": "They show a slight increase in emissions.",
+        "answer": 2
+    },
+    {
+        "question": "How do overshoot trajectories compare to non-overshoot trajectories?",
+        "option_1": "Overshoot trajectories result in lower impacts.",
+        "option_2": "Overshoot trajectories result in higher impacts and associated challenges.",
+        "option_3": "Overshoot trajectories have the same impact as other trajectories.",
+        "answer": 2
+    },
+    {
+        "question": "What does the text say about challenges from delayed action to reduce emissions?",
+        "option_1": "The challenges will be lower with delayed action.",
+        "option_2": "The challenges include cost escalation, lock-in in carbon-emitting infrastructure, etc.",
+        "option_3": "There are no challenges from delayed action.",
+        "answer": 2
+    },
+    {
+        "question": "How do the avoided climate change impacts compare between limiting warming to 1.5\u00b0C and 2\u00b0C?",
+        "option_1": "The impacts would be greater with 2\u00b0C.",
+        "option_2": "The impacts would be greater with 1.5\u00b0C.",
+        "option_3": "The impacts would be the same",
+        "answer": 1
+    },
+    {
+        "question": "What is required to achieve the benefits from limiting global warming?",
+        "option_1": "Mitigation and adaptation synergies should be minimized",
+        "option_2": "Trade-offs must be maximized.",
+        "option_3": "Mitigation and adaptation synergies should be maximized while trade-offs are minimized.",
+        "answer": 3
+    },
+    {
+        "question": "What do the UN Sustainable Development Goals provide according to the text?",
+        "option_1": "A framework to exacerbate issues between warming levels",
+        "option_2": "A framework for assessing the links between global warming and development goals.",
+        "option_3": "No established framework.",
+        "answer": 2
+    },
+    {
+        "question": "What does the text say about ethics and equity regarding climate change?",
+        "option_1": "They are irrelevant to climate change",
+        "option_2": "They can help address the uneven distribution of adverse impacts.",
+        "option_3": "They exacerbate uneven distribution of impacts",
+        "answer": 2
+    },
+    {
+        "question": "What is the relationship between mitigation and adaptation with limiting warming to 1.5\u00b0C according to the report?",
+        "option_1": "They are not related.",
+        "option_2": "They are undermined by enabling conditions.",
+        "option_3": "They are underpinned by enabling conditions, assessed across the geophysical, environmental-ecological, technological, economic, socio-cultural and institutional dimensions of feasibility.",
+        "answer": 3
+    },
+    {
+        "question": "What is required for adaptation options to have benefits for sustainable development and poverty reduction?",
+        "option_1": "They must be selected without consideration of national contexts.",
+        "option_2": "They must be implemented without any enabling conditions.",
+        "option_3": "They must be carefully selected together with enabling conditions.",
+        "answer": 3
+    },
+    {
+        "question": "How does the text describe adaptation options that reduce vulnerability?",
+        "option_1": "They have minimal synergies with sustainable development.",
+        "option_2": "They have many synergies with sustainable development, if well managed.",
+        "option_3": "They hinder any progress towards sustainable development",
+        "answer": 2
+    },
+    {
+        "question": "What can be a negative consequence of poorly designed adaptation projects?",
+        "option_1": "They can decrease greenhouse gas emissions.",
+        "option_2": "They can increase greenhouse gas emissions and water use.",
+        "option_3": "They will not cause any issues.",
+        "answer": 2
+    },
+    {
+        "question": "What do the adaptation and mitigation options to limit global warming need to be?",
+        "option_1": "They should be implemented in a siloed and uncoordinated manner.",
+        "option_2": "They should be implemented in a participatory and integrated manner.",
+        "option_3": "They should be focused only on urban areas.",
+        "answer": 2
+    },
+    {
+        "question": "How do mitigation options relate to synergies and trade-offs across the SDGs?",
+        "option_1": "They have no synergies or trade-offs.",
+        "option_2": "They are associated with multiple synergies and trade-offs.",
+        "option_3": "They are only associated with trade-offs.",
+        "answer": 2
+    },
+    {
+        "question": "What SDGs have robust synergies with 1.5\u00b0C pathways?",
+        "option_1": "Only SDG 7",
+        "option_2": "SDGs 3, 7, 11, 12 and 14",
+        "option_3": "They all have robust synergies",
+        "answer": 2
+    },
+    {
+        "question": "What kind of pathways have the most pronounced synergies with respect to sustainable development and the SDGs?",
+        "option_1": "Pathways that include high energy demand.",
+        "option_2": "Pathways that include low energy demand.",
+        "option_3": "Pathways that have no concern for energy demand.",
+        "answer": 2
+    }
+]

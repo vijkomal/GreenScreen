@@ -1,86 +1,38 @@
-"Gemini Credits Needed"
-
 import google.generativeai as genai
 import json
 import dataclasses
 import typing_extensions as typing
 import os
+import time
 
 # config genAI
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # upload sample file
-sample_file = genai.upload_file(path="GreenScreen/IPCC_AR6_SYR_SPM.pdf", display_name="Sample Paper")
+sample_file = genai.upload_file(path="GreenScreen/data/IPCC_SPM_2018.pdf", display_name="Sample Paper")
 file = genai.get_file(name=sample_file.name)
 
-"""
-This function's aim is to filter the generated questions by groundedness, relevance, and standalone qualities.
-"""
-def filter_question(question, context, prompt_type):
-    # Define the prompt based on the type
-    if prompt_type == 'groundedness':
-        prompt = f"""
-        You will be given a context and a question.
-        Your task is to score how well the question can be answered with the given context.
-        Give your answer on a scale of 1 to 5, where 1 means not answerable at all and 5 means clearly answerable.
+# config model 
+model = genai.GenerativeModel("gemini-2.0-flash-exp", generation_config={"response_mime_type": "application/json"})
+prompt = """List 70 very specific multiple choice questions (with three answers) and the answer itself (where the answer is the number corresponding to the option choice) based on this file's contents. 
+Ask questions that are directly relevant to the overall message of the file. They should be relevant to the topic and related to climate change. Someone should learn something useful and relevant from 
+this question. Do not ask about the authors at all or about particular page numbers. We want questions about the actual content related to climate change. For example, 
+"what would Deep,  rapid,  and  sustained  reductions  in  greenhouse  gas  emissions lead to?" Ensure that the answer is an integer. 
+Use this JSON schema: Make sure every string is enclosed in quotes properly. 
 
-        Question: {question}
-        Context: {context}
-        Answer:::
-        """
-    elif prompt_type == 'relevance':
-        prompt = f"""
-        You will be given a question.
-        Your task is to rate how useful this question is for someone trying to understand the underlying message of the paper.
-        Rate it from 1 to 5.
+QA = {'question': str, 'option_1': str, 'option_2': str, 'option_3': str, 'answer': int}
+Return: list[QA]"""
 
-        Question: {question}
-        Answer:::
-        """
-    elif prompt_type == 'standalone':
-        prompt = f"""
-        You will be given a question.
-        Rate how independent this question is, meaning if it makes sense without additional context.
-        Rate from 1 to 5.
+# save as json file and create QA bank 
+raw_response = model.generate_content([prompt, sample_file])
+response = json.loads(raw_response.text)
+output_file_title = 'QA_bank_2018_v2.json'
+print("Creating QA bank file. . .\n")
+with open(output_file_title, 'w') as f:
+    json.dump(response, f, indent=4)
 
-        Question: {question}
-        Answer:::
-        """
-
-    # Call the model
-    model = genai.GenerativeModel("gemini-2.0-flash-exp", generation_config={"response_mime_type": "text/plain"})
-    response = model.generate_content(prompt)
-    return response.text
-
-
-# # config model 
-# model = genai.GenerativeModel("gemini-2.0-flash-exp", generation_config={"response_mime_type": "application/json"})
-# prompt = """List 100 very specific question answer pairs based on this file's contents using this JSON schema:
-
-# QA = {'Question': str, 'Answer': str}
-# Return: list[QA]"""
-
-# perform filteration using separate model
-
-# save as json file 
-# raw_response = model.generate_content([prompt, sample_file])
-# response = json.loads(raw_response.text)
-# print("Creating QA bank file. . .\n")
-# with open('QA_bank.json', 'w') as f:
-#     json.dump(response, f, indent=4)
-with open('QA_bank.json', 'r') as f:
+# open and read json file 
+with open(output_file_title, 'r') as f:
     # file_contents = f.read()
     data = json.load(f)
-counter = 0
-
-# parse and filter questions
-for item in data: 
-    question = item['Question']
-    prompt_type = 'groundedness'
-    print(filter_question(question, file, prompt_type))
-    counter += 1
-    if counter == 5: break
-    
-
-
