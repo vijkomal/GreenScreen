@@ -1,7 +1,7 @@
 from pylatex import Document, Section, Command
 from pylatex.utils import NoEscape
 import os
-from slides import Slide
+from .slides import Slide
 
 
 class Presentation:

@@ -75,6 +75,14 @@ class ReportReader:
         )
         return report
 
+    def get_report_from_object(self, pdf_object, title):
+        reader = PdfReader(pdf_object)
+        text = self._extract_text(reader)
+        sections = self.get_labeled_sections(text)
+
+        report = Report(filepath=None, display_name=title, text=text, sections=sections)
+        return report
+
     def process_section(self, section: str):
         """Returns json object about the section"""
         return

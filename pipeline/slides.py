@@ -8,7 +8,8 @@ from dataclasses import dataclass
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 import numpy as np
-from utils import get_prompt
+
+from .utils import get_prompt
 import time
 
 nltk.download("punkt")
