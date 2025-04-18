@@ -1,4 +1,4 @@
-# 🍃📺 GreenScreen
+# 🍃📺 GreenScreen: Automatic Accessible Presentation Generation from IPCC Reports
 
 [[ICLR Workshop Paper (coming soon!)]]()
 [[Notebook example]]()
@@ -12,7 +12,7 @@ The Intergovernmental Panel on Climate Change (IPCC) Summary for Policymakers (S
 ## ⚙️ Pipeline
 
 <div style="display: flex;">
-	<img src="https://github.com/kvcs11/GreenScreen/blob/main/assets/pipeline.png" height="500" />
+	<img src="https://github.com/kvcs11/GreenScreen/blob/main/assets/pipeline.png"/>
 </div>
 
 GreenScreen has three main components: 
