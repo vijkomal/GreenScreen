@@ -1,4 +1,4 @@
-# 🍃📺 GreenScreen: Automatic Accessible Presentation Generation from IPCC Reports
+# 🌿📺 GreenScreen: Automatic Accessible Presentation Generation from IPCC Reports
 
 [[ICLR Workshop Paper (coming soon!)]]()
 [[Notebook example]]()
