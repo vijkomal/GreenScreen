@@ -75,6 +75,7 @@ Any contributions you make are greatly appreciated. If you have a suggestion tha
 ## 📬 Contact
 
 Alice Heiman - aheiman [at] stanford [dot] edu
+Komal Vij - komalvij [at] stanford [dot] edu
 
 ## 🔖 License
 
